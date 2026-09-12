@@ -1,0 +1,25 @@
+# Obsidian machine-specific state
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache/
+.trash/
+
+# OS noise
+.DS_Store
+Thumbs.db
+
+# Secrets
+.env
+.env.*
+*.key
+*.pem
+*.p12
+*.pfx
+
+# Sensitive profile
+00_Profile/sensitive-user-review-required.md
+
+# Temporary files
+*.tmp
+*.swp
+*~
