@@ -2,7 +2,7 @@
 type: agent-system
 project: "Hermes"
 status: active
-last_updated: 2026-09-12
+last_updated: 2026-09-13
 confidence: high
 ---
 
@@ -37,7 +37,7 @@ confidence: high
 - Env: `OBSIDIAN_VAULT_PATH=/opt/data/obsidian-vault`
 - Volume: `./data:/opt/data`
 - Read/mount test succeeded with `Hermes-Test.md`.
-- TODO confirm Hermes skill write test if not already completed.
+- ✅ Hermes read/write access to the canonical vault is verified; scheduled curation can update notes under `/opt/data/obsidian-vault`.
 
 ## Codex
 

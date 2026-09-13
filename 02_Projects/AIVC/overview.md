@@ -2,7 +2,7 @@
 type: project-overview
 project: "AIVC"
 status: active
-last_updated: 2026-09-12
+last_updated: 2026-09-13
 confidence: high
 ---
 
@@ -43,3 +43,5 @@ Main interests:
 - [[02_Projects/AIVC/environment-and-paths|Environment and paths]]
 - [[02_Projects/AIVC/errors-and-fixes|Errors and fixes]]
 - [[02_Projects/AIVC/todo-and-next-actions|TODO and next actions]]
+- [[02_Projects/AIVC/reviews/2026-09-12-NIA-K99-study-section-review|NIA K99 study-section review — 2026-09-12]]
+- [[09_Planning/weekly-strategies/2026-09-13-AIVC-GeneBridge-weekly-strategy|Weekly research strategy — 2026-09-13]]

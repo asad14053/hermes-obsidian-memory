@@ -43,3 +43,7 @@ Build a local-first automated reel/photo-card factory on Windows using local/ope
 - [[02_Projects/ReelFactory/environment-and-paths|Environment and paths]]
 - [[02_Projects/ReelFactory/errors-and-fixes|Errors and fixes]]
 - [[02_Projects/ReelFactory/todo-and-next-actions|TODO and next actions]]
+
+## Next production candidate
+
+- [[02_Projects/ReelFactory/production-candidates/2026-09-12-bangladesh-cyber-law|Bangladesh's cyber-law test: protection or another speech-control tool?]]

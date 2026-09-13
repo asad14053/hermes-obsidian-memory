@@ -2,21 +2,18 @@
 type: todo
 project: "GeneBridge"
 status: active
-last_updated: 2026-09-12
+last_updated: 2026-09-13
 confidence: medium
 ---
 
 # GeneBridge — TODO and Next Actions
 
-- TODO Verify latest final imputation-method set and benchmark table.
-- TODO Reconfirm complete 24-donor Xenium list from metadata.
-- TODO Keep donor-level, layer/domain-level, and cell-type DE clearly separated.
-- TODO Finalize paper concordance:
-  - genes tested,
-  - nominal p<0.05,
-  - FDR<0.10,
-  - direction concordance,
-  - logFC Spearman/Pearson.
-- TODO Reconcile paper-highlighted SCZ genes with the 300-gene panel and expanded gene universe.
-- TODO Record exact model formula/covariates for every downstream figure.
-- TODO Validate all final presentation/publication numbers from current files, not memory.
+## Priority — Lock the evidence package
+
+- TODO Rebuild the canonical method table from current outputs; verify the final method panel and versions rather than assuming the remembered six-method list.
+- TODO Reconfirm the complete 24-donor reference list, 23-donor analysis cohort, Br6432 exclusion, and all fold manifests from metadata/current files.
+- TODO Freeze one estimable donor-by-layer diagnosis formula, repeated-donor handling, normalization, contrast, and multiple-testing universe; do not include both run and slide unless the design matrix is full-rank.
+- TODO For every held-out Xenium gene in all three folds, compare measured versus imputed SCZ effect estimates on the same 161 donor-by-layer units.
+- TODO Report log-fold-change Spearman correlation, sign concordance, calibration/RMSE, discovery overlap, and donor-level diagnosis-permutation false-positive behavior.
+- TODO Keep donor-level, layer/domain-level, and cell-type claims separate and harmonize the tested gene universe before comparison with bioRxiv DOI `10.64898/2026.02.16.706214`.
+- TODO Update [[02_Projects/GeneBridge/experiments-and-results|Experiments and Results]] only from canonical current files; historical DE counts and ENVI's lead remain ⚠️ VERIFY until then.
