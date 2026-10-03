@@ -2,7 +2,7 @@
 type: project-overview
 project: "ReelFactory"
 status: active
-last_updated: 2026-09-12
+last_updated: 2026-09-27
 confidence: high
 ---
 
@@ -46,4 +46,13 @@ Build a local-first automated reel/photo-card factory on Windows using local/ope
 
 ## Next production candidate
 
+- [[02_Projects/ReelFactory/production-candidates/2026-09-27-openai-alert-to-stop-gap|AI-এর নিয়মভাঙা ধরা পড়ল। রান থামতে এত দেরি কেন?]]
+
+## Research backlog
+
+- [[02_Projects/ReelFactory/production-candidates/2026-09-26-cellaudit-input-use|তথ্য বদলালেও একই ফল: AI আসলে কী শিখেছে?]]
+
+- [[02_Projects/ReelFactory/production-candidates/2026-09-20-chatgpt-sponsored-agents|ChatGPT-তে বিজ্ঞাপন এখন আপনার সঙ্গে কথা বলবে?]]
+
+- [[02_Projects/ReelFactory/production-candidates/2026-09-19-firesat-ai-wildfire-detection|FireSat: আগুন ছড়ানোর আগেই কি AI স্যাটেলাইট দেখে ফেলবে?]]
 - [[02_Projects/ReelFactory/production-candidates/2026-09-12-bangladesh-cyber-law|Bangladesh's cyber-law test: protection or another speech-control tool?]]

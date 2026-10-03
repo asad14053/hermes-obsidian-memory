@@ -2,7 +2,7 @@
 type: profile
 project: ""
 status: active
-last_updated: 2026-09-12
+last_updated: 2026-09-26
 confidence: high
 ---
 
@@ -38,3 +38,11 @@ confidence: high
   - GNN/transformers,
   - perturbation-response modeling,
   - AI Virtual Cell.
+
+## Faculty-search positioning (confirmed 2026-09-25)
+
+- Primary identity: **AI/ML for Genomics & Neurobiology — developing generalizable computational models of human cellular systems, tissue organization, and disease.**
+- Natural departmental homes: Biomedical Engineering, Biomedical Informatics/Data Science, Computational Biology/Genomics, Systems Biology, and interdisciplinary AI for Science/Health.
+- Human Genetics remains a fit when the search is explicitly computational, statistical, or ML/AI-oriented.
+- Treat CS/ECE as selective: an application needs a clear generalizable methodological contribution beyond applying ML to schizophrenia or spatial transcriptomics.
+- Keep evidence levels explicit: schizophrenia/GeneBridge and current computational-genomics work are demonstrated; AIVC, perturbation modeling, aging/AD, and biological foundation models are emerging or future directions.

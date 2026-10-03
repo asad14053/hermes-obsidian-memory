@@ -1,0 +1,5 @@
+# This directory is a Syncthing folder marker.
+# Do not delete.
+
+folderID: hermes-obsidian
+created: 2026-09-13T03:14:42Z

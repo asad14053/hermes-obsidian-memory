@@ -2,9 +2,9 @@
 type: youtube-production-candidate
 project: "ReelFactory"
 channel: "DeshChinta"
-status: next-production-candidate
+status: research-backlog
 created: 2026-09-12
-last_updated: 2026-09-12
+last_updated: 2026-09-19
 confidence: medium
 credibility_risk: medium
 viral_potential: 9

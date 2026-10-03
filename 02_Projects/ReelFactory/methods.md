@@ -2,7 +2,7 @@
 type: methods
 project: "ReelFactory"
 status: active
-last_updated: 2026-09-12
+last_updated: 2026-10-03
 confidence: high
 ---
 
@@ -29,3 +29,9 @@ confidence: high
 
 - ✅ DECISION: audio/TTS switchable off without regenerating script/assets.
 - Preferred control: `--no-audio` or `audio.enabled=false`.
+
+## Evidence and claim discipline
+
+- For incident coverage, separate **prevention**, **detection**, and **response**. Attribute vendor-reported facts and remediation claims; do not infer intent, exposure, scope, or root cause beyond the source.
+- For scientific/model coverage, distinguish **predictive score**, **output sensitivity to an input**, and the input's **incremental predictive value**.
+- Describe preprint results as author-reported unless independently reproduced. Do not present PCC as accuracy, attention as mechanism, a model-input replacement as a biological intervention, or an illustrative animation as a reproduction.
