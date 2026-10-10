@@ -2,7 +2,7 @@
 type: project-overview
 project: "AIVC"
 status: active
-last_updated: 2026-10-03
+last_updated: 2026-10-06
 confidence: high
 ---
 
@@ -47,7 +47,10 @@ Main interests:
 - [[02_Projects/AIVC/errors-and-fixes|Errors and fixes]]
 - [[02_Projects/AIVC/todo-and-next-actions|TODO and next actions]]
 - [[02_Projects/AIVC/literature/important-literature|Curated important literature]]
-- [[02_Projects/AIVC/reviews/2026-09-27-NIA-K99-study-section-review|Latest NIA K99 study-section review — 2026-09-27]]
+- [[02_Projects/AIVC/reviews/2026-10-06-NIA-K99-study-section-review|Latest NIA K99 study-section review — 2026-10-06]]
+- [[02_Projects/AIVC/reviews/2026-10-04-NIA-K99-study-section-review|NIA K99 study-section review — 2026-10-04]]
+- [[02_Projects/AIVC/reviews/2026-10-03-NIA-K99-study-section-review|NIA K99 study-section review — 2026-10-03]]
+- [[02_Projects/AIVC/reviews/2026-09-27-NIA-K99-study-section-review|NIA K99 study-section review — 2026-09-27]]
 - [[02_Projects/AIVC/reviews/2026-09-26-NIA-K99-study-section-review|NIA K99 study-section review — 2026-09-26]]
 - [[02_Projects/AIVC/reviews/2026-09-20-NIA-K99-study-section-review|NIA K99 study-section review — 2026-09-20]]
 - [[02_Projects/AIVC/reviews/2026-09-19-NIA-K99-study-section-review|Previous NIA K99 study-section review — 2026-09-19]]

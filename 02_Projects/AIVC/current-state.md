@@ -2,7 +2,7 @@
 type: project-state
 project: "AIVC"
 status: active
-last_updated: 2026-09-23
+last_updated: 2026-10-10
 confidence: medium
 ---
 
@@ -26,9 +26,10 @@ confidence: medium
 - The PDF proposes 20 μm cell-type-stratified distance-weighted neighborhoods, attention-based activity prediction, and identity-matched environment-swap validation. The image proposes a richer multimodal, multi-scale conditional-VAE extension and explicit donor-held-out tests. Neither was designated to replace the other.
 - The image explicitly includes SCZ/NTC brain context; the broad PDF does not mandate a disease. Prior NIA aging/AD recommendations remain application-specific assistant proposals, not an approved replacement of the user's research scope.
 
-### Prior review context — September 20, 2026
+### Latest review context — October 6, 2026
 
-- No frozen prediction estimand, primary aging/AD perturbation dataset, external validation dataset, leakage-resistant fold manifest, or AIVC baseline result is documented.
-- No prospective perturbation validation, aging/AD functional endpoint, or defined K99 career-development plan is documented.
-- The 2026-09-20 NIA K99 review again rated the current concept Overall Impact 8/9 and **STAGNANT**: no new scientific result, premise artifact, dataset pair, baseline, context ablation, external validation, or training/independence plan is documented. Recent literature raises the novelty and benchmark-overfitting bar but does not add project evidence. This is a reviewer-style assessment, not a scientific result.
-- ? UNCERTAIN The canonical goal remains SCZ-centered, while the NIA review and 2026-09-13 weekly strategy require aging/AD to be the organizing question for an NIA application. No permanent disease-focus change has been approved.
+- The latest [[02_Projects/AIVC/reviews/2026-10-06-NIA-K99-study-section-review|NIA K99 review]] remains **Overall Impact 8/9 — STAGNANT** for application readiness. This is a reviewer-style assessment, not a scientific result.
+- No executable aging/AD question, frozen premise artifact, AIVC benchmark result, intervention-validation access, or committed training/independence package is documented.
+- The October 5 weekly strategy sharpened deliverables but did not add completed evidence. A full-rank design is necessary for algebraic estimability but does not establish causal identification, adequate overlap, or freedom from hidden confounding.
+- The next decision remains a bounded aging/AD premise-and-access audit ending in **commit/no-go**. If no eligible system exists, document the minimum collaborator-generated pilot rather than relabeling SCZ data.
+- ? UNCERTAIN The canonical goal remains SCZ-centered, while an aging/AD branch is being evaluated for NIA fit. No permanent disease-focus change has been approved.

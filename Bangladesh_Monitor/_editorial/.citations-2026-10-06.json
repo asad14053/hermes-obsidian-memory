@@ -1,0 +1,79 @@
+{
+  "version": 1,
+  "sources": [
+    {
+      "id": 1,
+      "url": "https://www.thedailystar.net/business/news/banking-rot-energy-crisis-choke-growth-wb-4291786",
+      "title": "Banking rot, energy crisis to choke growth: WB",
+      "accessed": "2026-10-06"
+    },
+    {
+      "id": 2,
+      "url": "https://www.worldbank.org/en/news/press-release/2026/04/08/urgent-reforms-needed-to-restore-macro-stability-sustain-growth-and-create-jobs-in-bangladesh",
+      "title": "World Bank Bangladesh Development Update, April 2026",
+      "accessed": "2026-10-06"
+    },
+    {
+      "id": 3,
+      "url": "https://www.hrw.org/news/2026/10/05/bangladeshi-police-round-up-opposition-supporters",
+      "title": "HRW: Bangladeshi Police Round Up Opposition Supporters",
+      "accessed": "2026-10-06"
+    },
+    {
+      "id": 4,
+      "url": "https://www.thedailystar.net/news/crime-justice/news/289-detained-jasod-office-over-alleged-al-links-4283861",
+      "title": "289 detained at Jasod office over alleged AL links",
+      "accessed": "2026-10-06"
+    },
+    {
+      "id": 5,
+      "url": "https://www.thedailystar.net/news/bangladesh/news/27-sent-jail-after-jasod-office-raid-4284636",
+      "title": "27 sent to jail after Jasod office raid",
+      "accessed": "2026-10-06"
+    },
+    {
+      "id": 6,
+      "url": "https://pppo.gov.bd/projects-Operation-and-Maintenance-of-CPAs-New-Mooring-Container-Terminal.php",
+      "title": "PPP Authority: NCT project profile",
+      "accessed": "2026-10-06"
+    },
+    {
+      "id": 7,
+      "url": "https://publisher.tbsnews.net/bangladesh/ctg-port-workers-threaten-halt-operations-over-new-mooring-terminal-deal-1563201",
+      "title": "Ctg port workers threaten shutdown over NCT deal",
+      "accessed": "2026-10-06"
+    },
+    {
+      "id": 8,
+      "url": "https://www.thedailystar.net/business/news/govt-approves-15-year-deal-hand-over-chattogram-ports-nct-foreign-operator-4288106",
+      "title": "Government approves 15-year NCT draft concession",
+      "accessed": "2026-10-06"
+    },
+
+    {
+      "id": 10,
+      "url": "https://www.tbsnews.net/economy/energy/442mw-rampal-solar-project-awaits-ecnec-approval-1563501",
+      "title": "442MW Rampal solar project awaits ECNEC",
+      "accessed": "2026-10-06"
+    },
+    {
+      "id": 11,
+      "url": "https://www.bssnews.net/news-flash/423732",
+      "title": "BSS: ECNEC approval expected for Rampal solar",
+      "accessed": "2026-10-06"
+    },
+
+    {
+      "id": 13,
+      "url": "https://www.tbsnews.net/bangladesh/environment/oil-sludge-sangu-river-environment-dept-take-legal-action-against-power-plant",
+      "title": "DoE enforcement over Sangu oil sludge",
+      "accessed": "2026-10-06"
+    },
+    {
+      "id": 14,
+      "url": "https://www.dhakapost.com/national/486745",
+      "title": "Dhaka Post field report on oil sludge",
+      "accessed": "2026-10-06"
+    }
+  ]
+}

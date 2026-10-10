@@ -1,0 +1,9 @@
+period,category,market_level,low_tk_per_kg,high_tk_per_kg,source_url,retrieval_date
+2026-08-31,Domestic onion,Wholesale,25,45,https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-dam/2026/7/0701b54b-acc4-40dc-aa1c-8cb1555b3587.pdf,2026-10-06
+2026-09-30,Domestic onion,Wholesale,28,45,https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-dam/2026/8/b60dccf8-19a5-4573-89a8-eba1c4e5ab93.pdf,2026-10-06
+2026-08-31,Domestic onion,Retail,45,60,https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-dam/2026/7/0701b54b-acc4-40dc-aa1c-8cb1555b3587.pdf,2026-10-06
+2026-09-30,Domestic onion,Retail,45,55,https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-dam/2026/8/b60dccf8-19a5-4573-89a8-eba1c4e5ab93.pdf,2026-10-06
+2026-08-31,Potato,Wholesale,15,20,https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-dam/2026/7/0701b54b-acc4-40dc-aa1c-8cb1555b3587.pdf,2026-10-06
+2026-09-30,Potato,Wholesale,15,21,https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-dam/2026/8/b60dccf8-19a5-4573-89a8-eba1c4e5ab93.pdf,2026-10-06
+2026-08-31,Potato,Retail,25,30,https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-dam/2026/7/0701b54b-acc4-40dc-aa1c-8cb1555b3587.pdf,2026-10-06
+2026-09-30,Potato,Retail,25,30,https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-dam/2026/8/b60dccf8-19a5-4573-89a8-eba1c4e5ab93.pdf,2026-10-06

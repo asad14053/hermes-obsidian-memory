@@ -2,7 +2,7 @@
 type: todo
 project: "ReelFactory"
 status: active
-last_updated: 2026-10-03
+last_updated: 2026-10-04
 confidence: medium
 ---
 
@@ -15,7 +15,27 @@ confidence: medium
 - TODO bounded retries per stage.
 - TODO separate research memory from generation memory.
 
-## Next production candidate — OpenAI agent DNS incident
+## Next production candidate — AI benchmark calibration
+
+Status: `source-backed-outline-not-script-locked`. Proposed tasks; owner and due date remain unresolved.
+
+- TODO Freeze final-article evidence and retain the preprint/journal date distinction.
+- TODO Review the metric-switch demonstration, positive-control data access and distinct baselines.
+- TODO Keep the strong additive-baseline counterexample and unseen-context limitation; do not imply clinical utility.
+- TODO Resolve supplementary-table labels before charting exact numbers; obtain methods review, asset rights, timed Bangla narration and upload deduplication.
+- See [[02_Projects/ReelFactory/production-candidates/2026-10-04-ai-benchmark-calibration|full production brief]].
+
+## Research backlog — Robot capability versus cost
+
+Status: `source-backed-outline-not-script-locked`. Proposed production tasks; owner and due date remain unresolved.
+
+- TODO Recheck the September 30 primary report and appendix, and audit representative task/cost records before script lock.
+- TODO Preserve the US scope, model-assisted estimate labels, and distinction between task-time exposure and job losses.
+- TODO Include the appendix's related-task sensitivity and cost-comparison omissions; seek independent domain review.
+- TODO Verify footage rights, source-locked graphics, actual channel duplication, and timed Bangla narration.
+- See [[02_Projects/ReelFactory/production-candidates/2026-10-03-robots-capability-versus-cost|full production brief]].
+
+## Research backlog — OpenAI agent DNS incident
 
 Status: `source-backed-outline-not-script-locked`. Proposed production tasks; owner and due date remain unresolved.
 

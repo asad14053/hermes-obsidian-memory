@@ -1,0 +1,149 @@
+{
+  "version": 1,
+  "sources": [
+    {
+      "id": 1,
+      "url": "https://dam.gov.bd/pages/monthly-reports/wholesale-and-retail-market-prices-of-onions-and-potatoes-zeq0oi-6a69c79926a072a44ede0379",
+      "title": "পেঁয়াজ ও আলুর পাইকারী ও খুচরা বাজারদর",
+      "accessed": "2026-10-06"
+    },
+    {
+      "id": 2,
+      "url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-dam/2026/8/b60dccf8-19a5-4573-89a8-eba1c4e5ab93.pdf",
+      "title": "Dhaka onion and potato wholesale/retail market prices — 30 September 2026",
+      "accessed": "2026-10-06"
+    },
+    {
+      "id": 3,
+      "url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-dam/2026/7/0701b54b-acc4-40dc-aa1c-8cb1555b3587.pdf",
+      "title": "Dhaka onion and potato wholesale/retail market prices — 31 August 2026",
+      "accessed": "2026-10-06"
+    },
+    {
+      "id": 4,
+      "url": "https://bbs.gov.bd/pages/news/inflation-871-march-2026-food-national-824-march-2026-non-food-national-909-march-2026-z9yjkc-69d22feef7ec7f3c3f62fa07",
+      "title": "Inflation: 8.26% (August 2026); Food 7.02%; Non-food 9.32%",
+      "accessed": "2026-10-06"
+    },
+    {
+      "id": 5,
+      "url": "https://bbs.gov.bd/pages/news/rural-inflation-872-march-2026-urban-inflation-868-march-2026-db6lis-69d230069d736d71f1a3b8d1",
+      "title": "Rural inflation 8.31% and urban inflation 8.20% — August 2026",
+      "accessed": "2026-10-06"
+    },
+    {
+      "id": 6,
+      "url": "https://www.bb.org.bd/pub/monthly/econtrds/etsep26.pdf",
+      "title": "Monthly Economic Trends — September 2026",
+      "accessed": "2026-10-06"
+    },
+    {
+      "id": 7,
+      "url": "https://imed.gov.bd/pages/reports/6ab11075390327d37a286ac3",
+      "title": "জুলাই-আগস্ট'২০২৬ পর্যন্ত এডিপি বাস্তবায়ন অগ্রগতি",
+      "accessed": "2026-10-06"
+    },
+    {
+      "id": 8,
+      "url": "https://www.bb.org.bd/en/index.php/publication/publictn/3/56",
+      "title": "Monthly Report on Agricultural and Rural Financing archive",
+      "accessed": "2026-10-06"
+    },
+    {
+      "id": 9,
+      "url": "https://www.bb.org.bd/en/index.php/publication/publictn/3/96",
+      "title": "Agricultural and Non-Farm Rural Credit Position archive",
+      "accessed": "2026-10-06"
+    },
+    {
+      "id": 10,
+      "url": "https://www.fao.org/giews/countrybrief/country.jsp?code=BGD&form=MG0AV3",
+      "title": "Country Brief: Bangladesh",
+      "accessed": "2026-10-06"
+    },
+    {
+      "id": 11,
+      "url": "https://www.worldbank.org/en/news/press-release/2026/06/15/smarter-agricultural-public-spending-is-key-to-jobs-productivity-and-resilience-in-bangladesh",
+      "title": "Smarter Agricultural Public Spending is Key to Jobs, Productivity and Resilience in Bangladesh",
+      "accessed": "2026-10-06"
+    },
+    {
+      "id": 12,
+      "url": "https://www.worldbank.org/en/news/press-release/2026/06/26/bangladesh-world-bank-provides-1-1-billion-emergency-support-to-safeguard-food-security-livelihoods",
+      "title": "Bangladesh: World Bank Provides $1.1 Billion Emergency Support to Safeguard Food Security, Livelihoods",
+      "accessed": "2026-10-06"
+    },
+    {
+      "id": 13,
+      "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P517487",
+      "title": "Emergency Support for Food Security — P517487",
+      "accessed": "2026-10-06"
+    },
+    {
+      "id": 14,
+      "url": "https://bangla.bdnews24.com/economy/cfc83897f2c8",
+      "title": "সারের সংকট নেই, বরং চাহিদার অতিরিক্ত মজুত আছে: কৃষিমন্ত্রী",
+      "accessed": "2026-10-06"
+    },
+    {
+      "id": 15,
+      "url": "https://www.prothomalo.com/bangladesh/mtdnwu1uac",
+      "title": "সরকারের গুদামে সার আছে, সমস্যা বিতরণে",
+      "accessed": "2026-10-06"
+    },
+    {
+      "id": 16,
+      "url": "https://www.tbsnews.net/bangladesh/farmers-face-fertiliser-squeeze-amid-distribution-failures-1525141",
+      "title": "Farmers face fertiliser squeeze amid distribution failures",
+      "accessed": "2026-10-06"
+    },
+    {
+      "id": 17,
+      "url": "https://www.tbsnews.net/features/panorama/fertiliser-shortage-first-phase-looming-crisis-1525391",
+      "title": "Fertiliser shortage: First phase of a looming crisis?",
+      "accessed": "2026-10-06"
+    },
+    {
+      "id": 18,
+      "url": "https://www.bssnews.net/news-flash/416224",
+      "title": "CCGP approves LNG, fertiliser imports proposals",
+      "accessed": "2026-10-06"
+    },
+    {
+      "id": 19,
+      "url": "https://moa.gov.bd/pages/policies/%E0%A6%B8%E0%A6%BE%E0%A6%B0-%E0%A6%A1%E0%A6%BF%E0%A6%B2%E0%A6%BE%E0%A6%B0-%E0%A6%A8%E0%A6%BF%E0%A7%9F%E0%A7%8B%E0%A6%97-%E0%A6%93-%E0%A6%B8%E0%A6%BE%E0%A6%B0-%E0%A6%AC%E0%A6%BF%E0%A6%A4%E0%A6%B0%E0%A6%A3-%E0%A6%B8%E0%A6%82%E0%A6%95%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%A4-%E0%A6%B8%E0%A6%AE%E0%A6%A8%E0%A7%8D%E0%A6%AC%E0%A6%BF%E0%A6%A4-%E0%A6%A8%E0%A7%80%E0%A6%A4%E0%A6%BF%E0%A6%AE%E0%A6%BE%E0%A6%B2%E0%A6%BE-%E0%A7%A8%E0%A7%A6%E0%A7%A8%E0%A7%AC-%E0%A6%AC%E0%A6%BE%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A6%AC%E0%A6%BE%E0%A7%9F%E0%A6%A8-6r6rvr-6a942df4ee91f75135ebfbc3",
+      "title": "সার ডিলার নিয়োগ ও সার বিতরণ সংক্রান্ত সমন্বিত নীতিমালা ২০২৬ বাস্তবায়ন",
+      "accessed": "2026-10-06"
+    },
+    {
+      "id": 20,
+      "url": "https://bigd.bracu.ac.bd/publications/food-price-hikes-in-bangladesh-causes-and-consequences",
+      "title": "Food Price Hikes in Bangladesh: Causes and Consequences",
+      "accessed": "2026-10-06"
+    },
+    {
+      "id": 21,
+      "url": "https://www.adb.org/outlook/editions/july-2026",
+      "title": "Asian Development Outlook — July 2026",
+      "accessed": "2026-10-06"
+    },
+    {
+      "id": 22,
+      "url": "https://cpd.org.bd/publication/bangladesh-macroeconomic-pulse-volume-2-issue-1",
+      "title": "Bangladesh Macroeconomic Pulse — Volume 2, Issue 1",
+      "accessed": "2026-10-06"
+    },
+    {
+      "id": 23,
+      "url": "https://microdata.worldbank.org/index.php/catalog/6164/study-description",
+      "title": "Bangladesh Real Time Food Prices",
+      "accessed": "2026-10-06"
+    },
+    {
+      "id": 24,
+      "url": "https://imed.gov.bd",
+      "title": "IMED homepage — FY2026-27 ADP financial progress",
+      "accessed": "2026-10-06"
+    }
+  ]
+}

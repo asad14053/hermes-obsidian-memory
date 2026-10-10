@@ -2,7 +2,7 @@
 type: open-loops
 project: ""
 status: active
-last_updated: 2026-10-03
+last_updated: 2026-10-10
 confidence: medium
 ---
 
@@ -25,15 +25,23 @@ confidence: medium
 - TODO decide official dashboard vs Hermes Workspace.
 - TODO validate final routing YAML against installed Hermes version.
 - TODO verify no direct public Hermes port remains.
-- TODO rotate the Google OAuth Desktop client credentials and reauthorize Calendar; the client secret was removed from saved transcripts on 2026-09-26, but prior copies or backups may still retain it.
-- TODO restore the Git backup: confirm the intended deploy-key identity, reconcile the expected public key with `/opt/data/.ssh/id_ed25519`, rerun the backup, and verify the remote commit. Latest verified backup remains `c6865a7` from 2026-09-13.
+- TODO Verify the October 10 weekly Git backup completed and that `origin/main` advanced beyond `d3f1b3d`; the latest verified remote backup remains October 3 while newer vault content exists.
+- TODO Verify live Telegram connectivity; health checks on October 7 and 9 found failed API events with no later recovery logged, while persisted `connected` state may be stale.
+- TODO Diagnose missing web/vault tools and repeated-search loops in scheduled jobs; verify the cron execution profile exposes required tools and add fail-fast fallback behavior.
 - ? UNCERTAIN confirm whether `Morning Brief` should stay fixed at 12:00 UTC (8:00 AM EDT / 7:00 AM EST) or run at one local America/Atlanta time year-round.
 
 ## Career / faculty jobs
 
-- TODO Triage Brown before the October 15 full-consideration target and UCI before the conditional October 31 final-acceptance date; recheck both live portals first.
+- TODO Triage Brown before the October 15 full-consideration target; recheck the live portal and deadline year first.
+- TODO Triage Harvard/DFCI before the October 31 deadline, Columbia and Washington before their November 1 priority dates, and Penn before November 23; verify every portal immediately before investing in an application.
+- TODO Verify Yale's deadline and exact tenure-track appointment; the opportunity is officially listed open, but an official deadline was not recovered.
+- ⚠️ VERIFY whether UCI is still accepting applications before its conditional October 31 final-acceptance date.
 - TODO Audit representative papers and completed GeneBridge work for one independently explainable, generalizable computational-method contribution before investing in CMU, Duke, Berkeley, BU, or Indiana applications.
 - See [[02_Projects/Career/Faculty Jobs/active-opportunities|active opportunities and caveats]].
+
+## Funding
+
+- TODO Rerun the NIA K99 funding check against official sources; the October 5 and October 9 scheduled checks were incomplete because web and vault tools were unavailable. Treat eligibility and deadline changes as unverified, not absent.
 
 ## Reel Factory
 - TODO stabilize config/orchestrator.

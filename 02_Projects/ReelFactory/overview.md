@@ -2,7 +2,7 @@
 type: project-overview
 project: "ReelFactory"
 status: active
-last_updated: 2026-09-27
+last_updated: 2026-10-04
 confidence: high
 ---
 
@@ -46,9 +46,13 @@ Build a local-first automated reel/photo-card factory on Windows using local/ope
 
 ## Next production candidate
 
-- [[02_Projects/ReelFactory/production-candidates/2026-09-27-openai-alert-to-stop-gap|AI-এর নিয়মভাঙা ধরা পড়ল। রান থামতে এত দেরি কেন?]]
+- [[02_Projects/ReelFactory/production-candidates/2026-10-04-ai-benchmark-calibration|AI ব্যর্থ, নাকি মাপার পদ্ধতিতে সমস্যা?]]
 
 ## Research backlog
+
+- [[02_Projects/ReelFactory/production-candidates/2026-10-03-robots-capability-versus-cost|রোবট কাজ পারলেই চাকরি যাবে? খরচের হিসাবটা দেখুন]]
+
+- [[02_Projects/ReelFactory/production-candidates/2026-09-27-openai-alert-to-stop-gap|AI-এর নিয়মভাঙা ধরা পড়ল। রান থামতে এত দেরি কেন?]]
 
 - [[02_Projects/ReelFactory/production-candidates/2026-09-26-cellaudit-input-use|তথ্য বদলালেও একই ফল: AI আসলে কী শিখেছে?]]
 
