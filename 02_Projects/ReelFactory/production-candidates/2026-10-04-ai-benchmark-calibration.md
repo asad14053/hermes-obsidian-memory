@@ -2,9 +2,9 @@
 type: youtube-production-candidate
 project: ReelFactory
 channel: AI/Technology
-status: next-production-candidate
+status: research-backlog
 created: 2026-10-04
-last_updated: 2026-10-04
+last_updated: 2026-10-10
 confidence: medium
 credibility_risk: medium
 viral_potential: 7

@@ -2,7 +2,7 @@
 type: agent-system
 project: "Hermes"
 status: active
-last_updated: 2026-10-10
+last_updated: 2026-10-17
 confidence: high
 ---
 
@@ -41,15 +41,16 @@ confidence: high
 
 ## Google Calendar and Morning Brief
 
-- Google Calendar OAuth was restored and returned `AUTHENTICATED` on 2026-10-06. Morning Brief runs subsequently read calendar events on October 8 and 9.
+- Google Calendar OAuth returned `AUTHENTICATED` on 2026-10-06, and Morning Brief runs read events on October 8 and 9. **⚠️ VERIFY current access:** Morning Brief runs on October 13–16 reported the token expired or revoked; treat access as unavailable until a live Calendar read succeeds after reauthorization.
 - Authorization is Calendar-only; Gmail, Drive, Docs, Sheets, and Contacts were not granted access.
 - `Morning Brief` job `4a6f759f0b6f` is active, read-only, delivered to Telegram, and scheduled at `0 12 * * *` UTC (verified 2026-09-26).
 - ⚠️ VERIFY whether the intended delivery requirement is fixed at 12:00 UTC (8:00 AM EDT / 7:00 AM EST) or should remain at one local America/Atlanta time throughout daylight-saving changes.
 
 ## Vault Git backup
 
-- The backup succeeded on 2026-10-03 at 09:02 UTC: commit `d3f1b3de0463fb6a178039ab65bbb201053c2462` changed 140 files, was pushed to `origin/main`, and was verified remotely.
-- ⚠️ VERIFY / stale as of the 2026-10-10 03:01 UTC health check: local `main` and `origin/main` still matched at `d3f1b3d`, but newer vault content was not yet backed up. The next weekly backup was scheduled for 09:00 UTC on October 10.
+- Backup remote: `origin` → `git@github.com:asad14053/hermes-obsidian-memory.git`, branch `main`. This is a one-way vault-to-GitHub backup; never automatically pull, merge, rebase, or reset.
+- ✅ Last verified successful backup: 2026-10-10 09:03 UTC; commit `5caf36933b1a49ddd15d48f86e58113b023dbcfa`; 89 changed files; `origin/main` verified at that commit.
+- ⚠️ VERIFY whether the scheduled 2026-10-17 09:00 UTC run backed up changes made after `5caf369`; the 03:01 UTC health check could not inspect the full working tree.
 - The earlier deploy-key mismatch is historical; do not overwrite `/opt/data/.ssh/id_ed25519` merely to satisfy a key check if it recurs. Establish key ownership first.
 
 ## Bangladesh Monitor jobs
@@ -59,7 +60,7 @@ confidence: high
 
 ## Scheduled-job reliability
 
-- ⚠️ VERIFY why some scheduled sessions lack required tools: AI/news jobs on October 4 and 10 and NIA funding jobs on October 5 and 9 reported unavailable web and/or vault access; Bangladesh scanner runs on October 7 and 9 repeatedly retried `web_search` until the loop guardrail stopped them.
+- ⚠️ VERIFY cron capability profiles and fail-fast behavior. The NIA Funding Radar remained incomplete on October 5, 9, 12, and 16 because web and/or vault access was unavailable. Bangladesh scanner runs hit `loop_web_search_cap` after repeated non-progressing searches on October 13–16.
 - Missing-tool output means **monitoring incomplete**, not “no news” or “no funding changes.” Jobs should fail fast after a repeated backend error and change strategy rather than issue the same search call dozens of times.
 
 ## Codex

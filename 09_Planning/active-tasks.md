@@ -2,7 +2,7 @@
 type: open-loops
 project: ""
 status: active
-last_updated: 2026-10-10
+last_updated: 2026-10-17
 confidence: medium
 ---
 
@@ -25,23 +25,24 @@ confidence: medium
 - TODO decide official dashboard vs Hermes Workspace.
 - TODO validate final routing YAML against installed Hermes version.
 - TODO verify no direct public Hermes port remains.
-- TODO Verify the October 10 weekly Git backup completed and that `origin/main` advanced beyond `d3f1b3d`; the latest verified remote backup remains October 3 while newer vault content exists.
-- TODO Verify live Telegram connectivity; health checks on October 7 and 9 found failed API events with no later recovery logged, while persisted `connected` state may be stale.
-- TODO Diagnose missing web/vault tools and repeated-search loops in scheduled jobs; verify the cron execution profile exposes required tools and add fail-fast fallback behavior.
+- TODO Verify the October 17 weekly Git backup completed and that `origin/main` advanced beyond `5caf369`; the latest verified remote backup is October 10 while newer vault content exists.
+- TODO Reauthorize Google Calendar OAuth and verify that one Morning Brief can retrieve calendar events; runs from October 13–16 reported the token expired or revoked.
+- TODO Diagnose missing web/vault tools and repeated-search loops in scheduled jobs; verify the cron execution profile exposes required tools and add fail-fast fallback behavior. NIA Funding Radar remained incomplete on October 12 and 16, and Bangladesh scanner runs hit `loop_web_search_cap` on October 13–16.
 - ? UNCERTAIN confirm whether `Morning Brief` should stay fixed at 12:00 UTC (8:00 AM EDT / 7:00 AM EST) or run at one local America/Atlanta time year-round.
 
 ## Career / faculty jobs
 
-- TODO Triage Brown before the October 15 full-consideration target; recheck the live portal and deadline year first.
+- ⚠️ VERIFY Brown after its October 15 full-consideration target; check the live portal, deadline year, and whether late applications remain worthwhile before investing effort.
 - TODO Triage Harvard/DFCI before the October 31 deadline, Columbia and Washington before their November 1 priority dates, and Penn before November 23; verify every portal immediately before investing in an application.
-- TODO Verify Yale's deadline and exact tenure-track appointment; the opportunity is officially listed open, but an official deadline was not recovered.
+- TODO Triage Johns Hopkins Computational Biology before its November 8 full-consideration date, UC Berkeley EECS/CCB `JPF05560` before November 9, UC Berkeley Computational Biomedicine `JPF05568` before November 18, and Yale Computational/Theoretical Neuroscience before its November 30 priority date; verify every portal immediately before investing in an application.
+- TODO Verify Yale BIDS's deadline and exact tenure-track appointment; the opportunity is officially listed open, but an official deadline was not recovered.
 - ⚠️ VERIFY whether UCI is still accepting applications before its conditional October 31 final-acceptance date.
 - TODO Audit representative papers and completed GeneBridge work for one independently explainable, generalizable computational-method contribution before investing in CMU, Duke, Berkeley, BU, or Indiana applications.
 - See [[02_Projects/Career/Faculty Jobs/active-opportunities|active opportunities and caveats]].
 
 ## Funding
 
-- TODO Rerun the NIA K99 funding check against official sources; the October 5 and October 9 scheduled checks were incomplete because web and vault tools were unavailable. Treat eligibility and deadline changes as unverified, not absent.
+- TODO Rerun the NIA K99 funding check against official sources; the October 5, 9, 12, and 16 scheduled checks were incomplete because web and/or vault tools were unavailable. Treat eligibility and deadline changes as unverified, not absent.
 
 ## Reel Factory
 - TODO stabilize config/orchestrator.

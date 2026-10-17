@@ -2,7 +2,7 @@
 type: literature-index
 project: "AIVC"
 status: active
-last_updated: 2026-10-10
+last_updated: 2026-10-17
 confidence: medium
 ---
 
@@ -11,6 +11,14 @@ confidence: medium
 This is a curated project index, not a claim that findings were reproduced in AIVC. Quantitative results below remain author-reported unless explicitly stated otherwise.
 
 ## Evaluation and recoverable response
+
+### Hu et al. — Cause-excluded Effect Evaluation (CEE)
+
+- **Citation:** Hu J, Qi X, Tian L, Yan J, Liu N, Li X. *Cause-excluded Effect Evaluation: a framework for the faithful assessment of genetic perturbation target identification.* bioRxiv v1 (2026). DOI: `10.64898/2026.10.03.752923`.
+- **Source:** https://www.biorxiv.org/content/10.64898/2026.10.03.752923v1
+- **Durable use:** Separate train/test targets, remove direct target-gene self-effects, and score downstream response space when testing whether target recovery reflects response biology rather than target-expression clues. Report this alongside, not instead of, full-response evaluation.
+- **? UNCERTAIN:** Full methods, comparators, masking construction, and deployment assumptions were not audited; this is an inverse-target-identification framework, not proof against deep forward-prediction models.
+- **Radar source:** [[02_Projects/AIVC/literature/2026-10-12-literature-radar]].
 
 ### Miller et al. — calibrated perturbation metrics
 
@@ -54,7 +62,65 @@ This is a curated project index, not a claim that findings were reproduced in AI
 - **Evidence limit:** Author-reported performance; steady-state and intervention-entry assumptions do not establish transfer to unseen donors, tissues, or wholly unseen targets.
 - **Radar source:** [[02_Projects/AIVC/literature/2026-10-09-literature-radar]].
 
+### Wang and Oba — TAKO topology baseline
+
+- **Citation:** Wang H, Oba K. *Topology-adjusted knockout (TAKO): interpretable in silico single-gene knockout ranking on wild-type single-cell gene regulatory networks.* Frontiers in Bioinformatics 6:1924703 (2026). DOI: `10.3389/fbinf.2026.1924703`.
+- **Source:** https://www.frontiersin.org/journals/bioinformatics/articles/10.3389/fbinf.2026.1924703/full
+- **Durable use:** Retain a transparent, training-free topology/correlation comparator before claiming added value from a biology-informed graph transformer. Evaluate response ranking, direction, and magnitude separately.
+- **Evidence limit:** TAKO discards regulatory sign, does not generate a full expression response, and its retrieved real-data validation covered two knockout targets.
+- **Radar source:** [[02_Projects/AIVC/literature/2026-10-16-literature-radar]].
+
+## Representation and architecture comparators
+
+### Meng et al. — BioMod module tokenization
+
+- **Citation:** Meng L, Zhu J, Han B, et al. *BioMod: Biological Module Tokenization for Single-Cell Foundation Modeling.* bioRxiv v1 (2026). DOI: `10.64898/2026.10.12.758490`.
+- **Source:** https://www.biorxiv.org/content/10.64898/2026.10.12.758490v1
+- **Durable use:** Compare gene tokens, fixed pathway summaries, and learned module tokens under identical donor/target holdouts before treating pathway/module priors as AIVC novelty; fit learned modules using training data only.
+- **? UNCERTAIN:** Preprint; exact gains, split integrity, pretraining overlap, baseline fairness, and code/checkpoint availability were not audited.
+- **Radar source:** [[02_Projects/AIVC/literature/2026-10-14-literature-radar]].
+
 ## Spatial-context validation
+
+### Jackson, Gorin, and Pachter — biological versus technical spatial variation
+
+- **Citation:** Jackson KC, Gorin G, Pachter L. *Biological and technical spatial variation in spatial transcriptomics.* bioRxiv v1 (2026). DOI: `10.64898/2026.10.13.758896`.
+- **Source:** https://www.biorxiv.org/content/10.64898/2026.10.13.758896v1
+- **Durable use:** Test whether context-model gains survive explicit assay/capture-gradient nuisance adjustment and validation against an independent assay; a residual spatial pattern or prediction gain is not automatically microenvironmental causation.
+- **? UNCERTAIN:** Preprint; absolute capture efficiency is not identifiable from counts alone, and domain annotations and within-domain assumptions influence separation.
+- **Radar source:** [[02_Projects/AIVC/literature/2026-10-16-literature-radar]].
+
+### Li et al. — SpatialZoomer multi-scale comparator
+
+- **Citation:** Li X, Fan Y, Han Y, et al. *SpatialZoomer: multi-scale feature analysis of spatial transcriptomics.* Nature Biomedical Engineering (2026). DOI: `10.1038/s41551-026-01800-w`.
+- **Source:** https://www.nature.com/articles/s41551-026-01800-w
+- **Durable use:** Compare fixed-radius aggregation, simple multi-scale features, and learned attention under identical donor-held-out measured-response endpoints; adding scales alone is not sufficient methodological novelty.
+- **? UNCERTAIN:** Full results were unavailable in the radar review, and the October 14 publication was a boundary-day candidate with unresolved release time.
+- **Radar source:** [[02_Projects/AIVC/literature/2026-10-16-literature-radar]].
+
+### Yao et al. — SPACER recruitment model
+
+- **Citation:** Yao J, Shim JS, Wong K, et al. *Interpretable AI model reveals spatial codes of cell recruitment in tissues.* Nature Biomedical Engineering (2026). DOI: `10.1038/s41551-026-01804-6`.
+- **Source:** https://www.nature.com/articles/s41551-026-01804-6
+- **Durable use:** Use interpretable neighborhood/recruitment summaries as an environment-branch baseline and test composition-matched shuffled neighborhoods; show added value on measured responses in held-out donors before claiming mechanism.
+- **Evidence limit:** Recruitment associations in cancer and heart are not causal intervention rules or evidence of transfer to brain/SCZ; full methods and split details were not audited.
+- **Radar source:** [[02_Projects/AIVC/literature/2026-10-14-literature-radar]].
+
+### Sánchez-Carbonell et al. — sparse neuronal C4 elevation
+
+- **Citation:** Sánchez-Carbonell M, Bolshakova S, Ávila-Pagán JE, et al. *Sparse neuronal C4 elevation induces network-wide transcriptomic and lipid-droplet remodeling in the cortical microenvironment.* PLOS Computational Biology 22(10):e1014871 (2026). DOI: `10.1371/journal.pcbi.1014871`.
+- **Source:** https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014871
+- **Durable use:** Motivates explicit sender-versus-receiver context modelling for the SCZ-centered program and independent imaging validation of neighboring-cell responses.
+- **Evidence limit:** Mouse developmental C4 overexpression is not human C4A variation, adult DLPFC schizophrenia, or a ready-made single-cell spatial perturbation benchmark.
+- **Radar source:** [[02_Projects/AIVC/literature/2026-10-14-literature-radar]].
+
+### Carcanholo et al. — patient-specific limits of spatial inference
+
+- **Citation:** Carcanholo FP, Cassiano MHA, Panepucci EM, Laurini MP, Malta TM. *Point-Process Modelling of Cell-Type Interaction Structure in CosMx Glioma Data for Hypothesis-Driven Tumor Inference from scRNA-seq.* bioRxiv v1 (2026). DOI: `10.64898/2026.10.02.756019`.
+- **Source:** https://www.biorxiv.org/content/10.64898/2026.10.02.756019v1
+- **Durable use:** Many cells do not replace independent donors. Report donor-held-out transport failure and abstention rather than pooled-cell performance, and do not assume harmonization repairs patient-specific molecular–spatial relations.
+- **Evidence limit:** Eight GBM specimens, observational proximity rather than measured signaling, and no complete effect-size or leakage audit in the radar review.
+- **Radar source:** [[02_Projects/AIVC/literature/2026-10-12-literature-radar]].
 
 ### Jin et al. — spatial perturbation screening of non-autonomous effects
 

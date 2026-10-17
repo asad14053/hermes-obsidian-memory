@@ -2,7 +2,7 @@
 type: todo
 project: "ReelFactory"
 status: active
-last_updated: 2026-10-04
+last_updated: 2026-10-11
 confidence: medium
 ---
 
@@ -15,7 +15,29 @@ confidence: medium
 - TODO bounded retries per stage.
 - TODO separate research memory from generation memory.
 
-## Next production candidate — AI benchmark calibration
+## Next production candidate — Bank rescue: who pays?
+
+Status: `source-backed-outline-not-script-locked`. Proposed tasks; owner and due date remain unresolved. No external assignments or outreach have been made.
+
+- TODO Obtain the draft bank-support proposal and government response, or retain attributed reporting and explicit proposal status throughout.
+- TODO Separate liquidity support, capital injections and net fiscal loss; reconcile overlap before adding figures.
+- TODO Verify applicable Bangladesh depositor-protection and resolution law with a qualified reviewer; do not treat FSB guidance as domestic law.
+- TODO Resolve conflicting October 9/10 speech dates before using an exact event date; obtain recording and asset permissions.
+- TODO Refresh approval status, review the script with a banking/public-finance specialist, time Bangla narration and check actual channel uploads.
+- See [[02_Projects/ReelFactory/production-candidates/2026-10-11-bank-rescue-who-pays|full production brief, evidence and proposed-task acceptance conditions]].
+
+## Research backlog — NCT concession public value
+
+Status: `source-backed-outline-not-script-locked`. Proposed tasks; owner and due date remain unresolved. No external assignments or outreach have been made.
+
+- TODO Obtain the executed concession and schedules, or keep the video explicitly limited to attributed public summaries.
+- TODO Reconcile 67% versus 40–67% revenue-share descriptions; verify denominator, tiers, deductions and payment status.
+- TODO Resolve the throughput denominator inconsistency before using a terminal-share graphic; do not project state profit from whole-port averages.
+- TODO Obtain qualified legal/economic review for contract interpretation; preserve government promises and worker concerns as attributed positions.
+- TODO Refresh protest status, clear footage rights, time Bangla narration and check actual channel uploads before script lock.
+- See [[02_Projects/ReelFactory/production-candidates/2026-10-10-nct-concession-public-value|full production brief and proposed-task acceptance conditions]].
+
+## Research backlog — AI benchmark calibration
 
 Status: `source-backed-outline-not-script-locked`. Proposed tasks; owner and due date remain unresolved.
 

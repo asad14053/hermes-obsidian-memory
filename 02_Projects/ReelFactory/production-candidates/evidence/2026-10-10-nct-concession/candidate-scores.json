@@ -1,0 +1,67 @@
+[
+  {
+    "topic": "NCT concession: ownership, money and enforceable promises",
+    "scores": [
+      10,
+      10,
+      8,
+      8,
+      10,
+      8,
+      10
+    ],
+    "total": 64
+  },
+  {
+    "topic": "Rooppur: criticality permission vs electricity supply",
+    "scores": [
+      9,
+      10,
+      6,
+      8,
+      9,
+      7,
+      10
+    ],
+    "total": 59
+  },
+  {
+    "topic": "VINTER: reading tissue vs testing biological causes",
+    "scores": [
+      7,
+      10,
+      7,
+      8,
+      10,
+      7,
+      9
+    ],
+    "total": 58
+  },
+  {
+    "topic": "Mechanisms Matter: when cellular AI cannot transfer",
+    "scores": [
+      7,
+      9,
+      7,
+      7,
+      10,
+      7,
+      10
+    ],
+    "total": 57
+  },
+  {
+    "topic": "Robot capability vs deployment cost",
+    "scores": [
+      9,
+      6,
+      8,
+      3,
+      9,
+      9,
+      10
+    ],
+    "total": 54
+  }
+]

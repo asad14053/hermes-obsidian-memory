@@ -1,0 +1,442 @@
+# Key Attributes of Effective Resolution Regimes for Financial Institutions
+
+Foreword
+The Key Attributes of Effective Resolution Regimes for Financial Institutions (the ‘Key Attributes’ KA) set out the core elements that the FSB considers to be necessary for an effective resolution regime. Their implementation should allow authorities to resolve financial institutions in an orderly manner without taxpayer exposure to loss from solvency support, while maintaining continuity of their vital economic functions.
+
+The FSB adopted the ‘*Key Attributes*’ at its Plenary meeting in October 2011. The G20 Heads of States and Government subsequently endorsed the ‘*Key Attributes*’ at the Cannes Summit in November 2011 as “a new international standards for resolution regimes”.1
+
+The *Key Attributes* set out twelve essential features that should be part of the resolution regimes of all jurisdictions.
+
+#### **The 2014 version of the *Key Attributes* document**
+
+When the FSB adopted the* Key Attributes* in 2011 it was agreed to develop further guidance on the implementation of the *Key Attributes*, taking into account the need for implementation to accommodate different national legal systems and market environments and sector-specific considerations (e.g., insurance, financial market infrastructures) to promote effective and consistent implementation across jurisdictions.
+
+On 15 October 2014, the FSB adopted additional guidance that elaborates on specific KAs relating to information sharing for resolution purposes and sector-specific guidance that sets out how the *Key Attributes* should applied for insurers, financial market infrastructures (FMIs) and the protection of client assets in resolution.
+
+The newly adopted guidance documents have been incorporated as annexes into the 2014 version of the *Key Attributes* document. No changes were made to the text of the twelve Key Attributes of October 2011. The twelve Key Attributes remain the umbrella standard for resolution regimes covering financial institutions of all types that could be systemic in failure.
+
+The FSB will continue its work to develop further guidance as needed to promote the effective and consistent implementation of the *Key Attributes*.
+
+#### **The Annexes to the Key Attributes**
+
+The Annexes to the *Key Attributes* provide guidance on implementing and interpreting the Key Attributes. They do not form part of the *Key Attributes* standard. Where components of the Annexes have been deemed important for purposes of assessing compliance with the *Key Attributes*, those components are explicitly reflected in the Key Attributes Assessment Methodology.2 The Annexes to the Key Attributes fall into two categories:
+
+**General guidance on the implementation of the Key Attributes (Appendix I):**
+
+[I-Annex 1: Information sharing for Resolution Purposes (KAs 7 and 12)](/wp-content/uploads/I-Annex-1-Information-Sharing-for-Resolution-Purposes.pdf)
+
+[I-Annex 2: Institution-specific Cross-border Cooperation Agreements (KA 9)](/wp-content/uploads/I-Annex-2-Essential-Elements-of-Institution-specific-Cross-border-Cooperation-Agreements.pdf)
+
+[I-Annex 5: Temporary Stays on Early Termination Rights (KA 4)](/wp-content/uploads/I-Annex-5-Temporary-stay-on-early-termination-rights.pdf)
+
+**Sector-specific Guidance (Appendix II)**
+
+The sector-specific guidance recognises that not all Key Attributes are equally relevant for all sectors and that some require further explanation and interpretation, or some adaptation in order to be effectively implemented in a certain sector. The sector-specific guidance sets out how the *Key Attributes* should understood in a sector-specific context.It complements the *Key Attributes,* and the sector-specific guidance on individual KAs should be considered in conjunction with the KA to which it relates. There should be no inference that a particular KA or element of a KA does not apply simply because there is no supporting provision in the relevant Annex.
+
+1. Communiqué G20 Leaders Summit – Cannes – 3-4 November 2011, Section 13. [←]
+2. A final version of the assessment methodology is expected to be released in early 2015. [←]
+
+Preamble
+The objective of an effective resolution regime is to make feasible the resolution of financial institutions without severe systemic disruption and without exposing taxpayers to loss, while protecting vital economic functions through mechanisms which make it possible for shareholders and unsecured and uninsured creditors to absorb losses in a manner that respects the hierarchy of claims in liquidation.
+
+An effective resolution regime (interacting with applicable schemes and arrangements for the protection of depositors, insurance policy holders and retail investors) should:
+
+1. ensure continuity of systemically important financial services, and payment, clearing and settlement functions;
+2. protect, where applicable and in coordination with the relevant insurance schemes and arrangements such depositors, insurance policy holders and investors as are covered by such schemes and arrangements**,**and ensure the rapid return of segregated client assets;
+3. allocate losses to firm owners (shareholders) and unsecured and uninsured creditors in a manner that respects the hierarchy of claims;
+4. not rely on public solvency support and not create an expectation that such support will be available;
+5. avoid unnecessary destruction of value, and therefore seek to minimise the overall costs of resolution in home and host jurisdictions and, where consistent with the other objectives, losses for creditors;
+6. provide for speed and transparency and as much predictability as possible through legal and procedural clarity and advanced planning for orderly resolution;
+7. provide a mandate in law for cooperation, information exchange and coordination domestically and with relevant foreign resolution authorities before and during a resolution;
+8. ensure that non-viable firms can exit the market in an orderly way; and
+9. be credible, and thereby enhance market discipline and provide incentives for market-based solutions.
+Jurisdictions should have in place a resolution regime that provides the resolution authority with a broad range of powers and options to resolve a firm that is no longer viable and has no reasonable prospect of becoming so. The resolution regime should include:
+
+1. stabilisation options that achieve continuity of systemically important functions by way of a sale or transfer of the shares in the firm or of all or parts of the firm’s business to a third party, either directly or through a bridge institution, and/or an officially mandated creditor-financed recapitalisation of the entity that continues providing the critical functions; and
+2. liquidation options that provide for the orderly closure and wind-down of all or parts of the firm’s business in a manner that protects insured depositors, insurance policy holders and other retail customers.
+In order to facilitate the coordinated resolution of firms active in multiple countries, jurisdictions should seek convergence of their resolution regimes through the legislative changes needed to incorporate the tools and powers set out in these *Key Attributes* into their national regimes.
+
+1. Scope
+**1.1**
+
+Any financial institution that could be systemically significant or critical if it fails should be subject to a resolution regime that has the attributes set out in this document (“Key Attributes”). The regime should be clear and transparent as to the financial institutions (hereinafter “firms”) within its scope. It should extend to:
+
+1. holding companies of a firm;
+2. non-regulated operational entities within a financial group or conglomerate that are significant to the business of the group or conglomerate; and
+3. branches of foreign firms.3
+**1.2**
+
+Financial market infrastructures (“FMIs”)4 should be subject to resolution regimes that apply the objectives and provisions of the *Key Attributes* in a manner as appropriate to FMIs and their critical role in financial markets. The choice of resolution powers should be guided by the need to maintain continuity of critical FMI functions.
+
+**1.3**
+
+The resolution regime should require that at least all domestically incorporated global SIFIs (“G-SIFIs”):
+
+1. have in place a recovery and resolution plan (“RRP”), including a group resolution plan, containing all elements set out in I-Annex 4 (see Key Attribute 11);
+2. are subject to regular resolvability assessments (see Key Attribute 10); and
+3. are the subject of institution-specific cross-border cooperation agreements (see Key Attribute 9).
+
+1. This should not apply where jurisdictions are subject to a binding obligation to respect resolution of financial institutions under the authority of the home jurisdiction (for example, the EU Winding up and Reorganisation Directives). [←]
+2. For the purposes of this document, the term “financial market infrastructure” is defined as “a multilateral system among participating financial institutions, including the operator of the system, used for the purposes of recording, clearing, or settling payments, securities, derivatives, or other financial transactions”. It includes payment systems, central securities depositories (CSDs), securities settlement systems (SSSs), central counterparties (CCPs), and trade repositories (TRs). See CPSS-IOSCO Principles for Financial Market Infrastructures – April 2012 ([http://www.bis.org/cpmi/publ/d101.htm](http://www.bis.org/cpmi/publ/d101.htm)). [←]
+
+2. Resolution authority
+**2.1**
+
+Each jurisdiction should have a designated administrative authority or authorities responsible for exercising the resolution powers over firms within the scope of the resolution regime (“resolution authority”). Where there are multiple resolution authorities within a jurisdiction their respective mandates, roles and responsibilities should be clearly defined and coordinated.
+
+**2.2**
+
+Where different resolution authorities are in charge of resolving entities of the same group within a single jurisdiction, the resolution regime of that jurisdiction should identify a lead authority that coordinates the resolution of the legal entities within that jurisdiction.
+
+**2.3**
+
+As part of its statutory objectives and functions, and where appropriate in coordination with other authorities, the resolution authority should:
+
+1. pursue financial stability and ensure continuity of systemically important financial services, and payment, clearing and settlement functions;
+2. protect, where applicable and in coordination with the relevant insurance schemes and arrangements, such depositors, insurance policy holders and investors as are covered by such schemes and arrangements;
+3. avoid unnecessary destruction of value and seek to minimise the overall costs of resolution in home and host jurisdictions and losses to creditors, where that is consistent with the other statutory objectives; and
+4. duly consider the potential impact of its resolution actions on financial stability in other jurisdictions.
+**2.4**
+
+The resolution authority should have the authority to enter into agreements with resolution authorities of other jurisdictions.
+
+**2.5**
+
+The resolution authority should have operational independence consistent with its statutory responsibilities, transparent processes, sound governance and adequate resources and be subject to rigorous evaluation and accountability mechanisms to assess the effectiveness of any resolution measures. It should have the expertise, resources and the operational capacity to implement resolution measures with respect to large and complex firms.
+
+**2.6**
+
+The resolution authority and its staff should be protected against liability for actions taken and omissions made while discharging their duties in the exercise of resolution powers in good faith, including actions in support of foreign resolution proceedings.
+
+**2.7**
+
+The resolution authority should have unimpeded access to firms where that is material for the purposes of resolution planning and the preparation and implementation of resolution measures.
+
+3. Resolution powers
+
+#### ***Entry into resolution***
+
+**3.1**
+
+Resolution should be initiated when a firm is no longer viable or likely to be no longer viable, and has no reasonable prospect of becoming so. The resolution regime should provide for timely and early entry into resolution before a firm is balance-sheet insolvent and before all equity has been fully wiped out. There should be clear standards or suitable indicators of non-viability to help guide decisions on whether firms meet the conditions for entry into resolution.
+
+#### ***General resolution powers***
+
+**3.2**
+
+Resolution authorities should have at their disposal a broad range of resolution powers, which should include powers to do the following:
+
+1. Remove and replace the senior management and directors and recover monies from responsible persons, including claw-back of variable remuneration;
+2. Appoint an administrator to take control of and manage the affected firm with the objective of restoring the firm, or parts of its business, to ongoing and sustainable viability;
+3. Operate and resolve the firm, including powers to terminate contracts, continue or assign contracts, purchase or sell assets, write down debt and take any other action necessary to restructure or wind down the firm’s operations;
+4. Ensure continuity of essential services and functions by requiring other companies in the same group to continue to provide essential services to the entity in resolution, any successor or an acquiring entity; ensuring that the residual entity in resolution can temporarily provide such services to a successor or an acquiring entity; or procuring necessary services from unaffiliated third parties;
+5. Override rights of shareholders of the firm in resolution, including requirements for approval by shareholders of particular transactions, in order to permit a merger, acquisition, sale of substantial business operations, recapitalisation or other measures to restructure and dispose of the firm’s business or its liabilities and assets;
+6. Transfer or sell assets and liabilities, legal rights and obligations, including deposit liabilities and ownership in shares, to a solvent third party, notwithstanding any requirements for consent or novation that would otherwise apply (see Key Attribute 3.3);
+7. Establish a temporary bridge institution to take over and continue operating certain critical functions and viable operations of a failed firm (see Key Attribute 3.4);
+8. Establish a separate asset management vehicle (for example, as a subsidiary of the distressed firm, an entity with a separate charter, or as a trust or asset management company) and transfer to the vehicle for management and run-down non-performing loans or difficult-to-value assets;
+9. Carry out bail-in within resolution as a means to achieve or help achieve continuity of essential functionseither (i) by recapitalising the entity hitherto providing these functions that is no longer viable, or, alternatively, (ii) by capitalising a newly established entity or bridge institution to which these functions have been transferred following closure of the non-viable firm (the residual business of which would then be wound up and the firm liquidated) (see Key Attribute 3.5);
+10. Temporarily stay the exercise of early termination rights that may otherwise be triggered upon entry of a firm into resolution or in connection with the use of resolution powers (see Key Attribute 4.3 and Annex IV);
+11. Impose a moratorium with a suspension of payments to unsecured creditors and customers (except for payments and property transfers to central counterparties (CCPs) and those entered into the payment, clearing and settlements systems) and a stay on creditor actions to attach assets or otherwise collect money or property from the firm, while protecting the enforcement of eligible netting and collateral agreements; and
+12. Effect the closure and orderly wind-down (liquidation) of the whole or part of a failing firm with timely payout or transfer of insured deposits and prompt (for example, within seven days) access to transaction accounts and to segregated client funds).
+
+#### ***Transfer of assets and liabilities***
+
+**3.3**
+
+Resolution authorities should have the power to transfer selected assets and liabilities of the failed firm to a third party institution or to a newly established bridge institution. Any transfer of assets or liabilities should not:
+
+1. require the consent of any interested party or creditor to be valid; and
+2. constitute a default or termination event in relation to any obligation relating to such assets or liabilities or under any contract to which the failed firm is a party (see Key Attribute 4.2).
+
+#### ***Bridge institution***
+
+**3.4**
+
+Resolution authorities should have the power to establish one or more bridge institutions to take over and continue operating certain critical functions and viable operations of a failed firm, including:
+
+1. the power to enter into legally enforceable agreements by which the authority transfers, and the bridge institution receives, assets and liabilities of the failed firm as selected by the authority;
+2. the power to establish the terms and conditions under which the bridge institution has the capacity to operate as a going concern, including the manner under which the bridge institution obtains capital or operational financing and other liquidity support; the prudential and other regulatory requirements that apply to the operations of the bridge institution; the selection of management and the manner by which the corporate governance of the bridge institution may be conducted; and the performance by the bridge institution of such other temporary functions as the authority may from time to time prescribe;
+3. the power to reverse, if necessary, asset and liability transfers to a bridge institution subject to appropriate safeguards, such as time restrictions; and
+4. the power to arrange the sale or wind-down of the bridge institution, or the sale of some or all of its assets and liabilities to a purchasing institution, so as best to effect the objectives of the resolution authority.
+
+#### ***Bail-in within resolution***
+
+**3.5**
+
+Powers to carry out bail-in within resolution should enable resolution authorities to:
+
+1. write down in a manner that respects the hierarchy of claims in liquidation (see Key Attribute 5.1) equity or other instruments of ownership of the firm, unsecured and uninsured creditor claims to the extent necessary to absorb the losses; and to
+2. convert into equity or other instruments of ownership of the firm under resolution (or any successor in resolution or the parent company within the same jurisdiction), all or parts of unsecured and uninsured creditor claims in a manner that respects the hierarchy of claims in liquidation;
+3. upon entry into resolution, convert or write-down any contingent convertible or contractual bail-in instruments whose terms had not been triggered prior to entry into resolution and treat the resulting instruments in line with (i) or (ii).
+**3.6**
+
+The resolution regime should make it possible to apply bail-in within resolution in conjunction with other resolution powers (for example, removal of problem assets, replacement of senior management and adoption of a new business plan) to ensure the viability of the firm or newly established entity following the implementation of bail-in.
+
+#### ***Resolution of insurers***
+
+**3.7**
+
+In the case of insurance firms, resolution authorities should also have powers to:
+
+1. undertake a portfolio transfer moving all or part of the insurance business to another insurer without the consent of each and every policyholder; and
+2. discontinue the writing of new business by an insurance firm in resolution while continuing to administer existing contractual policy obligations for in-force business (run-off).
+
+#### ***Exercise of resolution powers***
+
+**3.8**
+
+Resolution authorities should have the legal and operational capacity to:
+
+1. apply one or a combination of resolution powers, with resolution actions being either combined or applied sequentially;
+2. apply different types of resolution powers to different parts of the firm’s business (for example, retail and commercial banking, trading operations, insurance); and
+3. initiate a wind-down for those operations that, in the particular circumstances, are judged by the authorities to be not critical to the financial system or the economy (see Key Attribute 3.2 xii).
+**3.9**
+
+In applying resolution powers to individual components of a financial group located in its jurisdiction, the resolution authority should take into account the impact on the group as a whole and on financial stability in other affected jurisdictions, and undertake best efforts to avoid taking actions that could reasonably be expected to trigger instability elsewhere in the group or in the financial system.
+
+4. Set-off, netting, collateralisation, segregation of client assets
+**4.1**
+
+The legal framework governing set-off rights, contractual netting and collateralisation agreements and the segregation of client assets should be clear, transparent and enforceable during a crisis or resolution of firms, and should not hamper the effective implementation of resolution measures.
+
+**4.2**
+
+Subject to adequate safeguards, entry into resolution and the exercise of any resolution powers should not trigger statutory or contractual set-off rights, or constitute an event that entitles any counterparty of the firm in resolution to exercise contractual acceleration or early termination rights provided the substantive obligations under the contract continue to be performed.
+
+**4.3**
+
+Should contractual acceleration or early termination rights nevertheless be exercisable, the resolution authority should have the power to stay temporarily such rights where they arise by reason only of entry into resolution or in connection with the exercise of any resolution powers. The stay should:
+
+1. be strictly limited in time (for example, for a period not exceeding 2 business days);
+2. be subject to adequate safeguards that protect the integrity of financial contracts and provide certainty to counterparties (see I-Annex 5 on Conditions for a temporary stay); and
+3. not affect the exercise of early termination rights of a counterparty against the firm being resolved in the case of any event of default not related to entry into resolution or the exercise of the relevant resolution power occurring before, during or after the period of the stay (for example, failure to make a payment, deliver or return collateral on a due date).
+The stay may be discretionary (imposed by the resolution authority) or automatic in its operation. In either case, jurisdictions should ensure that there is clarity as to the beginning and the end of the stay.
+
+**4.4**
+
+Resolution authorities should apply the temporary stay on early termination rights in accordance with the guidance set out in I-Annex 5 to ensure that it does not compromise the safe and orderly operations of regulated exchanges and FMIs.
+
+5. Safeguards
+
+#### ***Respect of creditor hierarchy and “no creditors worse off” principle***
+
+**5.1**
+
+Resolution powers should be exercised in a way that respects the hierarchy of claims while providing flexibility to depart from the general principle of equal (*pari passu*) treatment of creditors of the same class, with transparency about the reasons for such departures, if necessary to contain the potential systemic impact of a firm’s failure or to maximise the value for the benefit of all creditors as a whole. In particular, equity should absorb losses first, and no loss should be imposed on senior debt holders until subordinated debt (including all regulatory capital instruments) has been written-off entirely (whether or not that loss-absorption through write-down is accompanied by conversion to equity).
+
+**5.2**
+
+Creditors should have a right to compensation where they do not receive at a minimum what they would have received in a liquidation of the firm under the applicable insolvency regime (“no creditor worse off than in liquidation” safeguard).
+
+**5.3**
+
+Directors and officers of the firm under resolution should be protected in law (for example, from law suits by shareholders or creditors) for actions taken when complying with decisions of the resolution authority.
+
+#### ***Legal remedies and judicial action***
+
+**5.4**
+
+The resolution authority should have the capacity to exercise the resolution powers with the necessary speed and flexibility, subject to constitutionally protected legal remedies and due process. In those jurisdictions where a court order is still required to apply resolution measures, resolution authorities should take this into account in the resolution planning process so as to ensure that the time required for court proceedings will not compromise the effective implementation of resolution measures.
+
+**5.5**
+
+The legislation establishing resolution regimes should not provide for judicial actions that could constrain the implementation of, or result in a reversal of, measures taken by resolution authorities acting within their legal powers and in good faith. Instead, it should provide for redress by awarding compensation, if justified.
+
+**5.6**
+
+In order to preserve market confidence, jurisdictions should provide for flexibility to allow temporary exemptions from disclosure requirements or a postponement of disclosures required by the firm, for example, under market reporting, takeover provisions and listing rules, where the disclosure by the firm could affect the successful implementation of resolution measures.
+
+6. Funding of firms in resolution
+**6.1**
+
+Jurisdictions should have statutory or other policies in place so that authorities are not constrained to rely on public ownership or bail-out funds as a means of resolving firms.
+
+**6.2**
+
+Where temporary sources of funding to maintain essential functions are needed to accomplish orderly resolution, the resolution authority or authority extending the temporary funding should make provision to recover any losses incurred (i) from shareholders and unsecured creditors subject to the “no creditor worse off than in liquidation” safeguard (see Key Attribute 5.2); or (ii) if necessary, from the financial system more widely.
+
+**6.3**
+
+Jurisdictions should have in place privately-financed deposit insurance or resolution funds, or a funding mechanism with *ex post* recovery from the industry of the costs of providing temporary financing to facilitate the resolution of the firm.
+
+**6.4**
+
+Any provision by the authorities of temporary funding should be subject to strict conditions that minimise the risk of moral hazard, and should include the following:
+
+1. a determination that the provision of temporary funding is necessary to foster financial stability and will permit implementation of a resolution option that is best able to achieve the objectives of an orderly resolution, and that private sources of funding have been exhausted or cannot achieve these objectives; and
+2. the allocation of losses to equity holders and residual costs, as appropriate, to unsecured and uninsured creditors and the industry through ex-post assessments, insurance premium or other mechanisms.
+**6.5**
+
+As a last resort and for the overarching purpose of maintaining financial stability, some countries may decide to have a power to place the firm under temporary public ownership and control in order to continue critical operations, while seeking to arrange a permanent solution such as a sale or merger with a commercial private sector purchaser. Where countries do equip themselves with such powers, they should make provision to recover any losses incurred by the state from unsecured creditors or, if necessary, the financial system more widely.
+
+7. Legal framework conditions for cross-border cooperation
+**7.1**
+
+The statutory mandate of a resolution authority should empower and strongly encourage the authority wherever possible to act to achieve a cooperative solution with foreign resolution authorities.
+
+**7.2**
+
+Legislation and regulations in jurisdictions should not contain provisions that trigger automatic action in that jurisdiction as a result of official intervention or the initiation of resolution or insolvency proceedings in another jurisdiction, while reserving the right of discretionary national action if necessary to achieve domestic stability in the absence of effective international cooperation and information sharing. Where a resolution authority takes discretionary national action it should consider the impact on financial stability in other jurisdictions.
+
+**7.3**
+
+The resolution authority should have resolution powers over local branches of foreign firms and the capacity to use its powers either to support a resolution carried out by a foreign home authority (for example, by ordering a transfer of property located in its jurisdiction to a bridge institution established by the foreign home authority) or, in exceptional cases, to take measures on its own initiative where the home jurisdiction is not taking action or acts in a manner that does not take sufficient account of the need to preserve the local jurisdiction’s financial stability.5 Where a resolution authority acting as host authority takes discretionary national action, it should give prior notification and consult the foreign home authority.
+
+**7.4**
+
+National laws and regulations should not discriminate against creditors on the basis of their nationality, the location of their claim or the jurisdiction where it is payable. The treatment of creditors and ranking in insolvency should be transparent and properly disclosed to depositors, insurance policy holders and other creditors.
+
+**7.5**
+
+Jurisdictions should provide for transparent and expedited processes to give effect to foreign resolution measures, either by way of a mutual recognition process or by taking measures under the domestic resolution regime that support and are consistent with the resolution measures taken by the foreign home resolution authority. Such recognition or support measures would enable a foreign home resolution authority to gain rapid control over the firm (branch or shares in a subsidiary) or its assets that are located in the host jurisdiction, as appropriate, in cases where the firm is being resolved under the law of the foreign home jurisdiction. Recognition or support of foreign measures should be provisional on the equitable treatment of creditors in the foreign resolution proceeding.
+
+**7.6**
+
+The resolution authority should have the capacity in law, subject to adequate confidentiality requirements and protections for sensitive data, to share information, including recovery and resolution plans (RRPs), pertaining to the group as a whole or to individual subsidiaries or branches, with relevant foreign authorities (for example, members of a CMG), where sharing is necessary for recovery and resolution planning or for implementing a coordinated resolution.
+
+**7.7**
+
+Jurisdictions should provide for confidentiality requirements and statutory safeguards for the protection of information received from foreign authorities.
+
+1. This should not apply where jurisdictions are subject to a binding obligation to respect resolution of financial institutions under the authority of the home jurisdiction (for example, the EU Winding up and Reorganisation Directives). [←]
+
+8. Crisis Management Groups (CMGs)
+**8.1**
+
+Home and key host authorities of all G-SIFIs should maintain CMGs with the objective of enhancing preparedness for, and facilitating the management and resolution of, a cross-border financial crisis affecting the firm. CMGs should include the supervisory authorities, central banks, resolution authorities, finance ministries and the public authorities responsible for guarantee schemes of jurisdictions that are home or host to entities of the group that are material to its resolution, and should cooperate closely with authorities in other jurisdictions where firms have a systemic presence.
+
+**8.2**
+
+CMGs should keep under active review, and report as appropriate to the FSB and the FSB Peer Review Council6 on:
+
+1. progress in coordination and information sharing within the CMGs and with host authorities that are not represented in the CMGs;
+2. the recovery and resolution planning process for G-SIFIs under institution-specific cooperation agreements; and
+3. the resolvability of G-SIFIs.
+
+1. The FSB has for the time being not established a Peer Review Council. Instead it launched a Resolvability Assessment Process (RAP). The objective of the RAP, which should be conducted by senior policy makers from CMG member authorities, is to facilitate adequate and consistent reporting on the resolvability of each G-SIFI and overall status of the resolution planning process [←]
+
+9. Institution-specific cross-border cooperation agreements
+**9.1**
+
+For all G-SIFIs, at a minimum, institution-specific cooperation agreements, containing the essential elements set out in Annex I, should be in place between the home and relevant host authorities that need to be involved in the planning and crisis resolution stages. These agreements should, inter alia:
+
+1. establish the objectives and processes for cooperation through CMGs;
+2. define the roles and responsibilities of the authorities pre-crisis (that is, in the recovery and resolution planning phases) and during a crisis;
+3. set out the process for information sharing before and during a crisis, including sharing with any host authorities that are not represented in the CMG, with clear reference to the legal bases for information sharing in the respective national laws and to the arrangements that protect the confidentiality of the shared information;
+4. set out the processes for coordination in the development of the RRPs for the firm, including parent or holding company and significant subsidiaries, branches and affiliates that are within the scope of the agreement, and for engagement with the firm as part of this process;
+5. set out the processes for coordination among home and host authorities in the conduct of resolvability assessments;
+6. include agreed procedures for the home authority to inform and consult host authorities in a timely manner when there are material adverse developments affecting the firm and before taking any significant action or crisis measures;
+7. include agreed procedures for the host authority to inform and consult the home authority in a timely manner when there are material adverse developments affecting the firm and before taking any discretionary action or crisis measure;
+8. provide an appropriate level of detail with regard to the cross-border implementation of specific resolution measures, including with respect to the use of bridge institution and bail-in powers;
+9. provide for meetings to be held at least annually, involving top officials of the home and relevant host authorities, to review the robustness of the overall resolution strategy for G-SIFIs; and
+10. provide for regular (at least annual) reviews by appropriate senior officials of the operational plans implementing the resolution strategies.
+**9.2**
+
+The existence of agreements should be made public. The home authorities may publish the broad structure of the agreements, if agreed by the authorities that are party to the agreement.
+
+10. Resolvability assessments
+**10.1**
+
+Resolution authorities should regularly undertake, at least for G-SIFIs, resolvability assessments that evaluate the feasibility of resolution strategies and their credibility in light of the likely impact of the firm’s failure on the financial system and the overall economy. Those assessments should be conducted in accordance with the guidance set out in I-Annex 3.
+
+**10.2**
+
+In undertaking resolvability assessments, resolution authorities should in coordination with other relevant authorities assess, in particular:
+
+1. the extent to which critical financial services, and payment, clearing and settlement functions can continue to be performed;
+2. the nature and extent of intra-group exposures and their impact on resolution if they need to be unwound;
+3. the capacity of the firm to deliver sufficiently detailed accurate and timely information to support resolution; and
+4. the robustness of cross-border cooperation and information sharing arrangements.
+**10.3**
+
+Group resolvability assessments should be conducted by the home authority of the G-SIFI and coordinated within the firm’s CMG taking into account national assessments by host authorities.
+
+**10.4**
+
+Host resolution authorities that conduct resolvability assessments of subsidiaries located in their jurisdiction should coordinate as far as possible with the home authority that conducts resolvability assessment for the group as a whole.
+
+**10.5**
+
+To improve a firm’s resolvability, supervisory authorities or resolution authorities should have powers to require, where necessary, the adoption of appropriate measures, such as changes to a firm’s business practices, structure or organisation, to reduce the complexity and costliness of resolution, duly taking into account the effect on the soundness and stability of ongoing business. To enable the continued operations of systemically important functions, authorities should evaluate whether to require that these functions be segregated in legally and operationally independent entities that are shielded from group problems.
+
+11. Recovery and resolution planning
+**11.1**
+
+Jurisdictions should put in place an ongoing process for recovery and resolution planning, covering at a minimum domestically incorporated firms that could be systemically significant or critical if they fail.
+
+**11.2**
+
+Jurisdictions should require that robust and credible RRPs, containing the essential elements of Recovery and Resolution Plans set out in I-Annex 4*,* are in place for all G-SIFIs and for any other firm that its home authority assesses could have an impact on financial stability in the event of its failure.
+
+**11.3**
+
+The RRP should be informed by resolvability assessments (see Key Attribute 10) and take account of the specific circumstances of the firm and reflect its nature, complexity, interconnectedness, level of substitutability and size.
+
+**11.4**
+
+Jurisdictions should require that the firm’s senior management be responsible for providing the necessary input to the resolution authorities for (i) the assessment of the recovery plans; and (ii) the preparation by the resolution authority of resolution plans.
+
+#### ***Recovery plan***
+
+**11.5**
+
+Supervisory and resolution authorities should ensure that the firms for which a RRP is required maintain a recovery plan that identifies options to restore financial strength and viability when the firm comes under severe stress. Recovery plans should include:
+
+1. credible options to cope with a range of scenarios including both idiosyncratic and market wide stress;
+2. scenarios that address capital shortfalls and liquidity pressures; and
+3. processes to ensure timely implementation of recovery options in a range of stress situations.
+
+#### ***Resolution plan***
+
+**11.6**
+
+The resolution plan is intended to facilitate the effective use of resolution powers to protect systemically important functions, with the aim of making the resolution of any firm feasible without severe disruption and without exposing taxpayers to loss. It should include a substantive resolution strategy agreed by top officials and an operational plan for its implementation and identify, in particular:
+
+1. financial and economic functions for which continuity is critical;
+2. suitable resolution options to preserve those functions or wind them down in an orderly manner;
+3. data requirements on the firm’s business operations, structures, and systemically important functions;
+4. potential barriers to effective resolution and actions to mitigate those barriers;
+5. actions to protect insured depositors and insurance policy holders and ensure the rapid return of segregated client assets; and
+6. clear options or principles for the exit from the resolution process.
+**11.7**
+
+Firms should be required to ensure that key Service Level Agreements can be maintained in crisis situations and in resolution, and that the underlying contracts include provisions that prevent termination triggered by recovery or resolution events and facilitate transfer of the contract to a bridge institution or a third party acquirer.
+
+**11.8**
+
+At least for G-SIFIs, the home resolution authority should lead the development of the group resolution plan in coordination with all members of the firm’s CMG. Host authorities that are involved in the CMG or are the authorities of jurisdictions where the firm has a systemic presence should be given access to RRPs and the information and measures that would have an impact on their jurisdiction.
+
+**11.9**
+
+Host resolution authorities may maintain their own resolution plans for the firm’s operations in their jurisdictions cooperating with the home authority to ensure that the plan is as consistent as possible with the group plan.
+
+#### ***Regular updates and review***
+
+**11.10**
+
+Supervisory and resolution authorities should ensure that RRPs are updated regularly, at least annually or when there are material changes to a firm’s business or structure, and subject to regular reviews within the firm’s CMG.
+
+**11.11**
+
+The substantive resolution strategy for each G-SIFI should be subject, at least annually, to a review by top officials of home and relevant host authorities and, where appropriate, the review should involve the firm’s CEO. The operational plans for implementing each resolution strategy should be, at least annually, reviewed by appropriate senior officials of the home and relevant host authorities.
+
+**11.12**
+
+If resolution authorities are not satisfied with a firm’s RRP, the authorities should require appropriate measures to address the deficiencies. Relevant home and host authorities should provide for prior consultation on the actions contemplated.
+
+12. Access to information and information sharing
+**12.1**
+
+Jurisdictions should ensure that no legal, regulatory or policy impediments exist that hinder the appropriate exchange of information, including firm-specific information, between supervisory authorities, central banks, resolution authorities, finance ministries and the public authorities responsible for guarantee schemes. In particular:
+
+1. the sharing of all information relevant for recovery and resolution planning and for resolution should be possible in normal times and during a crisis at a domestic and a cross-border level;
+2. the procedures for the sharing of information relating to G-SIFIs should be set out in institution-specific cooperation agreements (see Annex I); and
+3. where appropriate and necessary to respect the sensitive nature of information, information sharing may be restricted, but should be possible among the top officials of the relevant home and host authorities.
+**12.2**
+
+Jurisdictions should require firms to maintain Management Information Systems (MIS) that are able to produce information on a timely basis, both in normal times for recovery and resolution planning and in resolution. Information should be available at the group level and the legal entity level (taking into account information needs under different resolution scenarios, including the separation of individual entities from the group). Firms should be required, in particular, to:
+
+1. maintain a detailed inventory, including a description and the location of the key MIS used in their material legal entities, mapped to their core services and critical functions;
+2. identify and address exogenous legal constraints on the exchange of management information among the constituent entities of a financial group (for example, as regards the information flow from individual entities of the group to the parent);
+3. demonstrate, as part of the recovery and resolution planning process, that they are able to produce the essential information needed to implement such plans within a short period of time (for example, 24 hours); and
+4. maintain specific information at a legal entity level, including, for example, information on intra-group guarantees and intra-group trades booked on a back-to-back basis.

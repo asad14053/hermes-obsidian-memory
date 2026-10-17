@@ -2,7 +2,7 @@
 type: project-overview
 project: "ReelFactory"
 status: active
-last_updated: 2026-10-04
+last_updated: 2026-10-17
 confidence: high
 ---
 
@@ -46,9 +46,13 @@ Build a local-first automated reel/photo-card factory on Windows using local/ope
 
 ## Next production candidate
 
-- [[02_Projects/ReelFactory/production-candidates/2026-10-04-ai-benchmark-calibration|AI ব্যর্থ, নাকি মাপার পদ্ধতিতে সমস্যা?]]
+- [[02_Projects/ReelFactory/production-candidates/2026-10-11-bank-rescue-who-pays|Bank rescue: who pays?]] — `source-backed-outline-not-script-locked`; approval, legal, fiscal, and asset-rights checks remain open.
 
 ## Research backlog
+
+- [[02_Projects/ReelFactory/production-candidates/2026-10-10-nct-concession-public-value|NCT–DP World: ১৫ বছরের চুক্তিতে বাংলাদেশের লাভ মাপব কীভাবে?]] — `source-backed-outline-not-script-locked`.
+
+- [[02_Projects/ReelFactory/production-candidates/2026-10-04-ai-benchmark-calibration|AI ব্যর্থ, নাকি মাপার পদ্ধতিতে সমস্যা?]]
 
 - [[02_Projects/ReelFactory/production-candidates/2026-10-03-robots-capability-versus-cost|রোবট কাজ পারলেই চাকরি যাবে? খরচের হিসাবটা দেখুন]]
 

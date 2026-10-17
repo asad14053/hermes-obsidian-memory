@@ -1,0 +1,51 @@
+{
+  "scores": {
+    "Bank resolution / taxpayer support": [
+      10,
+      10,
+      8,
+      9,
+      10,
+      8,
+      10
+    ],
+    "Border biometrics procurement": [
+      9,
+      9,
+      6,
+      9,
+      10,
+      8,
+      10
+    ],
+    "Solar target audit": [
+      9,
+      9,
+      6,
+      8,
+      10,
+      8,
+      9
+    ],
+    "VINTER tissue reading": [
+      7,
+      9,
+      7,
+      8,
+      10,
+      7,
+      9
+    ]
+  },
+  "totals": {
+    "Bank resolution / taxpayer support": 65,
+    "Border biometrics procurement": 61,
+    "Solar target audit": 59,
+    "VINTER tissue reading": 57
+  },
+  "nominal_scenario_crore": {
+    "5_years": 300000,
+    "8_years": 480000
+  },
+  "assumption": "Same 60000 crore annual allocation; no discounting, recoveries, offsets or approval assumed"
+}

@@ -2,7 +2,7 @@
 type: errors-fixes
 project: "AIVC"
 status: planning
-last_updated: 2026-10-10
+last_updated: 2026-10-17
 confidence: medium
 ---
 
@@ -17,5 +17,6 @@ confidence: medium
 - **Pitfall:** Validating on only nominally significant measured genes. **Fix:** report the full frozen common-gene universe; keep selected-gene sign concordance as a transparent secondary diagnostic and redo selection inside resampling when making inferential claims.
 - **Pitfall:** Conflating refitted no-context ablations with frozen-model input replacements. **Fix:** use the former to test incremental information and the latter to test fitted reliance; neither alone establishes biological causality.
 - **Pitfall:** Tuning transfer or calibration rules on final-test responses. **Fix:** declare any target-calibration sample separately and protect the final test from model selection.
+- **Pitfall:** Interpreting donor-held-out spatial/context prediction gains as neighborhood biology without excluding capture gradients or composition proxies. **Fix:** prespecify assay-specific nuisance adjustment plus composition-matched and shuffled-neighborhood controls; require independent-assay confirmation before biological interpretation. **⚠️ VERIFY:** preprint-derived safeguard, not an AIVC result or adopted architecture change.
 
-Source: [[02_Projects/AIVC/reviews/2026-10-06-NIA-K99-study-section-review]]. These are reusable design safeguards, not confirmed implementation bugs.
+Sources: [[02_Projects/AIVC/reviews/2026-10-06-NIA-K99-study-section-review]]; [[02_Projects/AIVC/literature/2026-10-16-literature-radar]]. These are reusable design safeguards, not confirmed implementation bugs.

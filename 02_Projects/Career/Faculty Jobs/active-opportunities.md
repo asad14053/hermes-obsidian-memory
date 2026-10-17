@@ -2,13 +2,33 @@
 type: active-opportunities
 project: "Faculty Jobs"
 status: active
-last_updated: 2026-10-08
+last_updated: 2026-10-17
 confidence: medium
 ---
 
 # Faculty Jobs — Active Opportunities
 
-⚠️ VERIFY every live posting immediately before investing in or submitting an application. Statuses and dates below are dated snapshots from the linked reports, most recently October 8, not guarantees that searches remain open or have not begun shortlisting. All entries were classified **STRONG POSSIBILITY**, not APPLY. Older entries were not all reverified on October 8.
+⚠️ VERIFY every live posting immediately before investing in or submitting an application. Statuses and dates below are dated snapshots from the linked reports, most recently October 15, not guarantees that searches remain open or have not begun shortlisting. All entries in this index were classified **STRONG POSSIBILITY**, not APPLY. Older entries were not all reverified on October 15.
+
+## Newly discovered — October 15
+
+Full assessments, source provenance and eligibility caveats: [[2026-10-15-faculty-job-intelligence]]. Scores are agent judgments; all are **STRONG POSSIBILITY**.
+
+| Opportunity | Application target | Natural home / fit | Critical caveat / next action |
+|---|---|---|---|
+| [UC Berkeley — CCB/BCBI Computational Biomedicine, JPF05568](https://aprecruit.berkeley.edu/JPF05568) | **Nov 18, 2026, 11:59 p.m. Pacific — final** | HIGH / 8/10 | Best new methods-first home; explicit spatial/single-cell/multimodal integration. Broad doctoral qualification accommodates ECE, but original computational-method contribution needs publication-level audit. Distinct from EECS JPF05560. |
+| [Johns Hopkins — Biology / Computational Biology](https://apply.interfolio.com/194924) | **Nov 8, 2026** full consideration; later applications accepted | HIGH / 7.5/10 | Targeted dry-lab genetics/genomics search. Requires PhD and postdoctoral experience or equivalent, without a numerical duration. Lead with an independent biological question and completed GeneBridge/SCZ evidence; start date not stated. |
+| [Boston University — BME / Brain Health, AJO 32490](https://academicjobsonline.org/ajo/jobs/32490) | **Dec 11, 2026** full consideration; committee plans review through Dec 31 | HIGH / 7.5/10 | **Pending Provost approval.** Confirm molecular/spatial neurogenomics focus and ECE interpretation. Explicit computational-neuroscience/brain-health remit; distinct from CDS 32632. |
+
+## Newly discovered — October 12
+
+Full assessments, source provenance and retrieval caveats: [[2026-10-12-faculty-job-intelligence]]. Scores are agent judgments; all are **STRONG POSSIBILITY**.
+
+| Opportunity | Application target | Natural home / fit | Critical caveat / next action |
+|---|---|---|---|
+| [Penn State — CS / Huck life-sciences cluster](https://www.engr.psu.edu/academic-positions/details.aspx?Job_Req=REQ_0000074193) | **Deadline not stated in recovered official text** | MEDIUM / 7.5/10 | Best new methods-first bridge, conditional on an original transferable computational contribution and CS teaching case. Confirm timetable and ECE interpretation. University-linked Workday application could not be extracted. |
+| [Yale — Computational/Theoretical Neuroscience](https://apply.interfolio.com/190740/) | **Nov 30, 2026** priority; until filled | MEDIUM / 7.5/10 | Distinct from BIDS. Explicit bioinformatics/molecular-modeling route; lead with a completed neuroscience finding, not an unvalidated AIVC architecture. Current Yale listing and correct portal extraction verified. |
+| [UT Dallas — Computational Neuroscience, F01182P](https://jobs.utdallas.edu/postings/32831) | **Dec 31, 2026** priority; **Feb 28, 2027** closing | MEDIUM / 7/10 | Confirm molecular/spatial neurogenomics hiring priority and ECE eligibility. Three classes per academic year; circuit/dynamics emphasis is a fit risk. Original posting 32743 links current posting/application 32831; one search. |
 
 ## Newly discovered — October 8
 
@@ -35,7 +55,7 @@ Details, evidence levels and retrieved source links: [[2026-10-05-faculty-job-in
 
 | Opportunity | Dated target | Critical caveat / next action |
 |---|---:|---|
-| [Brown CCMB / Computer Science — Computational Biology](https://apply.interfolio.com/189906) | **Oct 15, 2026** full consideration, including letters | ⚠️ VERIFY the deadline year in the live portal. Confirm a publication-backed original method and a genuine regulatory/RNA question before rushing an application. |
+| [Brown CCMB / Computer Science — Computational Biology](https://apply.interfolio.com/189906) | **Oct 15, 2026** full consideration, including letters — passed | ⚠️ VERIFY the live portal, deadline year, and whether late applications remain accepted and worthwhile. Confirm a publication-backed original method and a genuine regulatory/RNA question before investing effort. |
 | [UC Irvine — Systems Biology, JPF10377](https://recruit.ap.uci.edu/JPF10377) | Oct 1 priority passed; **Oct 31, 2026 PT** final acceptance only if unfilled | ⚠️ VERIFY that the search still accepts applications. Do not use the conflicting mirror “start date.” |
 | [Duke BME/CAGT — AJO 32682](https://academicjobsonline.org/ajo/jobs/32682) | **Nov 2, 2026** priority | Confirm the portal’s conflicting reference requirement: 3–5 contacts/letters later versus five letters in the checklist. ECE eligibility under “related field” is plausible, not confirmed. |
 | [UC Berkeley EECS/CCB — AI for Biology, JPF05560](https://aprecruit.berkeley.edu/JPF05560) | **Nov 9, 2026** final | Apply only if representative publications substantiate a generalizable AI/ML contribution; spatial-genomics topical fit alone is insufficient. |
@@ -58,6 +78,7 @@ Details, evidence levels and retrieved source links: [[2026-10-05-faculty-job-in
 
 ## Source reports
 
+- [[02_Projects/Career/Faculty Jobs/2026-10-12-faculty-job-intelligence]]
 - [[02_Projects/Career/Faculty Jobs/2026-10-08-faculty-job-intelligence]]
 - [[02_Projects/Career/Faculty Jobs/2026-10-05-faculty-job-intelligence]]
 - [[02_Projects/Career/Faculty Jobs/2026-09-28-faculty-job-intelligence]]
