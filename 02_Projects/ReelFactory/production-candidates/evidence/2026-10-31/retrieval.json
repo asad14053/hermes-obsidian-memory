@@ -1,0 +1,42 @@
+[
+  {
+    "slug": "tbs-latest",
+    "url": "https://publisher.tbsnews.net/bangladesh/health/measles-death-toll-1252-1-more-child-dies-1588426",
+    "title": "Measles death toll at 1,252 as 1 more child dies",
+    "chars": 1045,
+    "error": null,
+    "ledger": "[1] https://publisher.tbsnews.net/bangladesh/health/measles-death-toll-1252-1-more-child-dies-1588426"
+  },
+  {
+    "slug": "cdc-eid",
+    "url": "https://wwwnc.cdc.gov/eid/article/32/11/26-0996_article",
+    "title": "Nationwide Surveillance and Control Measures during Large Measles Outbreak, Bangladesh, 2026",
+    "chars": 15882,
+    "error": null,
+    "ledger": "[2] https://wwwnc.cdc.gov/eid/article/32/11/26-0996_article"
+  },
+  {
+    "slug": "reliefweb-ifrc",
+    "url": "https://reliefweb.int/report/bangladesh/bangladesh-measles-dref-operation-update-mdrbd039-october-2026",
+    "title": "Bangladesh Measles - DREF Operation Update (MDRBD039) - October 2026",
+    "chars": 4245,
+    "error": null,
+    "ledger": "[3] https://reliefweb.int/report/bangladesh/bangladesh-measles-dref-operation-update-mdrbd039-october-2026"
+  },
+  {
+    "slug": "who-april",
+    "url": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON598",
+    "title": "Item",
+    "chars": 15108,
+    "error": null,
+    "ledger": "[4] https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON598"
+  },
+  {
+    "slug": "reuters-straits-times",
+    "url": "https://www.straitstimes.com/asia/south-asia/bangladesh-is-battling-measles-its-a-real-warning-to-other-nations",
+    "title": "Bangladesh measles outbreak warns of vaccine gaps",
+    "chars": 9970,
+    "error": null,
+    "ledger": "[5] https://www.straitstimes.com/asia/south-asia/bangladesh-is-battling-measles-its-a-real-warning-to-other-nations"
+  }
+]

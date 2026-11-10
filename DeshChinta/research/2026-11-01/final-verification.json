@@ -1,0 +1,182 @@
+{
+  "verified_at": "2026-11-01T12:19:05+00:00",
+  "topics_count": 3,
+  "topic_fields": [
+    {
+      "topic": 1,
+      "missing": [],
+      "complete": true
+    },
+    {
+      "topic": 2,
+      "missing": [],
+      "complete": true
+    },
+    {
+      "topic": 3,
+      "missing": [],
+      "complete": true
+    }
+  ],
+  "all_required_fields_complete": true,
+  "treatments_count": 3,
+  "selected_reels": [
+    {
+      "number": 1,
+      "treatment": "Trafficking"
+    },
+    {
+      "number": 2,
+      "treatment": "Trafficking"
+    },
+    {
+      "number": 3,
+      "treatment": "Trafficking"
+    },
+    {
+      "number": 4,
+      "treatment": "Trafficking"
+    },
+    {
+      "number": 5,
+      "treatment": "LDC"
+    },
+    {
+      "number": 6,
+      "treatment": "LDC"
+    },
+    {
+      "number": 7,
+      "treatment": "LDC"
+    },
+    {
+      "number": 8,
+      "treatment": "Wage"
+    },
+    {
+      "number": 9,
+      "treatment": "Wage"
+    },
+    {
+      "number": 10,
+      "treatment": "Wage"
+    }
+  ],
+  "selected_reels_total": 10,
+  "selected_reel_numbers": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+  ],
+  "selected_reel_distribution": {
+    "Trafficking": 4,
+    "LDC": 3,
+    "Wage": 3
+  },
+  "review": {
+    "exit_code": 0,
+    "session_id": "20261101_121428_db09d3",
+    "model": "gpt-5.6-sol",
+    "provider": "openai-codex",
+    "api_call_count": 1,
+    "substantive": true,
+    "word_count": 1181,
+    "within_1200_word_limit": true,
+    "word_count_method": "whitespace tokens, matching wc -w result"
+  },
+  "competitor": {
+    "channel_identity_ok": true,
+    "video_count": 30,
+    "unique_video_ids": 30,
+    "latest_id": "YSNoS0UqGPg",
+    "coverage": "initial videos tab only; no continuation requested"
+  },
+  "files": {
+    "editorial-dossier.md": {
+      "exists": true,
+      "bytes": 27005
+    },
+    "editorial-dossier-reviewed.md": {
+      "exists": true,
+      "bytes": 27851
+    },
+    "script-treatments-draft.md": {
+      "exists": true,
+      "bytes": 22437
+    },
+    "script-treatments-reviewed.md": {
+      "exists": true,
+      "bytes": 23942
+    },
+    "gpt-5.6-sol-review.md": {
+      "exists": true,
+      "bytes": 10713
+    },
+    "review-input.txt": {
+      "exists": true,
+      "bytes": 52488
+    },
+    "review-stdout.txt": {
+      "exists": true,
+      "bytes": 10236
+    },
+    "review-stderr.txt": {
+      "exists": true,
+      "bytes": 36
+    },
+    "review-provenance.json": {
+      "exists": true,
+      "bytes": 1183
+    },
+    "review-disposition.md": {
+      "exists": true,
+      "bytes": 2771
+    },
+    "citation-ledger.json": {
+      "exists": true,
+      "bytes": 8390
+    },
+    "evidence-manifest.json": {
+      "exists": true,
+      "bytes": 5139
+    },
+    "acceptance-checklist.md": {
+      "exists": true,
+      "bytes": 5022
+    },
+    "competitor/channel-metadata.json": {
+      "exists": true,
+      "bytes": 9239
+    },
+    "competitor/watch-metadata.json": {
+      "exists": true,
+      "bytes": 1363
+    },
+    "competitor/retrieval-log.md": {
+      "exists": true,
+      "bytes": 1727
+    }
+  },
+  "all_required_files_nonempty": true,
+  "watch_state": {
+    "current_eval": "COMPLETE",
+    "selected_reels_total": 10,
+    "global_cutoff": null,
+    "last_run_completed_at": "2026-11-01T12:19:05+00:00"
+  },
+  "index_links_current_run": true,
+  "citation_verification": {
+    "dossier_exit": 0,
+    "treatments_exit": 0,
+    "evidence_gate": true,
+    "executed_at": "2026-11-01T12:19:05+00:00"
+  },
+  "overall_complete": true
+}

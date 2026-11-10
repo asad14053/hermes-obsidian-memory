@@ -1,0 +1,17 @@
+{
+  "reviewed-scripts": {
+    "render_exit": 0,
+    "verify_exit": 0,
+    "output": "info: stats: 227 prose sentence(s), 36 with declared provenance (16%) \u2014 36 cited, 0 marked [unverified] (a sentence may be both); 12 distinct source(s) cited, 12 in ledger (12 with evidence quotes)\ncitations OK\n"
+  },
+  "recovered-evidence": {
+    "render_exit": 0,
+    "verify_exit": 0,
+    "output": "info: stats: 39 prose sentence(s), 14 with declared provenance (36%) \u2014 14 cited, 0 marked [unverified] (a sentence may be both); 6 distinct source(s) cited, 6 in ledger (6 with evidence quotes)\ncitations OK\n"
+  },
+  "competitor-content": {
+    "render_exit": 0,
+    "verify_exit": 0,
+    "output": "info: stats: 27 prose sentence(s), 9 with declared provenance (33%) \u2014 9 cited, 0 marked [unverified] (a sentence may be both); 1 distinct source(s) cited, 1 in ledger (1 with evidence quotes)\ncitations OK\n"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "scoring_method": "Equal weighting; seven 1-10 editorial estimates; not measured audience demand.",
+  "generated_at_utc": "2026-11-01T13:02:38Z",
+  "rows": [
+    {
+      "candidate": "Bangladeshis recruited to Russia war via deceptive/coercive routes",
+      "public_interest": 10,
+      "timeliness": 10,
+      "evidence_strength": 9,
+      "novelty": 9,
+      "channel_fit": 10,
+      "viral_potential": 9,
+      "meaningful_explanation": 10,
+      "total": 67
+    },
+    {
+      "candidate": "Bangladesh LDC extension to 2029 accountability clock",
+      "public_interest": 9,
+      "timeliness": 9,
+      "evidence_strength": 10,
+      "novelty": 8,
+      "channel_fit": 10,
+      "viral_potential": 8,
+      "meaningful_explanation": 10,
+      "total": 64
+    },
+    {
+      "candidate": "AI agents controlling physical equipment",
+      "public_interest": 8,
+      "timeliness": 10,
+      "evidence_strength": 7,
+      "novelty": 10,
+      "channel_fit": 8,
+      "viral_potential": 10,
+      "meaningful_explanation": 10,
+      "total": 63
+    },
+    {
+      "candidate": "RMG wage board process, not an approved Tk 30,000 wage",
+      "public_interest": 10,
+      "timeliness": 10,
+      "evidence_strength": 7,
+      "novelty": 7,
+      "channel_fit": 10,
+      "viral_potential": 9,
+      "meaningful_explanation": 10,
+      "total": 63
+    },
+    {
+      "candidate": "DeepSeek persistent open coding-agent prototype",
+      "public_interest": 8,
+      "timeliness": 10,
+      "evidence_strength": 9,
+      "novelty": 9,
+      "channel_fit": 8,
+      "viral_potential": 9,
+      "meaningful_explanation": 9,
+      "total": 62
+    },
+    {
+      "candidate": "ChatGPT violence-focused conversation interventions",
+      "public_interest": 9,
+      "timeliness": 9,
+      "evidence_strength": 9,
+      "novelty": 8,
+      "channel_fit": 8,
+      "viral_potential": 8,
+      "meaningful_explanation": 9,
+      "total": 60
+    }
+  ]
+}

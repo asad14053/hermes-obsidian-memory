@@ -1,0 +1,3 @@
+Executor Sessions run commands without approval as the operator's OS user.
+
+These wrappers and directories establish defaults, not a security boundary. A worker can still execute a program by absolute path.

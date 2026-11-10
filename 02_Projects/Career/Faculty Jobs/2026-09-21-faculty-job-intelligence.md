@@ -42,6 +42,8 @@ Fit scores and classifications are agent assessments of research alignment, not 
 
 ### UCSF — Institute for Human Genetics
 
+> **Material update verified October 22, 2026:** The official next-review date is now **November 1, 2026, 11:59 p.m. Pacific**, replacing the October 1 snapshot below; final acceptance remains November 6, 2027 if unfilled. This is the same `JPF06052` search, not a new opening. Current assessment remains STRONG POSSIBILITY; see [[2026-10-22-faculty-job-intelligence]] for the stricter readiness assessment and ladder-rank/postdoctoral-experience caveats. [Current official posting](https://aprecruit.ucsf.edu/JPF06052)
+
 - **University:** University of California, San Francisco. [Official posting](https://aprecruit.ucsf.edu/JPF06052)
 - **Department:** Institute for Human Genetics; the eventual academic department is selected to fit the appointee’s expertise. Do not assign a specific home department prematurely. [Official posting](https://aprecruit.ucsf.edu/JPF06052)
 - **Position title:** Faculty Positions — Institute for Human Genetics, JPF06052; Assistant, Associate, or Full Professor, ladder-rank or in-residence series. [Official posting](https://aprecruit.ucsf.edu/JPF06052)

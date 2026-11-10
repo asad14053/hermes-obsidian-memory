@@ -1,0 +1,201 @@
+{
+  "version": 1,
+  "sources": [
+    {
+      "id": 1,
+      "url": "https://measles.dghs.gov.bd/bulletin",
+      "title": "DGHS Measles Outbreak Monitoring Bulletin, 3 Nov 2026",
+      "accessed": "2026-11-03",
+      "quotes": [
+        {
+          "text": "03 Nov | 1,318 | 232,823 | 82 | 24,073 | 6 | 1,263 | 207,428 | 198,752 |",
+          "added": "2026-11-03"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "url": "https://www.tbsnews.net/bangladesh/health/measles-death-toll-reaches-1263-6-more-children-die-1591441",
+      "title": "TBS: Measles death toll reaches 1,263",
+      "accessed": "2026-11-03",
+      "quotes": [
+        {
+          "text": "Six more children died from suspected measles infections in Bangladesh in the 24 hours until 8am today (3 November), taking the combined toll of suspected and laboratory-confirmed measles-related deaths to 1,263.",
+          "added": "2026-11-03"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "url": "https://wwwnc.cdc.gov/eid/article/32/11/26-0996_article",
+      "title": "CDC EID: Bangladesh measles outbreak 2026",
+      "accessed": "2026-11-03",
+      "quotes": [
+        {
+          "text": "Vaccine stockouts, discontinued vaccination campaigns, and coverage overestimation likely contributed to Bangladesh’s largest recorded measles outbreak.",
+          "added": "2026-11-03"
+        }
+      ]
+    },
+
+    {
+      "id": 5,
+      "url": "https://www.tbsnews.net/economy/rmg/rmg-unrest-continues-gazipur-ashulia-bgb-deployed-police-fire-tear-gas-1591016",
+      "title": "TBS: RMG unrest, 3 Nov 2026",
+      "accessed": "2026-11-03",
+      "quotes": [
+        {
+          "text": "More than 300 factories in Mirpur, Gazipur, Mymensingh, and Savar's Ashulia and Zirani areas declared holidays this morning as nearly 6.95 lakh workers left workplaces, according to the Bangladesh Garment Manufacturers and Exporters Association (BGMEA).",
+          "added": "2026-11-03"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "url": "https://bdnews24.com/bangladesh/as8mbcq4ib",
+      "title": "bdnews24: 16 arrested in Mirpur wage protests",
+      "accessed": "2026-11-03",
+      "quotes": [
+        {
+          "text": "Police have arrested 16 people in Mirpur on the sixth day of protests by garment workers demanding a minimum monthly wage of Tk 30,000.",
+          "added": "2026-11-03"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "url": "https://www.channelnewsasia.com/asia/bangladesh-garment-workers-protest-wages-6516186",
+      "title": "Reuters via CNA: fourth day of garment wage protests",
+      "accessed": "2026-11-03",
+      "quotes": [
+        {
+          "text": "Garment workers in Bangladesh staged a fourth day of wage protests on Tuesday (Nov 3), with police firing tear gas to disperse demonstrators as unrest disrupted factory operations and transport links in the country's vital export sector.",
+          "added": "2026-11-03"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "url": "https://today.thefinancialexpress.com.bd/public/first-page/679-factories-shut-amid-fresh-unrest-1793641825",
+      "title": "Financial Express: 679 factories shut amid unrest",
+      "accessed": "2026-11-03",
+      "quotes": [
+        {
+          "text": "After receiving the name of the workers' representative on October 31, the Ministry of Labour and Employment issued a gazette notification on November 1 constituting the wage board, he said.",
+          "added": "2026-11-03"
+        }
+      ]
+    },
+
+    {
+      "id": 10,
+      "url": "https://www.tbsnews.net/bangladesh/solar-not-quick-rentals-address-power-crisis-pm-1591206",
+      "title": "TBS: PM solar target and financing",
+      "accessed": "2026-11-03",
+      "quotes": [
+        {
+          "text": "The prime minister said the government aimed to add 3,000 to 4,000 megawatts of solar power to the national grid before the beginning of the next summer season, provided everything progressed as planned.",
+          "added": "2026-11-03"
+        },
+        {
+          "text": "As part of efforts to expand solar power, the government had initially allocated Tk 1,500 crore to a fund to facilitate financing for the sector, he said, adding that further funds would be arranged gradually.",
+          "added": "2026-11-03"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "url": "https://www.dpp.gov.bd/bgpress/index.php/document/get_extraordinary/63281",
+      "title": "Bangladesh Gazette: Special Solar Power Installation Ordinance 2026",
+      "accessed": "2026-11-03",
+      "quotes": [
+        {
+          "text": "অধ্যাদেশ নং ৩৯, ২০২৬।--বিশেষ সৌরবিদ্যুৎ স্থাপন অধ্যাদেশ, ২০২৬।",
+          "added": "2026-11-03"
+        }
+      ]
+    },
+
+    {
+      "id": 13,
+      "url": "https://www.thedailystar.net/business/economy/news/rooftops-water-bodies-and-tea-gardens-now-open-private-solar-investors-4304406",
+      "title": "Daily Star: analysis of solar ordinance",
+      "accessed": "2026-11-03",
+      "quotes": [
+        {
+          "text": "The rules come from a new ordinance the government issued on Monday. Titled the “Special Solar Power Installation Ordinance, 2026”, it covers solar projects of up to 5 megawatts on rooftops, courtyards, unused land, tea gardens and water bodies.",
+          "added": "2026-11-03"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "url": "https://summitpowerinternational.com/summit-lng-terminal-clarification-scheduled-maintenance",
+      "title": "Summit LNG Terminal maintenance clarification",
+      "accessed": "2026-11-03",
+      "quotes": [
+        {
+          "text": "Summit LNG Terminal ('SLNG') wishes to clarify that the maintenance activities scheduled from 0800 hrs on 4 November 2026 until 1600 hrs on 7 November 2026 are part of the terminal's regular planned maintenance programme and should not be characterized as emergency maintenance.",
+          "added": "2026-11-03"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "url": "https://www.thedailystar.net/news/power-and-energy/news/gas-pressure-may-drop-across-bangladesh-nov-4-7-4312836",
+      "title": "Daily Star: Petrobangla gas supply warning",
+      "accessed": "2026-11-03",
+      "quotes": [
+        {
+          "text": "During the period, LNG supply to the national grid will fall by 320 million cubic feet per day (mmcfd), from the current 920mmcfd to 600mmcfd. Consequently, the country's overall gas supply will decline from around 2,550mmcfd to 2,230mmcfd.",
+          "added": "2026-11-03"
+        }
+      ]
+    },
+
+    {
+      "id": 17,
+      "url": "https://www.tbsnews.net/bangladesh/btrc-proposes-20-year-spectrum-allocation-revised-fees-1590986",
+      "title": "TBS: BTRC spectrum allocation proposal",
+      "accessed": "2026-11-03",
+      "quotes": [
+        {
+          "text": "At mobile operators' demands, the Bangladesh Telecommunication Regulatory Commission (BTRC) has proposed extending spectrum allocation tenures from 15 to 20 years.",
+          "added": "2026-11-03"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "url": "https://www.thedailystar.net/business/economy/news/btrc-seeks-tk-21250cr-spectrum-renewal-4313996",
+      "title": "Daily Star: BTRC spectrum renewal bill",
+      "accessed": "2026-11-03",
+      "quotes": [
+        {
+          "text": "The telecom regulator is seeking to raise the spectrum renewal bill for Grameenphone, Robi and Banglalink to around Tk 21,250 crore under a revised plan to extend their licence period to 20 years.",
+          "added": "2026-11-03"
+        },
+        {
+          "text": "In its earlier proposal made on October 15, the regulator had recommended cutting spectrum prices by 10-30 percent, bringing the total renewal cost to around Tk 13,100 crore.",
+          "added": "2026-11-03"
+        },
+        {
+          "text": "The proposal covers 79.2 megahertz (MHz) of spectrum in the 900MHz, 1800MHz and 2100MHz bands held by the three operators.",
+          "added": "2026-11-03"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "url": "https://today.thefinancialexpress.com.bd/trade-market/amtob-seeks-further-cut-in-proposed-btrc-prices-1793120852",
+      "title": "Financial Express: AMTOB spectrum pricing request",
+      "accessed": "2026-11-03",
+      "quotes": [
+        {
+          "text": "The Association of Mobile Telecom Operators of Bangladesh (AMTOB) has sought a further reduction in proposed spectrum renewal prices, arguing that the cost of renewing licences for 900 MHz, 1800 MHz, and 2100 MHz bands should be determined by long-term investment needs rather than a simple extension of the existing pricing formula.",
+          "added": "2026-11-03"
+        }
+      ]
+    }
+  ]
+}

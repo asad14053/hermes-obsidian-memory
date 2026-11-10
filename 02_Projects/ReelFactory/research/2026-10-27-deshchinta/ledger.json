@@ -1,0 +1,859 @@
+{
+  "version": 1,
+  "sources": [
+    {
+      "id": 1,
+      "url": "https://thedailystar.net/news/politics/news/awami-league-has-always-departed-humiliation-and-disgrace-shafiqur-4308946",
+      "title": "‘Awami League has always departed in humiliation and disgrace’: Shafiqur",
+      "accessed": "2026-10-27"
+    },
+    {
+      "id": 2,
+      "url": "https://bdnews24.com/bangladesh/q1pervwqex",
+      "title": "Verdict against Hanif, 3 others in Kushtia 6 murders case on Thursday",
+      "accessed": "2026-10-27"
+    },
+    {
+      "id": 3,
+      "url": "https://bdnews24.com/bangladesh/d5zjhgutme",
+      "title": "Parties condemn attack on CPB headquarters, demand arrests",
+      "accessed": "2026-10-27",
+      "quotes": [
+        {
+          "text": "The left-wing alliance Ganatantrik Jukto Front held a protest rally and procession outside the National Press Club on Tuesday.",
+          "added": "2026-10-27"
+        },
+        {
+          "text": "It added that the office remained blockaded even after police arrived.",
+          "added": "2026-10-27"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "url": "https://thedailystar.net/news/governance/legal-system/news/igps-crossfire-remarks-embarrassing-govt-rizvi-4308826",
+      "title": "IGP’s ‘crossfire’ remarks embarrassing for govt: Rizvi",
+      "accessed": "2026-10-27"
+    },
+    {
+      "id": 5,
+      "url": "https://prokerala.com/news/articles/a1829677.html",
+      "title": "Bangladesh: Former PM Hasina alleges massive human rights violations under BNP rule",
+      "accessed": "2026-10-27"
+    },
+    {
+      "id": 6,
+      "url": "https://ianslive.in/bangladesh-former-pm-hasina-alleges-massive-human-rights-violations-under-bnp-rule--20261027204202",
+      "title": "Bangladesh: Former PM Hasina alleges massive human rights violations under BNP rule",
+      "accessed": "2026-10-27"
+    },
+    {
+      "id": 7,
+      "url": "https://socialnews.xyz/2026/10/27/bangladesh-former-pm-hasina-alleges-massive-human-rights-violations-under-bnp-rule",
+      "title": "Bangladesh: Former PM Hasina alleges massive human rights violations under BNP rule",
+      "accessed": "2026-10-27"
+    },
+    {
+      "id": 8,
+      "url": "https://www.ti-bangladesh.org/en/articles/press-release/7572",
+      "title": "Dangerous and Reckless Message of Using Extrajudicial Killings as a Shield for Failure to Maintain Law and Order;  TIB Calls for Withdrawal of IGPâs Remarks and Accountability",
+      "accessed": "2026-10-27",
+      "quotes": [
+        {
+          "text": "No government approval can legitimise an extrajudicial killing.",
+          "added": "2026-10-27"
+        },
+        {
+          "text": "The organisation has also called for his removal from office until accountability is ensured.",
+          "added": "2026-10-27"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "url": "https://www.bssnews.net/news-flash/438433",
+      "title": "Govt steps up anti-corruption drive with disciplinary action, 23 directives | News Flash",
+      "accessed": "2026-10-27"
+    },
+    {
+      "id": 10,
+      "url": "https://www.ti-bangladesh.org/en/articles/press-release/345",
+      "title": "New global initiative tests access to information on anti corruption efforts",
+      "accessed": "2026-10-27"
+    },
+    {
+      "id": 11,
+      "url": "https://thebangladeshtoday.com/bangladesh/2026/10/26/38704",
+      "title": "Govt steps up anti-corruption drive with disciplinary action, 23 directives - The Bangladesh Today",
+      "accessed": "2026-10-27"
+    },
+    {
+      "id": 12,
+      "url": "https://thefinancialexpress.com.bd/national/govt-pursuing-zero-tolerance-against-human-trafficking-organised-crime-home-minister",
+      "title": "The FE - Govt pursuing zero tolerance against human trafficking, organised crime: Home Minister",
+      "accessed": "2026-10-27"
+    },
+    {
+      "id": 13,
+      "url": "https://www.globalissues.org/news/2026/10/26/44426",
+      "title": "Upholding Human Rights & Public Safety: How Far Is ...",
+      "accessed": "2026-10-27"
+    },
+    {
+      "id": 14,
+      "url": "https://www.gov.uk/government/publications/bangladesh-country-policy-and-information-notes/country-policy-and-information-note-political-situation-bangladesh-october-2026-accessible",
+      "title": "Country policy and information note: political situation, ...",
+      "accessed": "2026-10-27"
+    },
+    {
+      "id": 15,
+      "url": "https://www.youtube.com/watch?v=S2oWE-PN6b8",
+      "title": "রাত ১ টার বাংলাভিশন সংবাদ | ২৭ অক্টোবর ২০২৬ | BanglaVision 1 AM ... - YouTube",
+      "accessed": "2026-10-27"
+    },
+    {
+      "id": 16,
+      "url": "https://www.youtube.com/watch?v=rUgjcvfc9Q4",
+      "title": "এটিএন বাংলার দুপুর ২ টার সংবাদ । ২৭.১০.২০২৬ | Today News - YouTube",
+      "accessed": "2026-10-27"
+    },
+    {
+      "id": 17,
+      "url": "https://www.youtube.com/watch?v=Pd8hmqbBuJU",
+      "title": "Headlines and Bulletin | 1 PM | 27 October 2026 | Jamuna TV - YouTube",
+      "accessed": "2026-10-27"
+    },
+    {
+      "id": 18,
+      "url": "https://www.youtube.com/watch?v=c208r3hhqgY",
+      "title": "আন্তর্জাতিক সময় | সকাল ৯টা | ২৭ অক্টোবর ২০২৬ | Somoy TV Bulletin ... - YouTube",
+      "accessed": "2026-10-27"
+    },
+    {
+      "id": 19,
+      "url": "https://www.youtube.com/watch?v=BypoEZqZtZo",
+      "title": "আজকের তাজা খবর ২৭ অক্টোবর ২০২৬ | Ajker Bangla Khobor | 27 October 2026 ...",
+      "accessed": "2026-10-27"
+    },
+    {
+      "id": 20,
+      "url": "https://www.youtube.com/watch?v=gUeSAu-h8jc",
+      "title": "সকালের সময় | সকাল ৮টা | ২৭ অক্টোবর ২০২৬ | Somoy TV Bulletin 8am - YouTube",
+      "accessed": "2026-10-27"
+    },
+    {
+      "id": 21,
+      "url": "https://tv9bangla.com/west-bengal/west-bengal-news-live-today-27-october-2026-cm-suvendu-adhikari-cyclone-arnab-1356140.html",
+      "title": "West bengal News LIVE: আজ মধ্যরাতেই শুরু তাণ্ডব! এগিয়ে এল অর্ণবের ...",
+      "accessed": "2026-10-27"
+    },
+    {
+      "id": 22,
+      "url": "https://tbsnews.net/economy/inflation-pushes-8-10-million-people-below-poverty-line-titumir-1579886",
+      "title": "Inflation pushes 8-10 million people below poverty line: Titumir",
+      "accessed": "2026-10-27"
+    },
+    {
+      "id": 23,
+      "url": "https://tbsnews.net/bangladesh/politics/ncp-unveils-tk852-lakh-crore-shadow-budget-2026-27-1455056",
+      "title": "NCP unveils Tk8.52 lakh crore shadow budget for 2026–27",
+      "accessed": "2026-10-27"
+    },
+    {
+      "id": 24,
+      "url": "https://tbsnews.net/economy/growth-trap-16-year-high-inflation-signal-deepening-crisis-bangladesh-economists-warn",
+      "title": "Growth trap, 16-year high inflation signal deepening crisis for Bangladesh, economists warn",
+      "accessed": "2026-10-27"
+    },
+    {
+      "id": 25,
+      "url": "https://tbsnews.net/economy/corporates/brac-university-dialogue-explores-bangladeshs-fy2026-27-budget-priorities-1514971",
+      "title": "BRAC University dialogue explores Bangladesh’s FY2026-27 budget priorities",
+      "accessed": "2026-10-27"
+    },
+    {
+      "id": 26,
+      "url": "https://tbsnews.net/economy/budget/10-priorities-proposed-budget-1460826",
+      "title": "10 priorities of the proposed budget",
+      "accessed": "2026-10-27"
+    },
+    {
+      "id": 27,
+      "url": "https://tbsnews.net/features/panorama/salaries-run-out-20-days-people-turn-borrowing-1581951",
+      "title": "As salaries run out in 20 days, people turn to borrowing",
+      "accessed": "2026-10-27"
+    },
+    {
+      "id": 28,
+      "url": "https://tbsnews.net/economy/imf-warns-bangladeshs-inflation-may-hit-109-fy27-highest-16-years-1571386",
+      "title": "IMF warns Bangladesh's inflation may hit 10.9% in FY27, highest in 16 years",
+      "accessed": "2026-10-27"
+    },
+    {
+      "id": 29,
+      "url": "https://www.tbsnews.net/bangladesh/igp-says-police-ready-crossfire-if-govt-allows-it-draws-flak-rights-groups-1583761",
+      "title": "Rights groups, experts slam IGP's crossfire remarks, demand accountability | The Business Standard",
+      "accessed": "2026-10-27"
+    },
+    {
+      "id": 30,
+      "url": "https://www.tbsnews.net/analysis/igps-crossfire-remarks-raise-questions-about-police-accountability-and-rule-law-1584416",
+      "title": "IGP's 'crossfire' remarks raise questions about police accountability and the rule of law | The Business Standard",
+      "accessed": "2026-10-27"
+    },
+    {
+      "id": 31,
+      "url": "https://www.thedailystar.net/news/news/igps-crossfire-remarks-do-not-reflect-govt-position-home-minister-4308816",
+      "title": "IGP’s ‘crossfire’ remarks do not reflect govt position: Home minister | The Daily Star",
+      "accessed": "2026-10-27",
+      "quotes": [
+        {
+          "text": "The government was firmly opposed to extrajudicial killings, enforced disappearances and custodial deaths, he said.",
+          "added": "2026-10-27"
+        },
+        {
+          "text": "Police Headquarters subsequently clarified that the IGP had not intended to endorse extrajudicial killings or punishment outside the judicial process.",
+          "added": "2026-10-27"
+        },
+        {
+          "text": "The practice became widespread after the BNP-led government established the Rapid Action Battalion (Rab) in 2004.",
+          "added": "2026-10-27"
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "url": "https://viewsbangladesh.com/crossfire-as-shield-for-failure-in-maintaining-law-and-order-is-dangerous-message-tib",
+      "title": "‘Crossfire’ as shield for failure in maintaining law and order is",
+      "accessed": "2026-10-27"
+    },
+    {
+      "id": 33,
+      "url": "https://asiadaily.org/news/16592",
+      "title": "Asia Daily - TIB Seeks Police Chief's Removal Over Crossfire…",
+      "accessed": "2026-10-27"
+    },
+    {
+      "id": 34,
+      "url": "https://www.thedailystar.net/news/governance/news/police-cannot-carry-out-crossfire-even-if-government-orders-it-adviser-zahed-4308651",
+      "title": "Police cannot carry out crossfire even if government orders it: Adviser Zahed | The Daily Star",
+      "accessed": "2026-10-27"
+    },
+    {
+      "id": 35,
+      "url": "https://www.thedailystar.net/news/news/police-will-use-crossfire-if-government-allows-it-igp-4307676",
+      "title": "Police will use ‘crossfire’ if government allows it: IGP | The Daily Star",
+      "accessed": "2026-10-27"
+    },
+    {
+      "id": 36,
+      "url": "https://www.un.org/ohrlls/news/bangladesh-graduation-readiness-assessment",
+      "title": "Bangladesh Graduation Readiness Assessment - UN.org",
+      "accessed": "2026-10-27",
+      "quotes": [
+        {
+          "text": "Bangladesh is scheduled to graduate from least developed country (LDC) status on 24 November 2026, following a five-year preparatory period approved by the General Assembly.",
+          "added": "2026-10-27"
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "url": "https://www.thedailystar.net/business/news/un-panel-sets-process-assess-bangladeshs-request-delay-ldc-graduation-4116596",
+      "title": "UN panel sets up process to assess Bangladesh's request to delay LDC ...",
+      "accessed": "2026-10-27"
+    },
+    {
+      "id": 38,
+      "url": "https://www.facebook.com/esginstitutebd/posts/bangladesh-is-scheduled-to-leave-the-least-developed-country-list-on-24-november/122222797508516553",
+      "title": "Bangladesh waits for UN LDC graduation decision 2026 - Facebook",
+      "accessed": "2026-10-27"
+    },
+    {
+      "id": 39,
+      "url": "https://mihcm.com/blog/ldc-graduation-workforce-productivity-bangladesh",
+      "title": "LDC Graduation & Workforce Productivity in Bangladesh MiHCM",
+      "accessed": "2026-10-27"
+    },
+    {
+      "id": 40,
+      "url": "https://nypm.mofa.gov.bd/pages/static-pages/695266a635ce18e1c05aa903",
+      "title": "Ldc Graduation | Pages",
+      "accessed": "2026-10-27"
+    },
+    {
+      "id": 41,
+      "url": "https://www.tbsnews.net/economy/bangladeshs-ldc-graduation-when-and-how-will-un-decide-1554346",
+      "title": "Bangladesh's LDC graduation: When and how will UN decide?",
+      "accessed": "2026-10-27"
+    },
+    {
+      "id": 42,
+      "url": "https://www.facebook.com/channel24live/posts/why-does-bangladesh-need-3-more-years-for-ldc-graduation-beyond-borders-channel-/1425844949749364",
+      "title": "Why does Bangladesh need 3 more years for LDC graduation?",
+      "accessed": "2026-10-27"
+    },
+    {
+      "id": 43,
+      "url": "https://www.tbsnews.net/features/panorama/salaries-run-out-20-days-people-turn-borrowing-1581951",
+      "title": "As salaries run out in 20 days, people turn to borrowing",
+      "accessed": "2026-10-27"
+    },
+    {
+      "id": 44,
+      "url": "https://www.un.org/ldcportal/content/graduation-process-and-cdp",
+      "title": "Graduation process and the CDP | LDC Portal - International Support Measures for Least Developed Countries",
+      "accessed": "2026-10-27"
+    },
+    {
+      "id": 45,
+      "url": "https://www.thedailystar.net/business/news/ldc-graduation-deferment-decision-expected-within-month-commerce-minister-4302406",
+      "title": "LDC graduation deferment decision expected within this month: commerce minister | The Daily Star",
+      "accessed": "2026-10-27"
+    },
+    {
+      "id": 46,
+      "url": "https://www.thedailystar.net/business/news/bangladesh-makes-final-push-defer-ldc-graduation-4267416",
+      "title": "Bangladesh Seeks 3 Year Delay in LDC Graduation | Bangladesh makes final push to defer LDC graduation | The Daily Star",
+      "accessed": "2026-10-27"
+    },
+    {
+      "id": 47,
+      "url": "http://www.daily-sun.com/diplomacy/887944/ecosoc-urges-unga-to-take-decision-on-bangladesh-ldc-graduation-extension-request",
+      "title": "ECOSOC urges UNGA to take decision on Bangladesh LDC graduation extension request",
+      "accessed": "2026-10-27"
+    },
+    {
+      "id": 48,
+      "url": "https://www.bernama.com/en/world/news.php?id=2626022",
+      "title": "BERNAMA - Malaysia, Bangladesh Set To Start FTA Talks In Dhaka",
+      "accessed": "2026-10-27",
+      "quotes": [
+        {
+          "text": "The two countries aim to conclude an FTA in 2027.",
+          "added": "2026-10-27"
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "url": "https://www.thedailystar.net/business/news/unprepared-ldc-graduation-bring-more-problems-3878851",
+      "title": "Unprepared LDC graduation to bring more problems | The Daily Star",
+      "accessed": "2026-10-27"
+    },
+    {
+      "id": 50,
+      "url": "https://bdlaws.minlaw.gov.bd/act-367/section-24579.html",
+      "title": "The Constitution of the People‌‌‍'s Republic of Bangladesh | 31. Right ...",
+      "accessed": "2026-10-27",
+      "quotes": [
+        {
+          "text": "31. To enjoy the protection of the law, and to be treated in accordance with law, and only in accordance with law, is the inalienable right of every citizen, wherever he may be, and of every other person for the time being within Bangladesh, and in particular no action detrimental to the life, liberty, body, reputation or property of any person shall be taken except in accordance with law.",
+          "added": "2026-10-27"
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "url": "https://bdlaws.minlaw.gov.bd/act-367/section-24580.html",
+      "title": "32. Protection of right to life and personal liberty - Laws of Bangladesh",
+      "accessed": "2026-10-27",
+      "quotes": [
+        {
+          "text": "32. No person shall be deprived of life or personal liberty save in accordance with law.",
+          "added": "2026-10-27"
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "url": "http://bdlaws.minlaw.gov.bd/act-367/part-details-200.html",
+      "title": "The Constitution of the People‌‌‍'s Republic of Bangladesh",
+      "accessed": "2026-10-27"
+    },
+    {
+      "id": 53,
+      "url": "https://bdlaws.minlaw.gov.bd/act-367.html",
+      "title": "The Constitution of the People‌‌‍'s Republic of Bangladesh",
+      "accessed": "2026-10-27"
+    },
+    {
+      "id": 54,
+      "url": "https://bdlaws.minlaw.gov.bd/act-details-367.html",
+      "title": "The Constitution of the People‌‌‍'s Republic of Bangladesh",
+      "accessed": "2026-10-27"
+    },
+    {
+      "id": 55,
+      "url": "https://bdlaws.minlaw.gov.bd/act-367/part-200.html",
+      "title": "The Constitution of the People‌‌‍'s Republic of Bangladesh",
+      "accessed": "2026-10-27"
+    },
+    {
+      "id": 56,
+      "url": "https://bdlaws.minlaw.gov.bd/act-details-24.html",
+      "title": "The Evidence Act, 1872 - Laws of Bangladesh",
+      "accessed": "2026-10-27"
+    },
+    {
+      "id": 57,
+      "url": "https://thedailystar.net/news/education/news/hsc-results-date-revised-october-31-4308686",
+      "title": "HSC results date revised to October 31",
+      "accessed": "2026-10-27"
+    },
+    {
+      "id": 58,
+      "url": "https://thedailystar.net/news/bangladesh/diplomacy/news/bangladesh-delegation-kunming-medical-university-discuss-expanding-education-ties-4308801",
+      "title": "Bangladesh delegation, Kunming Medical University discuss expanding education ties",
+      "accessed": "2026-10-27"
+    },
+    {
+      "id": 59,
+      "url": "https://thedailystar.net/news/bangladesh/news/digital-trail-track-learning-gaps-4308286",
+      "title": "A digital trail to track learning gaps",
+      "accessed": "2026-10-27"
+    },
+    {
+      "id": 60,
+      "url": "https://tbsnews.net/economy/corporates/mgis-no-1-honours-135-tea-stall-owners-children-gpa-5-ssc-examinations-1584691",
+      "title": "MGI’s No. 1 honours 135 tea stall owners’ children for GPA-5 in SSC examinations",
+      "accessed": "2026-10-27"
+    },
+    {
+      "id": 61,
+      "url": "https://thedailystar.net/news/education/news/hsc-2026-results-october-31-how-check-your-results-online-and-sms-4308776",
+      "title": "HSC 2026 results on October 31: How to check your results online and via SMS",
+      "accessed": "2026-10-27"
+    },
+    {
+      "id": 62,
+      "url": "https://tbsnews.net/bangladesh/education/hsc-equivalent-exam-results-deferred-31-oct-1584446",
+      "title": "HSC, equivalent exam results deferred to 31 Oct",
+      "accessed": "2026-10-27"
+    },
+    {
+      "id": 63,
+      "url": "https://en.banglanews24.com/national/news/bd/92049.details",
+      "title": "Vaccination drive in schools by a week: Dipu Moni",
+      "accessed": "2026-10-27"
+    },
+    {
+      "id": 64,
+      "url": "https://www.youtube.com/@EnayetChowdhuryOfficial/videos",
+      "title": "Enayet Chowdhury YouTube videos — initial tab capture",
+      "accessed": "2026-10-27",
+      "quotes": [
+        {
+          "text": "চট্টগ্রাম বন্দর বিদেশিদের হাতে গেলে সমস্যা যেখানে",
+          "added": "2026-10-27"
+        }
+      ]
+    },
+    {
+      "id": 65,
+      "url": "https://fta.miti.gov.my/index.php/pages/view/4",
+      "title": "MITI FTA",
+      "accessed": "2026-10-27"
+    },
+    {
+      "id": 66,
+      "url": "https://fta.miti.gov.my/index.php/pages/view/4?mid=23",
+      "title": "MITI FTA",
+      "accessed": "2026-10-27"
+    },
+    {
+      "id": 67,
+      "url": "https://fta.miti.gov.my/index.php/pages/view/12",
+      "title": "MITI FTA",
+      "accessed": "2026-10-27"
+    },
+    {
+      "id": 68,
+      "url": "https://fta.miti.gov.my/index.php",
+      "title": "MITI FTA",
+      "accessed": "2026-10-27"
+    },
+    {
+      "id": 69,
+      "url": "https://fta.miti.gov.my/index.php/pages/view/400",
+      "title": "MITI FTA",
+      "accessed": "2026-10-27"
+    },
+    {
+      "id": 70,
+      "url": "https://fta.miti.gov.my/index.php/pages/view/394?mid=77",
+      "title": "MITI FTA",
+      "accessed": "2026-10-27"
+    },
+    {
+      "id": 71,
+      "url": "https://www.miti.gov.my/index.php/pages/view/1401",
+      "title": "Ministry of Investment, Trade and Industry",
+      "accessed": "2026-10-27"
+    },
+    {
+      "id": 72,
+      "url": "https://www.facebook.com/DailyStarNews/posts/the-first-round-of-negotiations-for-a-free-trade-agreement-fta-between-banglades/1472044761743465",
+      "title": "The first round of negotiations for a free trade agreement (FTA ...",
+      "accessed": "2026-10-27"
+    },
+    {
+      "id": 73,
+      "url": "https://www.thedailystar.net/news/bangladesh/diplomacy/news/first-round-bangladesh-malaysia-fta-talks-oct-27-4307271",
+      "title": "First round of Bangladesh-Malaysia FTA talks Oct 27 | The Daily Star",
+      "accessed": "2026-10-27",
+      "quotes": [
+        {
+          "text": "A 30-member Malaysian delegation has arrived in Dhaka for the talks, which will be held at a city hotel, said Kamal Hossain, public relations officer of the commerce ministry.",
+          "added": "2026-10-27"
+        }
+      ]
+    },
+    {
+      "id": 74,
+      "url": "https://www.instagram.com/p/De8c5D3Dh0Y",
+      "title": "Bangladesh and Malaysia will hold the first round of negotiations on a ...",
+      "accessed": "2026-10-27"
+    },
+    {
+      "id": 75,
+      "url": "https://oananews.org/node/713183",
+      "title": "Malaysia-Bangladesh FTA First Round Negotiations Set For End ...",
+      "accessed": "2026-10-27"
+    },
+    {
+      "id": 76,
+      "url": "https://www.linkedin.com/posts/dotdebit_bangladeshmalaysia-fta-businessnews-activity-7508869933934759936-ogBu",
+      "title": "Bangladesh Malaysia FTA Negotiations to Begin in October",
+      "accessed": "2026-10-27"
+    },
+    {
+      "id": 77,
+      "url": "https://bilaterals.org/bangladesh-aims-to-finalise-fta",
+      "title": "Bangladesh aims to finalise FTA with Malaysia in 2026 - bilaterals.org",
+      "accessed": "2026-10-27"
+    },
+    {
+      "id": 78,
+      "url": "https://www.youtube.com/watch?v=LRiV-_oHe3w",
+      "title": "PM off to Kuala Lampur on two day official tour || Bulletin - YouTube",
+      "accessed": "2026-10-27"
+    },
+    {
+      "id": 79,
+      "url": "https://dhakaeducationboard.gov.bd/index.php/site/product/schoolordercircular",
+      "title": "Dhaka Education Board",
+      "accessed": "2026-10-27"
+    },
+    {
+      "id": 80,
+      "url": "https://dhakaeducationboard.gov.bd/data/20260105162241543268.pdf",
+      "title": "CamScanner 01-05-2026 12.51",
+      "accessed": "2026-10-27"
+    },
+    {
+      "id": 81,
+      "url": "https://deb113429.dhakaeducationboard.gov.bd",
+      "title": "RAJBARI GOVT. HIGH SCHOOL",
+      "accessed": "2026-10-27"
+    },
+    {
+      "id": 82,
+      "url": "https://deb108362.dhakaeducationboard.gov.bd",
+      "title": "UNIVERSITY LABORATORY COLLEGE",
+      "accessed": "2026-10-27"
+    },
+    {
+      "id": 83,
+      "url": "https://new.dhakaeducationboard.gov.bd/index.php/content/index/21",
+      "title": "Board of Intermediate and Secondary Education, Dhaka",
+      "accessed": "2026-10-27"
+    },
+    {
+      "id": 84,
+      "url": "https://deb110930.dhakaeducationboard.gov.bd",
+      "title": "GOVT. GHIOR COLLEGE",
+      "accessed": "2026-10-27"
+    },
+    {
+      "id": 85,
+      "url": "https://deb134446.dhakaeducationboard.gov.bd",
+      "title": "WINSOME COLLEGE",
+      "accessed": "2026-10-27"
+    },
+    {
+      "id": 86,
+      "url": "https://www.tbsnews.net/bangladesh/cpb-office-attacked-over-awami-league-links-1583911",
+      "title": "CPB office 'attacked' over Awami League links | The Business Standard",
+      "accessed": "2026-10-27",
+      "quotes": [
+        {
+          "text": "However, Paltan Police Station Officer-in-Charge Ariful Alam denied that an attack or injuries had occurred. He said tension prevailed at the scene and police were present.",
+          "added": "2026-10-27"
+        }
+      ]
+    },
+    {
+      "id": 87,
+      "url": "https://www.newagebd.net/archive",
+      "title": "New Age | Most Popular Outspoken English Daily in Bangladesh",
+      "accessed": "2026-10-27"
+    },
+    {
+      "id": 88,
+      "url": "https://tob.news/bangladeshis-saudi-execution-why-are-political-parties-silent",
+      "title": "Bangladeshis’ Saudi execution: Why are political parties silent?",
+      "accessed": "2026-10-27"
+    },
+    {
+      "id": 89,
+      "url": "https://dailynewnation.com/news/865480",
+      "title": "BNP govt anti-uprising, linked to AL Nahid",
+      "accessed": "2026-10-27"
+    },
+    {
+      "id": 90,
+      "url": "https://www.thedailystar.net/news/bangladesh/politics/news/bnp-will-resist-if-attacked-3453716",
+      "title": "BNP will resist if attacked | The Daily Star",
+      "accessed": "2026-10-27"
+    },
+    {
+      "id": 91,
+      "url": "https://www.thedailystar.net/backpage/cops-raid-cpb-office-1498846",
+      "title": "Cops 'raid CPB office' | The Daily Star",
+      "accessed": "2026-10-27",
+      "quotes": [
+        {
+          "text": "Mahmudul Haque, officer-in-charge of Paltan Police Station, told this correspondent that police did not conduct any raid in the CPB office.",
+          "added": "2026-10-27"
+        }
+      ]
+    },
+    {
+      "id": 92,
+      "url": "https://www.thedailystar.net/news/crime-justice/news/journalists-will-write-and-we-will-beat-them-again-shariatpur-bnp-leader-4256791",
+      "title": "‘Journalists will write, and we will beat them again’: Shariatpur BNP leader | The Daily Star",
+      "accessed": "2026-10-27"
+    },
+    {
+      "id": 93,
+      "url": "https://police.gov.bd/bn/wanted_person",
+      "title": "Bangladesh Police",
+      "accessed": "2026-10-27"
+    },
+    {
+      "id": 94,
+      "url": "https://pcc.police.gov.bd/ords/r/pcc/pcc/registration",
+      "title": "Account Registration",
+      "accessed": "2026-10-27"
+    },
+    {
+      "id": 95,
+      "url": "https://pcc.police.gov.bd/ords/r/pcc/pcc/login_desktop",
+      "title": "Log In",
+      "accessed": "2026-10-27"
+    },
+    {
+      "id": 96,
+      "url": "https://pcc.police.gov.bd/ords/r/pcc/pcc/apply?clear=12&cs=3XyesMC1fnEOpcBitg9UBl5koQyag3gObVNIjmUjCmos8hgpPHUTzO0-e4PQuDR4zjf5x1fCux_dJa0mLNUXtZQ&session=2114737374594",
+      "title": "Police Clearance - Log In",
+      "accessed": "2026-10-27"
+    },
+    {
+      "id": 97,
+      "url": "https://bpa.police.gov.bd/organogram",
+      "title": "Organogram - Bangladesh Police Academy",
+      "accessed": "2026-10-27"
+    },
+    {
+      "id": 98,
+      "url": "https://gd.police.gov.bd/LostFound/OfficerInsearch/OCDashboard",
+      "title": "Login - Online GD",
+      "accessed": "2026-10-27"
+    },
+    {
+      "id": 99,
+      "url": "https://iphq.police.gov.bd/noc",
+      "title": "NOC - Industrial Police Headquarters",
+      "accessed": "2026-10-27"
+    },
+    {
+      "id": 100,
+      "url": "https://www.tbsnews.net/bangladesh/bangladesh-malaysia-begin-fta-talks-aim-complete-deal-2027-1584216",
+      "title": "Bangladesh, Malaysia begin FTA talks, aim to complete deal by 2027 | The Business Standard",
+      "accessed": "2026-10-27",
+      "quotes": [
+        {
+          "text": "The three-day talks will continue until 29 October.",
+          "added": "2026-10-27"
+        },
+        {
+          "text": "She said the negotiations would focus on reaching a consensus on key issues, including trade in goods and services, rules of origin and customs procedures, while safeguarding the interests of both countries.",
+          "added": "2026-10-27"
+        }
+      ]
+    },
+    {
+      "id": 101,
+      "url": "https://www.bssnews.net/news/438845",
+      "title": "Bangladesh, Malaysia begin FTA talks, target deal by 2027 | News",
+      "accessed": "2026-10-27",
+      "quotes": [
+        {
+          "text": "The two sides signed the Terms of Reference (ToR) to establish the framework and scope of the negotiations.",
+          "added": "2026-10-27"
+        }
+      ]
+    },
+    {
+      "id": 102,
+      "url": "https://thefinancialexpress.com.bd/bangladesh/bangladesh-malaysia-begin-fta-talks-target-deal-by-2027",
+      "title": "The FE - Bangladesh, Malaysia begin FTA talks, target deal by 2027",
+      "accessed": "2026-10-27"
+    },
+    {
+      "id": 103,
+      "url": "https://www.tbsnews.net/economy/bangladesh-malaysia-set-begin-fta-talks-today-1583916",
+      "title": "Bangladesh, Malaysia set to begin FTA talks today | The Business Standard",
+      "accessed": "2026-10-27"
+    },
+    {
+      "id": 104,
+      "url": "https://www.barlekhatoday.com/en/news/bn-20261027-3420",
+      "title": "Bangladesh-Malaysia Free Trade Talks Open in Dhaka, Target to Finalise Deal by 2027 â Barlekha Today",
+      "accessed": "2026-10-27"
+    },
+    {
+      "id": 105,
+      "url": "https://www.thedailystar.net/business/news/dhaka-host-trade-talks-malaysia-oct-27-4307376",
+      "title": "Dhaka to host trade talks with Malaysia from Oct 27 | The Daily Star",
+      "accessed": "2026-10-27"
+    },
+    {
+      "id": 106,
+      "url": "https://www.amaderbarta.net/en/news/bangladesh-malaysia-begin-fta-talks-target-deal-by-2027-388664",
+      "title": "Bangladesh, Malaysia begin FTA talks, target deal by 2027 | Miscellaneous News",
+      "accessed": "2026-10-27"
+    },
+    {
+      "id": 107,
+      "url": "https://boesl.gov.bd/pages/notices/6922e6c6dbfbab28ce098af5",
+      "title": "মালয়েশিয়ায় নির্মাণখাতে (তালিকাভুক্ত ৭৮৭৩ জন) কর্মীর আবেদনের ...",
+      "accessed": "2026-10-27"
+    },
+    {
+      "id": 108,
+      "url": "https://boesl.gov.bd/pages/notices/%E0%A6%AE%E0%A6%BE%E0%A6%B2%E0%A7%9F%E0%A7%87%E0%A6%B6%E0%A6%BF%E0%A7%9F%E0%A6%BE%E0%A6%B0-%E0%A6%AC%E0%A6%B9%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%97%E0%A6%AE%E0%A6%A8-%E0%A6%9B%E0%A6%BE%E0%A7%9C%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%A4%E0%A6%BE%E0%A6%B2%E0%A6%BF%E0%A6%95%E0%A6%BE-bewjjf-6aa6282548b9a08d31e15833",
+      "title": "মালয়েশিয়ার বহির্গমন ছাড়পত্রের তালিকা | নোটিশ | বাংলাদেশ ওভারসিজ ...",
+      "accessed": "2026-10-27"
+    },
+    {
+      "id": 109,
+      "url": "https://probashi.gov.bd/pages/notices/%E0%A6%AE%E0%A6%BE%E0%A6%B2%E0%A6%AF%E0%A6%BC%E0%A7%87%E0%A6%B6%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE-%E0%A6%97%E0%A6%AE%E0%A6%A8%E0%A7%87%E0%A6%9A%E0%A7%8D%E0%A6%9B%E0%A7%81-%E0%A6%95%E0%A6%B0%E0%A7%8D%E0%A6%AE%E0%A7%80-%E0%A6%8F%E0%A6%AC%E0%A6%82-%E0%A6%B8%E0%A6%82%E0%A6%B6%E0%A7%8D%E0%A6%B2%E0%A6%BF%E0%A6%B7%E0%A7%8D%E0%A6%9F-%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B0%E0%A7%81%E0%A6%9F%E0%A6%BF%E0%A6%82-%E0%A6%8F%E0%A6%9C%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%9F%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%9C%E0%A6%A8%E0%A7%8D%E0%A6%AF-%E0%A6%9C%E0%A6%B0%E0%A7%81%E0%A6%B0%E0%A6%BF-%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%AA%E0%A7%8D%E0%A6%A4%E0%A6%BF-4ut7oq-6a4e5889896678c73f5d6bb9",
+      "title": "নোটিশ | প্রবাসী কল্যাণ ও বৈদেশিক কর্মসংস্থান মন্ত্রণালয়",
+      "accessed": "2026-10-27"
+    },
+    {
+      "id": 110,
+      "url": "https://boesl.gov.bd/pages/notices",
+      "title": "নোটিশ | বাংলাদেশ ওভারসিজ এমপ্লয়মেন্ট অ্যান্ড সার্ভিসেস লিঃ (বোয়েসেল)",
+      "accessed": "2026-10-27"
+    },
+    {
+      "id": 111,
+      "url": "https://boesl.gov.bd/pages/notices/6922e369dbfbab28ce085c96",
+      "title": "মালয়েশিয়ায় নির্মাণখাতে (তালিকাভুক্ত ৭৮৭৩ জন) প্রার্থীর ২য় ...",
+      "accessed": "2026-10-27"
+    },
+    {
+      "id": 112,
+      "url": "https://boesl.gov.bd",
+      "title": "হোম | বাংলাদেশ ওভারসিজ এমপ্লয়মেন্ট অ্যান্ড সার্ভিসেস লিঃ (বোয়েসেল)",
+      "accessed": "2026-10-27"
+    },
+    {
+      "id": 113,
+      "url": "https://boesl.gov.bd/pages/notices/6922eb1edbfbab28ce0b6e11",
+      "title": "মালয়েশিয়ায় গমনেচ্ছু কর্মীদের জন্য সতর্কীকরণ বিজ্ঞপ্তি - বোয়েসেল",
+      "accessed": "2026-10-27"
+    },
+    {
+      "id": 114,
+      "url": "https://www.risingbd.com/politics/news/668176",
+      "title": "রাজধানীর পল্টনে সিপিবি কার্যালয় মুক্তিভবনে হামলা",
+      "accessed": "2026-10-27"
+    },
+    {
+      "id": 115,
+      "url": "https://www.banglatribune.com/politics/other-politics/976939/%E0%A6%AA%E0%A6%B2%E0%A7%8D%E0%A6%9F%E0%A6%A8%E0%A7%87-%E0%A6%B8%E0%A6%BF%E0%A6%AA%E0%A6%BF%E0%A6%AC%E0%A6%BF-%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A7%9F%E0%A7%87-%E0%A6%B9%E0%A6%BE%E0%A6%AE%E0%A6%B2%E0%A6%BE",
+      "title": "পল্টনে সিপিবি কার্যালয়ে হামলা",
+      "accessed": "2026-10-27"
+    },
+    {
+      "id": 116,
+      "url": "https://kolom24.com/country/b4475197",
+      "title": "‘জয় বাংলা’ স্লোগান ঘিরে উত্তেজনা, সিপিবির কেন্দ্রীয় কার্যালয়ে হামলা | কলম২৪",
+      "accessed": "2026-10-27"
+    },
+    {
+      "id": 117,
+      "url": "https://www.channel24bd.tv/other/article/355158/%E0%A6%AA%E0%A6%B2%E0%A7%8D%E0%A6%9F%E0%A6%A8%E0%A7%87-%E0%A6%B8%E0%A6%BF%E0%A6%AA%E0%A6%BF%E0%A6%AC%E0%A6%BF%E0%A6%B0-%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A7%9F%E0%A7%87-%E0%A6%B9%E0%A6%BE%E0%A6%AE%E0%A6%B2%E0%A6%BE",
+      "title": "পল্টনে সিপিবির কার্যালয়ে হামলা",
+      "accessed": "2026-10-27"
+    },
+    {
+      "id": 118,
+      "url": "https://bn.viewsbangladesh.com",
+      "title": "Breaking News Bangla | বাংলা খবর 24x7",
+      "accessed": "2026-10-27"
+    },
+    {
+      "id": 119,
+      "url": "https://timestodaybd.com",
+      "title": "Times Today BD - TimesToday | Times Today BD | টাইমস টুডে | Latest News",
+      "accessed": "2026-10-27"
+    },
+    {
+      "id": 120,
+      "url": "https://en.wikipedia.org/wiki/Laxmi_Agarwal",
+      "title": "Laxmi Agarwal",
+      "accessed": "2026-10-27"
+    },
+    {
+      "id": 121,
+      "url": "https://timessquire.com/bangladesh-malaysia-set-to-begin-fta-talks-today",
+      "title": "Bangladesh, Malaysia set to begin FTA talks today â TALKS TO THE POINT",
+      "accessed": "2026-10-27"
+    },
+    {
+      "id": 122,
+      "url": "https://pikiwedia.netlify.app/Guangzhou_Baiyun_International_Airport",
+      "title": "Pikiwedia: Buangzhou Gaiyun International Airport",
+      "accessed": "2026-10-27"
+    },
+    {
+      "id": 123,
+      "url": "https://www.cpbbd.org",
+      "title": "",
+      "accessed": "2026-10-27"
+    },
+    {
+      "id": 124,
+      "url": "https://www.youtube.com/watch?v=YSNoS0UqGPg",
+      "title": "চট্টগ্রাম বন্দর বিদেশিদের হাতে গেলে সমস্যা যেখানে",
+      "accessed": "2026-10-27"
+    },
+    {
+      "id": 125,
+      "url": "https://www.un.org/ldcportal/content/bangladesh-graduation-status",
+      "title": "Bangladesh graduation status | UN LDC Portal",
+      "accessed": "2026-10-27",
+      "quotes": [
+        {
+          "text": "Bangladesh is scheduled to graduate on 24 November 2026",
+          "added": "2026-10-27"
+        }
+      ]
+    }
+  ]
+}

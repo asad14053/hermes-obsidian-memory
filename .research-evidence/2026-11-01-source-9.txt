@@ -1,0 +1,5 @@
+OpenAI said on Friday it is tightening limits on the weapons-related information ChatGPT provides to teens, even when a question appears harmless, as part of new safeguards aimed at preventing real-world violence.
+
+For all users, ChatGPT will be able to automatically end chats where someone appears to be fixating on violence, and OpenAI may temporarily pause accounts after multiple such chats.
+
+The company said the new safeguards will begin rolling out in the next few weeks, and it will continue to refine them.

@@ -1,0 +1,115 @@
+# Election Commission weighs EVM reuse, resale, destruction to end mounting costs
+
+## A watchdog found the equipment spread across 41 districts, with no clear framework governing ownership and disposal
+
+[ ![Election Commission weighs EVM reuse, resale, destruction to end mounting costs](https://media.assettype.com/bdnews24-english/2026-10-21/1afhi8tk/evm_cumilla_city_election_150622_05.jpg?w=1024) ](https://media.assettype.com/bdnews24-english/2026-10-21/1afhi8tk/evm_cumilla_city_election_150622_05.jpg)
+
+Published : 22 Oct 2026, 01:11 AM
+
+Updated : 22 Oct 2026, 01:37 AM
+
+For the Election Commission, a technology once promoted as a modern alternative to ballot-box voting has become an expensive burden.
+
+Some 150,000 electronic voting machines (EVMs), bought with Tk 38.25 billion in public money, are gathering dust, many beyond use.
+
+The commission must now find a way to dispose of them without wasting what can still be salvaged or compromising evidence needed in investigations.
+
+The commission, led by AMM Nasir Uddin, has ordered an updated inventory and technical assessment to establish where the machines are stored, their condition and how many remain usable.
+
+Equipment required for investigations or legal proceedings will have to be retained, while the commission wants to settle the fate of the rest as quickly as possible.
+
+Destroying all the machines is not yet on the cards. The commission plans to consult the government and technical experts on whether they can be reused, sold or scrapped.
+
+“EVMs are now a burden for us; they have no use, and hundreds of thousands of EVMs have expired. They will be disposed of quickly,” Election Commissioner Abdur Rahmanel Masud said.
+
+[ ![Image](https://fea.assettype.com/bdnews24/assets/thumb-B88vr1JV.jpg) ](https://media.assettype.com/bdnews24-english/2023-05/b1e10114-e3a5-4fa3-8677-9cd186b3c5b4/barisal_vote_evm_290523_01.jpg)
+
+He said a committee had been formed to establish the machines’ locations and condition.
+
+An inventory would be prepared under a magistrate’s leadership, with the commission deciding what to do after reviewing the findings.
+
+Storage is adding to the problem. The machines are scattered across different locations, with the commission paying rent and other expenses.
+
+Many have become inoperable after years without maintenance.
+
+A report published on Oct 14 by Transparency International Bangladesh, the Bangladesh chapter of the global anti-corruption watchdog, said the 150,000 unused EVMs were stored across 41 districts.
+
+The absence of a clear framework assigning ownership and responsibility for disposal has complicated their management, the watchdog said.
+
+[ ![Image](https://fea.assettype.com/bdnews24/assets/thumb-B88vr1JV.jpg) ](https://media.assettype.com/bdnews24-english/2023-07/59a93ac7-d064-49a1-aac3-22133477e6a8/gazipur_city_corporation_election_evm_260618_0004.jpg)
+
+**Where Are the Machines?**
+
+According to commission data, about 86,000 EVMs are at the Bangladesh Machine Tools Factory (BMTF), around 62,000 are held in field offices and roughly 1,200 are stored at the Election Commission building.
+
+A significant proportion has become unusable through lack of maintenance.
+
+The assessment is expected to establish how many can be repaired, how many could serve other purposes and how many are beyond recovery.
+
+The commission discussed the machines’ disposal at a meeting on Oct 12 chaired by Chief Election Commissioner Nasir Uddin. After the meeting, Election Commissioner Abul Fazal Md Sanaullah said instructions had been issued on implementing decisions made by an earlier committee.
+
+“We are facing a lot of trouble with the EVMs. The Election Commission wants them disposed of as soon as possible.
+
+“However, the machines that need to be preserved as evidence for investigations by the Anti-Corruption Commission and other agencies, as well as for other legal proceedings, will be kept. Arrangements will then be made to dispose of the remaining EVMs quickly.”
+
+The commission cannot simply clear its storage facilities. Machines linked to Anti-Corruption Commission investigations or court cases must first be identified and preserved.
+
+[ ![Image](https://fea.assettype.com/bdnews24/assets/thumb-B88vr1JV.jpg) ](https://media.assettype.com/bdnews24-english/2023-05/f9cd3b15-d4ad-4d71-843d-118e1adecafe/evm_gazipur_city_election_250523_08.jpg)
+
+**Sell, Reuse or Destroy?**
+
+The final destination of the equipment remains undecided. Masud said disposal did not necessarily mean destroying every machine.
+
+The government might find another use for some components, while the commission would examine whether selling the equipment could recover any money.
+
+“We may need to discuss with the government and the Anti-Corruption Commission how these can be disposed of. These will be of no use. Most are at the Machine Tools Factory, and some are elsewhere -- everyone is asking for rent.
+
+“Paying so much rent would be a huge problem. So we want to dispose of them as soon as possible. That way, we can at least free ourselves from this liability for now.”
+
+Officials said they would explore reusing components and selling machines where possible. Those that cannot be repaired or adapted would be considered for destruction.
+
+Masud said the commission would consult a technical expert committee after receiving the updated inventory.
+
+Discussions with the Anti-Corruption Commission and the need to preserve evidence in related cases would also inform the decision.
+
+“We want to dispose of them quickly. The next steps will be taken based on the report,” he said.
+
+The commission has yet to estimate how much it might recover from selling or reusing the machines, or how much disposal would cost.
+
+[ ![Image](https://fea.assettype.com/bdnews24/assets/thumb-B88vr1JV.jpg) ](https://media.assettype.com/bdnews24-english/2023-10/90b289be-46e7-4486-918a-3445f1c85236/gazipur_city_election_250523_37.jpg)
+
+**‘No Disposal without Technical Assessment’**
+
+Mohammad Abdur Razzaque, chair of the Dhaka University’s Department of Computer Science and Engineering, said the machines’ technical capabilities and alternative uses should be assessed before any decision.
+
+EVMs combine software, hardware and networking systems, he said.
+
+If the government and the commission have decided not to use the technology in future, specialists should determine what happens to the equipment in a way that minimises losses to the state.
+
+Razzaque said the commission should investigate whether the machines could serve other purposes in Bangladesh or abroad. Reusable or saleable components might still have value.
+
+He recommended forming a technical committee to classify the machines as usable, repairable or beyond use.
+
+Experts say disposal must account for more than storage costs. Electronic components also need to be handled in an environmentally responsible way.
+
+Transparency International Bangladesh has stressed the need for proper electronic-waste management, warning that burning the machines without following appropriate procedures could pollute the air, water and soil and pose risks to human health.
+
+**A 15-Year Experiment**
+
+Bangladesh began using EVMs in 2010, when the Election Commission deployed machines developed by Bangladesh University of Engineering and Technology in one ward of a city corporation. The technology was not used in a parliamentary election at the time.
+
+The commission led by Kazi Rakibuddin Ahmad later reported defects in the earlier machines, and progress stalled for several years.
+
+The initiative gained momentum under the commission led by KM Nurul Huda, which approved a Tk 38.25 billion project to buy 150,000 machines.
+
+Despite the expense, EVMs were used in only six constituencies in the 2018 parliamentary election. The commission later deployed them in local government polls.
+
+The machines were expected to last 10 years, but many became unusable within five because of poor maintenance.
+
+The commission led by Kazi Habibul Awal planned to use EVMs in at least 150 constituencies in the 2024 parliamentary election. That plan was never implemented.
+
+After the political upheaval of Aug 5, 2024, the current commission also stopped short of using the machines in any election.
+
+Provisions allowing EVM use were removed from the Representation of the People Order and laws governing local government elections.
+
+Their electoral future has effectively been closed off. The commission is now left with the costly task of deciding what to do with equipment bought at great public expense.

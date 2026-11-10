@@ -1,0 +1,28 @@
+# Deep dynamical models of single-cell multiomic velocities predict loss-of-function and rescue perturbations in B cells | Nature Biotechnology
+URL: https://www.nature.com/articles/s41587-026-03348-1
+Published: 2026-10-21
+Author: Karbalayghareh, Alireza, Pelzer, Benedikt, Chin, Christopher R., Melnick, Ari, Barisic, Darko
+
+Deep dynamical models of single-cell multiomic velocities predict loss-of-function and rescue perturbations in B cells | Nature Biotechnology
+
+- Article
+- Open access
+- Published: 21 October 2026
+
+# Deep dynamical models of single-cell multiomic velocities predict loss-of-function and rescue perturbations in B cells
+
+- Alireza Karbalayghareh ORCID: orcid.org/0000-0002-4308-2582 1, 
+- Benedikt Pelzer 2, 3, 
+- Christopher R. Chin ORCID: orcid.org/0000-0002-2140-3197 2, 
+- Ari Melnick ORCID: orcid.org/0000-0002-8074-2287 2, 4, 5, 
+- Darko Barisic ORCID: orcid.org/0000-0001-7007-9138 2, 4 & 
+- â¦
+- Christina S. Leslie ORCID: orcid.org/0000-0002-4571-5910 1 
+
+## Abstract
+
+Here we present DynaVelo, a generative neural ordinary differential equation model that learns the joint dynamics of gene expression and transcription factor (TF) motif activity from single-cell multiome data. DynaVelo learns a functional form of the vector field, such that the model can be perturbed in silico and not only used to draw trajectories. We show that DynaVelo recovers the bifurcating in vivo dynamics of wild-type murine germinal center (GC) B cells and reveals how these dynamics change under heterozygous loss of epigenetic regulators Arid1a and Ctcf. In silico perturbation yields dynamic and cell-state-specific gene regulatory networks (GRNs) that recover known TF-to-gene edges in the wild-type GC GRN and predicts those that are disrupted in mutants. Perturbing Arid1aHet GCs in silico identified Ctcf, Stat3 and Bcl6 as rescue targets for Arid1a loss. In vivo experiments in double-heterozygous mice confirmed rescue of the Arid1aHet dark-zone phenotype in all three cases, and multiome profiling of Arid1aHet; CtcfHet GCs validated the predicted shift toward wild-type dynamics.
+
+## Main
+
+Recent single-cell technologies can measure multiple genome-wide readouts from the same individual cells, often pairing the transcriptome with epigenomic measurements such as chromatin accessibility, histone modifications, transcription factor (TF) occupancy or the three-dimensional (3D) chromatin interactome 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, at a single snapshot of time. However, cells are intrinsically dynamic systems where complex regulatory mechanisms govern the gene expression and epigenetic programs that determine cell fate over time. As real-time in vivo measurements of these modalities are generally not feasible, computational methods have been developed to infer cell dynamics from single-snapshot datasets. Here, cells from the same time point are viewed as observations sampled from a dynamically evolving system, and each cell is assigned an inferred pseudotime or latent time relative to this presumed dynamic process. One prominent idea to emerge from these efforts was RNA velocity, initially proposed by Velocyto 15 and later enhanced by scVelo 16, which models spliced and unspliced reads from scRNA-seq using ordinary differential equations (ODEs) to estimate the rate of c

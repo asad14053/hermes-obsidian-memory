@@ -1,0 +1,59 @@
+{
+  "ranking": [
+    {
+      "candidate": "ADP cancellations: expenditure, recoverable value and future liabilities",
+      "scores": [
+        9,
+        9,
+        7,
+        9,
+        10,
+        8,
+        10
+      ],
+      "total": 62
+    },
+    {
+      "candidate": "EVM inventory: usable, repairable or scrap",
+      "scores": [
+        9,
+        9,
+        7,
+        7,
+        10,
+        9,
+        9
+      ],
+      "total": 60
+    },
+    {
+      "candidate": "DynaVelo: prediction tested in mice, not a human treatment",
+      "scores": [
+        7,
+        8,
+        9,
+        8,
+        9,
+        7,
+        10
+      ],
+      "total": 58
+    },
+    {
+      "candidate": "LPG price versus receipt (already briefed)",
+      "scores": [
+        10,
+        8,
+        6,
+        4,
+        10,
+        8,
+        9
+      ],
+      "total": 55
+    }
+  ],
+  "proposals_sum": 185,
+  "reported_expenditure_percent_of_estimated_cost": 1.8107068488825848,
+  "nine_project_list_count": 9
+}

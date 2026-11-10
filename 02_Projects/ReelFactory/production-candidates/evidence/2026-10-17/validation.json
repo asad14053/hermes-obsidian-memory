@@ -1,0 +1,24 @@
+{
+  "brief": {
+    "output": "info: stats: 192 prose sentence(s), 33 with declared provenance (17%) \u2014 33 cited, 0 marked [unverified] (a sentence may be both); 8 distinct source(s) cited, 8 in ledger (8 with evidence quotes)\ncitations OK",
+    "exit_code": 0,
+    "error": null
+  },
+  "claims": {
+    "output": "info: stats: 8 prose sentence(s), 8 with declared provenance (100%) \u2014 8 cited, 0 marked [unverified] (a sentence may be both); 8 distinct source(s) cited, 8 in ledger (8 with evidence quotes)\ncitations OK",
+    "exit_code": 0,
+    "error": null
+  },
+  "telegram": {
+    "output": "info: stats: 9 prose sentence(s), 4 with declared provenance (44%) \u2014 4 cited, 0 marked [unverified] (a sentence may be both); 3 distinct source(s) cited, 8 in ledger (8 with evidence quotes)\nwarn: registered in the ledger but not cited in this draft: [15], [20], [22], [43], [44]\ncitations OK",
+    "exit_code": 0,
+    "error": null
+  },
+  "required_sections": 20,
+  "titles": 5,
+  "thumbnail_concepts": 3,
+  "story_steps": 5,
+  "outline_seconds": 630,
+  "active_candidate": "2026-10-17-lpg-price-versus-receipt.md",
+  "readback_queue_links": true
+}

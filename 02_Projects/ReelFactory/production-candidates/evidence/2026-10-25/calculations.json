@@ -1,0 +1,38 @@
+{
+  "Shipbreaking: faster clearance versus demonstrable safeguards": {
+    "scores": [
+      9,
+      9,
+      7,
+      9,
+      10,
+      8,
+      10
+    ],
+    "total": 62
+  },
+  "Chickpeas: higher imports versus higher prices": {
+    "scores": [
+      10,
+      9,
+      6,
+      8,
+      10,
+      8,
+      9
+    ],
+    "total": 60
+  },
+  "DynaVelo: from model prediction to mouse experiment": {
+    "scores": [
+      7,
+      8,
+      9,
+      8,
+      9,
+      7,
+      10
+    ],
+    "total": 58
+  }
+}

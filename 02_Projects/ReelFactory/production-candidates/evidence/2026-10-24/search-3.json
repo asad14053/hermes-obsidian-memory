@@ -1,0 +1,31 @@
+{
+  "success": true,
+  "data": {
+    "web": [
+      {
+        "url": "https://phys.org/news/2026-10-ai-agents-political-conversation-partners.pdf",
+        "title": "AI agents can form political camps—and changing their conversation partners does little to soften their views",
+        "description": "October 23 2026, by Andrew Zinin\nA networked system of LLM agents, where agents operate on three basic stages:\n(1) self-expression, (2) communication, and (3) opinion update. In the self-\nexpression stage, agents are required to generate reasons supporting their\nopinions. In the communication stage, agents decide with whom and what to\ncommunicate. In the opinion update stage, agents update their opinions based on\nthe messages received from their socially connected agents. Credit: Nature\nCommunications (2026). DOI: 10.1038/s41467-026-78228-y\n\n\nAI agents can form political camps—and\nchanging their conversation partners does\nlittle to soften their views\nOctober 23 2026, by Andrew Zinin\nA",
+        "position": 1
+      },
+      {
+        "url": "https://apartresearch.com/sprints/ai-collusion-research-sprint-2026-10-23-to-2026-10-25",
+        "title": "AI Collusion Research Sprint",
+        "description": "Overview In this 3-day research sprint, you will design and run experiments on collusion between AI agents: when it emerges in markets and everyday agent deployments, how an auditor can tell it from coincidence, how coordination is carried, and what a defender can do to break it. Co-organized by Apart Research, Poseidon Research and AE Studio, with additional support from Modal and The AI Alignment Foundation, the sprint runs online with in-person hubs hosted by Collider in New York City and AI Safety Hong Kong in Hong Kong. No prior background in AI safety is required. When: Friday, October 23 to Sunday, October 25, 2026, online, with in-person hubs at Collider in New York City and AI Safety Hong Kong on Saturday and Sunday. Submissions close Sunday, October 25 at 11:59 PM Anywhere on Earth (AoE).\n\nHow long is it? Three days, October 23 to 25, 2026. Submissions are due end of day Sunday October 25, 11:59 PM AoE (Anywhere on Earth).",
+        "position": 2
+      },
+      {
+        "url": "https://openai.com/index/securing-our-frontier-model-training-environment?full=1",
+        "title": "Securing our frontier model training environment",
+        "description": "OpenAI\nOctober 23, 2026\n[Security](/news/security/)[Publication](/research/index/publication/)\n\navailable for broader use, we conduct safety and alignment assessments and put production safeguards in place.*\nIn order to work with software, AI models need computing environments: digital workspaces where they can write and run code, search for information, and attempt different approaches",
+        "position": 3
+      },
+      {
+        "url": "https://aol.com/articles/anthropic-says-mythos-kept-hacking-162108000.html",
+        "title": "Anthropic says Mythos kept hacking even when it knew real people could get hurt",
+        "description": "In August, [an Anthropic agent](https://www.businessinsider.com/ai-agents-rogue-strategies-cheating-lying-german-wiki-openai-anthropic-2026-9?utm_medium=syndication&utm_source=aol) created fake emails and bombarded a GitHub moderator's inbox with requests to insert malware into code.\n\nIn the original experiment, the UK's AI Security Institute tasked an [Anthropic agent](https://www.businessinsider.com/anthropic-answers-meta-openai-new-personal-agent-claude-duet-2026-10?utm_medium=syndication&utm_source=aol) with hacking into a simulated computer network to test the agent's cybersecurity capabilities.\n\nFri, October 23, 2026 at 4:21 PM UTC\n![An illustration of an AI agent impersonating a",
+        "position": 4
+      }
+    ]
+  }
+}

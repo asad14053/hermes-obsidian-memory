@@ -1,0 +1,73 @@
+{
+  "version": 1,
+  "sources": [
+    {
+      "id": 1,
+      "url": "https://tbsnews.net/economy/energy/bpc-launches-probe-tk4813cr-deposits-troubled-private-banks-1595626",
+      "title": "TBS: BPC probes Tk4,813.32 crore deposits",
+      "accessed": "2026-11-08",
+      "quotes": [
+        {
+          "text": "The Bangladesh Petroleum Corporation (BPC) has formed a seven-member investigation committee to examine Tk4,813.32 crore deposited by the state-owned corporation and its subsidiaries in financially distressed private banks, amid concerns over possible irregularities and the safety of public funds.",
+          "added": "2026-11-08"
+        },
+        {
+          "text": "According to an office order issued on 3 November and signed by BPC Secretary Shahina Sultana, the committee has also been tasked with recommending measures to recover the funds held in fixed deposit receipts (FDRs) at the troubled banks.",
+          "added": "2026-11-08"
+        },
+        {
+          "text": "The committee has been instructed to submit a comprehensive report to the BPC chairman within one month of its formation.",
+          "added": "2026-11-08"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "url": "https://www.thedailystar.net/news/bangladesh/news/after-11yrs-bpc-gets-tk-4500cr-loan-buy-fuel-4286591",
+      "title": "The Daily Star: Government set to provide BPC Tk4,500 crore loan",
+      "accessed": "2026-11-08",
+      "quotes": [
+        {
+          "text": "After an 11-year gap, the government is set to provide Bangladesh Petroleum Corporation (BPC) with a Tk 4,500 crore interest-free loan to help ensure uninterrupted fuel supplies.",
+          "added": "2026-11-08"
+        },
+        {
+          "text": "The loan will have to be repaid in half-yearly installments over five years, including a six-month grace period. The BPC will have to sign a formal loan agreement with the Finance Division, and the money can be used only for approved fuel-related expenses.",
+          "added": "2026-11-08"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "url": "https://online.thedailystar.net/business/news/unable-return-deposits-7-banks-leave-bpc-dry-3828916",
+      "title": "The Daily Star: BPC unable to encash Tk1,677.23 crore",
+      "accessed": "2026-11-08",
+      "quotes": [
+        {
+          "text": "The BPC's investments with the banks, amounting to Tk 1,677.23 crore, are in the form of fixed deposits receipts (FDRs) and short-notice deposits. This means interest is also payable on these investments.",
+          "added": "2026-11-08"
+        },
+        {
+          "text": "Due to a liquidity crisis, we are unable to encash the FDRs at the moment,",
+          "added": "2026-11-08"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "url": "https://www.bssnews.net/news-flash/430044",
+      "title": "BSS: Government lends BPC Tk4,500 crore",
+      "accessed": "2026-11-08",
+      "quotes": [
+        {
+          "text": "The government has provided a loan of Tk 4,500 crore to Bangladesh Petroleum Corporation (BPC) to meet the cost of importing petroleum products and related expenses amid global fuel crisis, officials said today.",
+          "added": "2026-11-08"
+        },
+        {
+          "text": "BPC Chairman Dr Md Rafiqul Islam told BSS today that the corporation received the amount as it sought Tk 5,000 crore as loan from the government.",
+          "added": "2026-11-08"
+        }
+      ]
+    }
+  ]
+}

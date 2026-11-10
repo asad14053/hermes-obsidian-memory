@@ -1,0 +1,5 @@
+Our work includes bringing imminent threats of violence to the attention of law enforcement, and we made over 200 law enforcement referrals in Q3 2026.
+
+When a conversation shows signs that someone is fixating on violence or the idea of seriously harming another person, ChatGPT will be able to automatically end the chat to interrupt that pattern in the moment. If ChatGPT ends multiple chats for that reason, we may temporarily pause the account.
+
+The safeguards detailed here will begin rolling out in the next few weeks and we will continue to refine them.

@@ -1,0 +1,45 @@
+{
+  "topics": 3,
+  "required_heading_counts": {
+    "TOPIC": 3,
+    "WHAT HAPPENED": 3,
+    "WHAT IS CONFIRMED": 3,
+    "WHAT IS ALLEGED": 3,
+    "WHAT IS DISPUTED": 3,
+    "WHAT REMAINS UNKNOWN": 3,
+    "WHY IT MATTERS": 3,
+    "LEGAL / POLICY CONTEXT": 3,
+    "HISTORICAL CONTEXT": 3,
+    "PRIMARY SOURCES": 3,
+    "RELIABLE SECONDARY SOURCES": 3,
+    "QUESTIONS THAT REMAIN": 3,
+    "POSSIBLE VIDEO THESIS": 3,
+    "HOOK": 3,
+    "PUBLIC INTEREST": 3,
+    "VIRAL POTENTIAL": 3,
+    "EVIDENCE QUALITY": 3,
+    "ACTION": 3
+  },
+  "script_count": 3,
+  "reels_per_script": [
+    10,
+    10,
+    10
+  ],
+  "reels_total": 30,
+  "planned_minutes_each": 10.0,
+  "weeks": [
+    [
+      "2026-10-26",
+      "2026-11-01"
+    ],
+    [
+      "2026-11-02",
+      "2026-11-08"
+    ],
+    [
+      "2026-11-09",
+      "2026-11-15"
+    ]
+  ]
+}

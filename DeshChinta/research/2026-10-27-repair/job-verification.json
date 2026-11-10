@@ -1,0 +1,16 @@
+{
+  "prompt_exact_match": true,
+  "continuity_storage": [
+    "self"
+  ],
+  "verified_via_cron_list": true,
+  "unchanged_settings": [
+    "model",
+    "provider",
+    "schedule",
+    "deliver",
+    "enabled_toolsets",
+    "enabled"
+  ],
+  "old_failure": "Validator incorrectly expected a continuity boolean; installed storage uses context_from:[self]. Cron list confirms continuity:true. No repeated config writes were made."
+}

@@ -1,0 +1,63 @@
+{
+  "candidates": [
+    {
+      "topic": "LPG: price rule versus delivery chain",
+      "scores": [
+        10,
+        9,
+        8,
+        8,
+        10,
+        8,
+        10
+      ],
+      "total": 63
+    },
+    {
+      "topic": "Family Card: database is not entitlement",
+      "scores": [
+        9,
+        8,
+        7,
+        9,
+        10,
+        8,
+        10
+      ],
+      "total": 61
+    },
+    {
+      "topic": "Port dredging: spending versus maintained depth",
+      "scores": [
+        9,
+        8,
+        6,
+        7,
+        10,
+        8,
+        10
+      ],
+      "total": 58
+    },
+    {
+      "topic": "stipple: tissue biology or measurement artifact",
+      "scores": [
+        6,
+        9,
+        7,
+        8,
+        9,
+        6,
+        10
+      ],
+      "total": 55
+    }
+  ],
+  "quoted_price_gap": 563,
+  "quoted_price_gap_pct": 30.65,
+  "requested_cost_sum": 150,
+  "reported_150_vs_7pct": {
+    "seven_percent_of_1837": 128.59
+  },
+  "outline_seconds": 630
+}

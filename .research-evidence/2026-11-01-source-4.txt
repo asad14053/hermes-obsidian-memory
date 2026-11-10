@@ -1,0 +1,3 @@
+On October 31, 2026, DeepMind showed off a physical dancing robot that AI agents designed, simulated, and built from one plain-English prompt. Nobody on the team touched a manual CAD workflow.
+
+The robot has 12 degrees of freedom, or DoF.

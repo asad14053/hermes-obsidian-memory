@@ -1,0 +1,9 @@
+# The disposal of inactive and out-of-service Electronic Voting Machine (EVM): TIB's observations and recommendations
+
+ Published: 05 May 2026
+
+Due to political party and public objections to the use of Electronic Voting Machines (EVMs) in elections, the Representation of the People Order, 1972 was amended to abolish the use of EVMs in elections. In this context, approximately 150,000 EVMs procured ahead of the 11th National Parliamentary Election remain unused at the Election Commission. As their operational lifespan has expired, the Election Commission has decided to dispose of the machines by burning them. However, EVMs contain printed circuit boards, microcontrollers, displays, plastic, and metal casings. If these are incinerated in an uncontrolled manner without adhering to legally compliant disposal protocols and internationally recognized best practices, and without ensuring the effective enforcement of environmental laws, it could lead to air, water, and soil pollution, increased health risks due to contamination, and long-term environmental damage.
+
+In this regard, as a major user of electronic equipment, the Election Commission has the opportunity to set a positive example by ensuring the proper disposal of EVM-related e-waste in accordance with existing national regulations and globally accepted best practices. TIB believes that this can establish a model approach for responsible e-waste management. Against this backdrop, a policy brief, prepared based on TIB’s research titled ``**[E-Waste Management in Bangladesh: Governance Challenges and Way Forward](/en/articles/research/7393)**’’ has been shared with the Election Commission to support the proper management of the unused and non-functional EVMs.
+
+**For more details:**

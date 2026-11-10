@@ -1,0 +1,59 @@
+{
+  "scores": [
+    {
+      "topic": "Family Card: registration versus selection",
+      "dimensions": [
+        9,
+        8,
+        8,
+        9,
+        10,
+        8,
+        10
+      ],
+      "total": 62
+    },
+    {
+      "topic": "Rural credit: debt burden versus causation",
+      "dimensions": [
+        9,
+        7,
+        6,
+        8,
+        10,
+        8,
+        10
+      ],
+      "total": 58
+    },
+    {
+      "topic": "Port dredging: expenditure versus depth",
+      "dimensions": [
+        9,
+        7,
+        6,
+        6,
+        10,
+        8,
+        10
+      ],
+      "total": 56
+    },
+    {
+      "topic": "stipple: biology versus measurement",
+      "dimensions": [
+        6,
+        9,
+        7,
+        8,
+        9,
+        6,
+        10
+      ],
+      "total": 55
+    }
+  ],
+  "pilot_selected_share_percent": 64.08103912787482,
+  "pilot_difference": 40263,
+  "outline_minutes": 10.5
+}

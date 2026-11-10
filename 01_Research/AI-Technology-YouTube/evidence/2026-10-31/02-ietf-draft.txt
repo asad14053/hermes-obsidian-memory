@@ -1,0 +1,5 @@
+This I-D is not endorsed by the IETF and has no formal standing in the IETF standards process.
+
+This document defines the policy token __usage_ai-training.
+
+This policy token is not a directive for crawling behavior.

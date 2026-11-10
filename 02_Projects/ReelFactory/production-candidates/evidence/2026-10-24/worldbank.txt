@@ -1,0 +1,428 @@
+## Page 1
+            The World Bank                                                                          Implementation Status & Results Report
+            GAS SECTOR EFFICIENCY IMPROVEMENT AND CARBON ABATEMENT PROJECT (P179009)
+
+
+GAS SECTOR EFFICIENCY IMPROVEMENT AND CARBON ABATEMENT PROJECT (P179009)
+
+SOUTH ASIA | Bangladesh | IBRD/IDA | Investment Project Financing (IPF) | FY 2024 | Seq No: 5 | Archived on 18-Feb-2026
+| ISR06909
+
+
+
+1. OBJECTIVE
+
+
+ 1.1  Development Objective
+    Original Development Objective (Approved as part of Approval package on 27-Jul-2023)
+
+    To improve efficiency of gas distribution and end-use, and support carbon abatement in the gas sector
+    Has the Development Objective been changed since Board Approval of the Project Objective?
+
+    No
+
+
+2. COMPONENTS
+
+
+ Name
+ Strengthening the gas sector downstream monitoring and control capabilities:(Cost 433,730,000.00)
+
+ Technical assistance for carbon abatement of the oil and gas value chain:(Cost 4,010,000.00)
+
+
+3. OVERALL RATINGS
+
+  Name                                                       Previous                                    Current
+
+  Progress towards achievement of PDO                        Satisfactory                               Satisfactory
+
+  Overall Implementation Progress (IP)                       Satisfactory                               Moderately Satisfactory
+
+  Overall Risk Rating                                        Moderate                                   Substantial
+
+
+
+
+4.  KEY ISSUES & STATUS
+
+
+ 4.1 Implementation Status and Key Decisions
+    Implementation of the Carbon Abatement Technical Assistance is progressing at full pace, with substantial advancements
+    achieved in data collection, stakeholder engagement, and capacity-building activities, marking significant progress toward
+    the achievement of the PDO.
+
+
+
+ Feb 18, 2026                                                                                                                            Page 1 of 8
+
+## Page 2
+            The World Bank                                                                       Implementation Status & Results Report
+            GAS SECTOR EFFICIENCY IMPROVEMENT AND CARBON ABATEMENT PROJECT (P179009)
+
+
+
+
+
+
+
+
+5.  SYSTEMATIC OPERATIONS RISK-RATING TOOL
+
+                                                         Rating at Approval          Last Approved Rating
+Risk Category                                            Approval Package -          ISR Seq. 04 - 13 Jul         Proposed Rating
+                                                         27 Jul 2023                 2025
+
+Political and Governance                                 Moderate                   Moderate                    Substantial
+
+Macroeconomic                                            Moderate                   Moderate                    Moderate
+
+Sector Strategies and Policies                           Moderate                   Moderate                    Moderate
+
+Technical Design of Project or Program                   Moderate                   Moderate                    Moderate
+
+Institutional Capacity for Implementation and            Substantial                Moderate                    Moderate
+Sustainability
+
+Fiduciary                                                Substantial                Moderate                    Moderate
+
+Environment and Social                                   Moderate                   Moderate                    Moderate
+
+Stakeholders                                             Moderate                   Moderate                    Low
+
+Overall                                                  Substantial                Moderate                    Substantial
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Feb 18, 2026                                                                                                                        Page 2 of 8
+
+## Page 3
+                The World Bank                                                                                                                   Implementation Status & Results Report
+                GAS SECTOR EFFICIENCY IMPROVEMENT AND CARBON ABATEMENT PROJECT (P179009)
+
+
+
+    6.  RESULTS
+
+
+     6.1 PDO Indicators by PDO Outcomes
+
+
+     Total greenhouse gas emissions avoided as a result of the Project (kT of CO2 equivalent)
+             Indicator Name                            Baseline                         Actual (Previous)                      Actual (Current)                       Closing Period
+                                                Value          Month/Year             Value               Date              Value               Date              Value          Month/Year
+                                           0.00                  Jun/2023        0.00                26-Mar-2025       0.00                26-Mar-2025       3,250.00              Jun/2028
+     Total greenhouse gas                    Comments on                          This will measure the total amount of avoided CO2 emissions because of the reduction in gas
+     emissions avoided as a result           achieving  targets                   consumption from the installation of prepaid meters and reduction in non-technical losses
+     of the Project (Metric ton)                                                  from advanced monitoring infrastructure
+
+     Projected gas savings: average amount of gas saved per meter
+             Indicator Name                            Baseline                         Actual (Previous)                      Actual (Current)                       Closing Period
+                                                Value          Month/Year             Value               Date              Value               Date              Value          Month/Year
+     Projected gas savings:                0.00                  Jun/2023        0.00                30-Nov-2025       0.00                30-Nov-2025       26.01                 Jun/2028
+     average amount of gas saved             Comments on                          This will measure the average amount of monthly gas saved per meter in a kitchen with one
+     per meter (cubic meters)                achieving  targets                   double- burner kitchen as a result of the prepaid metering infrastructure.
+     (Cubic Meter(m3))
+     Action Plan for carbon abatement of sector operations
+             Indicator Name                            Baseline                         Actual (Previous)                      Actual (Current)                       Closing Period
+                                                Value          Month/Year             Value               Date              Value               Date              Value          Month/Year
+     Endorsement of Action Plan            No                    Jun/2023        No                  30-Nov-2025       No                  30-Nov-2025       Yes                   Jun/2028
+     for carbon abatement of                 Comments on                          This will track the endorsement of an Action Plan for carbon abatement of sector operations
+     sector operations (Yes/No)              achieving  targets                   by the MPEMR, the sector’s main authority
+     Roadmap for the development and implementation of a sector policy carbon abatement framework
+             Indicator Name                            Baseline                         Actual (Previous)                      Actual (Current)                       Closing Period
+                                                Value          Month/Year             Value               Date              Value               Date              Value          Month/Year
+
+Feb 18, 2026                                                                                                                                                                      Page 3 of 8
+
+## Page 4
+                The World Bank                                                                                                                  Implementation Status & Results Report
+                GAS SECTOR EFFICIENCY IMPROVEMENT AND CARBON ABATEMENT PROJECT (P179009)
+
+
+     Endorsement of Roadmap for           No                     Jun/2023       No                  30-Nov-2025       No                  30-Nov-2025       Yes                   Jun/2028
+     the development and                    Comments on                           This will track the endorsement of a Roadmap for the development and implementation of a
+     implementation of a sector             achieving  targets                    sector policy, legal, institutional, regulatory and contractual framework for sector carbon
+     carbon abatement                                                             abatement by the MPEMR
+     framework (Yes/No)
+
+
+
+     6.2 Intermediate Results Indicators by Components
+
+
+     Strengthening the gas sector downstream monitoring and control capabilities
+             Indicator Name                            Baseline                         Actual (Previous)                     Actual (Current)                       Closing Period
+                                                Value          Month/Year             Value              Date               Value              Date              Value          Month/Year
+     People with enhanced                 6,000,000             Mar/2024        600,000              11-Dec-2024      600,000             11-Dec-2024                             Dec/2028
+     resilience to climate risks
+     (Number of people) CRI
+           People with enhanced           100,000                               100,000              11-Dec-2024      100,000             11-Dec-2024
+           resilience to climate
+           risks – Female (Number
+           of people) CRI
+           People with enhanced           200,000               Mar/2024        200,000              11-Dec-2024      200,000             11-Dec-2024
+           resilience to climate
+           risks – Youth (Number
+           of people) CRI
+     Annual CO2 emission                  0.00                   Jun/2023       0.00                 31-Oct-2023      0.00                31-Oct-2023       650.00                Jun/2028
+     reduction supported by the             Comments on                           This will measure the total amount of CO2 emissions reduced because of the reduction in
+     investments under the                  achieving  targets                    gas consumption from the installation of prepaid meters and reduction in non-technical
+     Project (Metric ton)                                                         losses from advanced monitoring infrastructure
+                                          0.00                   Jun/2023       0.00                 31-Oct-2023      0.00                31-Oct-2023       1,228,000.00          Jun/2028
+
+
+
+Feb 18, 2026                                                                                                                                                                     Page 4 of 8
+
+## Page 5
+                 The World Bank                                                                                                                      Implementation Status & Results Report
+                 GAS SECTOR EFFICIENCY IMPROVEMENT AND CARBON ABATEMENT PROJECT (P179009)
+
+
+     Number of prepaid meters                 Comments on                            Number of pre-paid meters (card-based NFC type diaphragm meters and online- based
+     installed for residential                achieving  targets                     ‘“smart”’ meters using ultrasonic measurement) installed for residential consumers in
+     consumers (Number)                                                              TGTDCL and PGCL service territories (Number)
+     Number of smart meters                 0.00                   Jun/2023        0.00                 31-Oct-2023      0.00                  31-Oct-2023      50.00                  Jun/2028
+     installed for industrial                 Comments on                            Number of smart meters installed for industrial customers to undertake the pilot program
+     customers (Number)                       achieving  targets
+     Number of distribution                 0.00                   Jun/2023        0.00                 31-Oct-2023      0.00                  31-Oct-2023      1.00                   Jun/2028
+     companies provided with                  Comments on                            Number of regulating and metering stations provided with SCADA systems
+     SCADA/GIS systems                        achieving  targets
+     (Number)
+                                            0.00                   Jun/2023        0.00                 31-Oct-2023      0.00                  31-Oct-2023      2,000.00               Jun/2028
+     Person-Days of Training                  Comments on                            This will measure the person-days of TGTDCL and PGCL staff (males and females) trained
+     Provided to TGTDCL and                   achieving  targets                     across different areas under the institutional and capacity-building component of the
+     PGCL staff (Days)                                                               project.
+
+                                            0.00                   Jun/2023        0.00                 31-Oct-2023      0.00                  31-Oct-2023      800.00                 Jun/2028
+     Person-Days of Training                  Comments on                            This sub-indicator will measure the person-days of TGTDCL and PGCL staff (females) trained
+     Provided to TGTDCL and                   achieving  targets                     across different areas under the institutional and capacity-building component of the
+     PGCL female staff (Days)                                                        project.
+
+     Share of female university             0.00                   Jun/2023        0.00                 31-Oct-2023      0.00                  31-Oct-2023      40.00                  Jun/2028
+     and polytechnic graduates                Comments on                            TGTDCL and PGCL will establish new or expand existing internship programs to recruit
+     recruited by TGTDCL and                  achieving  targets                     female university and polytechnic institute graduates for 6-month paid internships to
+     PGCL for 6-month paid                                                           increase the pool of potential female applicants for permanent positions at both utilities
+     internships (Percentage)
+     Percentage of grievances               0.00                   Jun/2023        0.00                 31-Oct-2023      0.00                  31-Oct-2023      80.00                  Jun/2028
+     related to the facility                  Comments on                            This will measure the percentage of grievances/ complaints received on the activities related
+     satisfactorily addressed                 achieving  targets                     to the project that are satisfactorily addressed within a period of two months from date of
+     within two months of receipt                                                    receipt.
+     (Percentage)
+     Technical assistance for carbon abatement of the oil and gas value chain
+
+Feb 18, 2026                                                                                                                                                                          Page 5 of 8
+
+## Page 6
+                 The World Bank                                                                                                                   Implementation Status & Results Report
+                 GAS SECTOR EFFICIENCY IMPROVEMENT AND CARBON ABATEMENT PROJECT (P179009)
+
+
+             Indicator Name                             Baseline                         Actual (Previous)                      Actual (Current)                       Closing Period
+                                                 Value          Month/Year             Value               Date              Value               Date               Value          Month/Year
+                                           0.00                   Jun/2023       0.00                 30-Sep-2025       0.00                30-Sep-2025       60.00                  Jun/2028
+     Person days of training on              Comments on                           This will measure the Person-days of training on carbon abatement in O&G operations for
+     carbon abatement in Oil and             achieving  targets                    staff of MPEMR, BERC, Petrobangla, and other subject-matter-relevant GoB personnel under
+     Gas operations (Days)                                                         component 2 of the project. It will target at least 60 person-days (20 participants x 3 1-day
+                                                                                   workshops)
+     Person-days of training on            0.00                   Jun/2023       0.00                 30-Sep-2025       0.00                30-Sep-2025       20.00                  Jun/2028
+     legal and regulatory                    Comments on                           This will measure the Person-days of training on carbon abatement in O&G operations for
+     frameworks for carbon                   achieving  targets                    staff of MPEMR, BERC, Petrobangla and other subject-matter-relevant GoB personnel under
+     abatement in Oil and Gas                                                      component 2 of the project. It will target at least 20 person-days (10 participants x 2 1-day
+     operations (Days)                                                             workshops)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Feb 18, 2026                                                                                                                                                                        Page 6 of 8
+
+## Page 7
+             The World Bank                                                                     Implementation Status & Results Report
+             GAS SECTOR EFFICIENCY IMPROVEMENT AND CARBON ABATEMENT PROJECT (P179009)
+
+
+
+  7. DATA ON FINANCIAL PERFORMANCE
+
+
+   7.1 Cumulative Disbursements
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   7.2 Disbursements (by loan)
+
+
+  Loan/Credit/TF      Status         Original      Revised     Cancelled    Disbursed     Undisbursed        Historical        % Disbursed
+                                                                                                            Disbursed
+
+  IDA-73860           Effective       187.60        194.77           0.00          0.00         194.77             0.00                   0%
+
+  IDA-73870           Effective        52.40         54.41           0.00           .17          54.24              .17                0.31%
+
+  IDA-73880           Effective        60.00         60.00           0.00           .44          59.56              .44                0.73%
+
+
+
+   7.3 Key Dates (by loan)
+
+
+
+
+
+
+Feb 18, 2026                                                                                                                        Page 7 of 8
+
+## Page 8
+              The World Bank                                                                    Implementation Status & Results Report
+              GAS SECTOR EFFICIENCY IMPROVEMENT AND CARBON ABATEMENT PROJECT (P179009)
+
+
+
+
+  Loan/Credit/TF        Status            Approval          Signing              Effectiveness         Orig. Closing       Rev. Closing
+
+  IDA-73860             Effective      27-Jul-2023          22-Nov-2023          15-Feb-2024           31-Dec-2028         31-Dec-2028
+
+  IDA-73870             Effective      27-Jul-2023          22-Nov-2023          15-Feb-2024           31-Dec-2028         31-Dec-2028
+
+  IDA-73880             Effective      27-Jul-2023          22-Nov-2023          15-Feb-2024           31-Dec-2028         31-Dec-2028
+
+
+  8.  KEY DATES
+
+
+  Key Events                                                         Planned                                Actual
+
+  Approval                                                           27-Jul-2023                            27-Jul-2023
+
+  Effectiveness                                                      15-Feb-2024                            15-Feb-2024
+
+  Operation Closing/Cancellation                                     31-Dec-2028
+
+
+  9.  RESTRUCTURING HISTORY
+
+
+
+
+  10.  ASSOCIATED OPERATION(S)
+
+   There are no associated operations
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Feb 18, 2026                                                                                                                        Page 8 of 8

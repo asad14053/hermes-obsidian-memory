@@ -1,0 +1,3 @@
+Today, we're announcing our plans to support a shared AI training control in robots.txt. This will help websites express their AI training preferences across multiple AI providers in a single step and is based on work from the AIPREF working group at the Internet Engineering Task Force (IETF).
+
+We aim to support this new control along with other AI providers in 2027, and will provide updates on our progress.

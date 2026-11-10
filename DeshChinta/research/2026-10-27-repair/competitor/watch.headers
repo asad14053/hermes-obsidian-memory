@@ -1,0 +1,35 @@
+HTTP/2 200 
+content-type: text/html; charset=utf-8
+x-content-type-options: nosniff
+content-security-policy: script-src 'unsafe-eval' 'self' 'unsafe-inline' https://www.google.com https://apis.google.com https://ssl.gstatic.com https://www.gstatic.com https://www.googletagmanager.com https://www.google-analytics.com https://*.youtube.com https://*.google.com https://*.gstatic.com https://youtube.com https://www.youtube.com https://google.com https://*.doubleclick.net https://*.googleapis.com https://www.googleadservices.com https://tpc.googlesyndication.com https://www.youtubekids.com https://www.youtube-nocookie.com https://www.youtubeeducation.com https://www-onepick-opensocial.googleusercontent.com;report-uri https://csp.withgoogle.com/csp/youtube_main/allowlist
+content-security-policy: require-trusted-types-for 'script'
+content-security-policy: base-uri 'self';object-src 'none';script-src 'report-sample' 'nonce-UBUsk8xjFa7DxOqlSh3zGQ' 'unsafe-inline' 'strict-dynamic' https: http: 'unsafe-eval';report-uri https://csp.withgoogle.com/csp/youtube_main/strict
+cache-control: no-cache, no-store, max-age=0, must-revalidate
+pragma: no-cache
+expires: Mon, 01 Jan 1990 00:00:00 GMT
+date: Tue, 27 Oct 2026 17:29:34 GMT
+p3p: CP="This is not a P3P policy! See http://support.google.com/accounts/answer/151657?hl=en for more info."
+x-frame-options: SAMEORIGIN
+strict-transport-security: max-age=31536000
+report-to: {"group":"youtube_main","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/youtube_main"}]}
+accept-ch: Sec-CH-UA-Arch, Sec-CH-UA-Bitness, Sec-CH-UA-Full-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Model, Sec-CH-UA-WoW64, Sec-CH-UA-Form-Factors, Sec-CH-UA-Platform, Sec-CH-UA-Platform-Version, Sec-CH-Viewport-Width, Sec-CH-DPR, Device-Memory
+cross-origin-opener-policy: same-origin-allow-popups; report-to="youtube_main"
+origin-trial: AmhMBR6zCLzDDxpW+HfpP67BqwIknWnyMOXOQGfzYswFmJe+fgaI6XZgAzcxOrzNtP7hEDsOo1jdjFnVr2IdxQ4AAAB4eyJvcmlnaW4iOiJodHRwczovL3lvdXR1YmUuY29tOjQ0MyIsImZlYXR1cmUiOiJXZWJWaWV3WFJlcXVlc3RlZFdpdGhEZXByZWNhdGlvbiIsImV4cGlyeSI6MTc1ODA2NzE5OSwiaXNTdWJkb21haW4iOnRydWV9
+origin-trial: AiDEBptUfVeO93q48VdVMe/ubupazdAl8AaHP+NBzdnW8quUcHdzJUyGSfrmtpKJu7EOvwRp9ug2rEo3XU+WMAMAAAB2eyJvcmlnaW4iOiJodHRwczovL3lvdXR1YmUuY29tOjQ0MyIsImZlYXR1cmUiOiJEZXZpY2VCb3VuZFNlc3Npb25DcmVkZW50aWFsczIiLCJleHBpcnkiOjE3NzQzMTA0MDAsImlzU3ViZG9tYWluIjp0cnVlfQ==
+origin-trial: Ao9lPbOYlYWEB+SVHe5mV2bIoTe0cN+xJ2b6VhNakYPBFQ5MGU1Eg+nxeSLMbqnFlr2xj72d2bsU3ei2gfOpKg8AAABreyJvcmlnaW4iOiJodHRwczovL3lvdXR1YmUuY29tOjQ0MyIsImZlYXR1cmUiOiJDb25uZWN0aW9uQWxsb3dsaXN0IiwiZXhwaXJ5IjoxNzg4ODI1NjAwLCJpc1N1YmRvbWFpbiI6dHJ1ZX0=
+permissions-policy: ch-ua-arch=*, ch-ua-bitness=*, ch-ua-full-version=*, ch-ua-full-version-list=*, ch-ua-model=*, ch-ua-wow64=*, ch-ua-form-factors=*, ch-ua-platform=*, ch-ua-platform-version=*
+reporting-endpoints: crash-reporting="/web-reports?context=eJwNy39MlHUAx3HO9zrJA7m757jnnnu-32fGSPshhBTSFhuG5sgNpJjahA35ZUEKCMcZjpDENSgk2XSFGlIiNTO2wlWLYQYWlTCSNJxhOVSKRFpmyFKw7x-v7bPPZ58F7fOjU0ts2UvKbY2rA7bpjoBtclHQlhUVtLU6X5hX9dcCsh51UJzt4LMPHHR_6uDS7w4SKsPoaQmndCCc3LFwMvoX0qxMzS4kWBiBIxjBgYYI9B8i6Il2MnzQyehtJ00JLg6tc3Epx0Xaiy6qq13sVlKaXHx1zIXZ6UJMuBibcXFvjZu0LDezjW6ShlU2NWbWalyr1ejp0ij4QmP1BY3syxr2Gxr7bmrcvaOxLcxDhu5h_VIPeQEPNS0ezrV66GzzMNnvoWTAw7shkazyRmLbH8mXLi_Rmpc7j3kJTfeyN9_LwBYvMxVePtzlpWXCy615OsFwnVMP6xzfqDPVoBPfrHPkjM7wTZ3Zf3T2zOis9fnwL_FhFvhILPGxqdXH070-Lvzs4yG3wcUUg1uZBv25Bn-UGOysMfhF-XunwbTScdDgz6MGoScM6rsNPN8YHL5osHXSoM_tp8v0w4N-Pn_Ez4llfnqVoXQ_9ev92Db4-a_cT3Kjn2rl7RE_LcqbN1SvOKNNkstMdmwzeS9gotWYvF9rsnyvif6JyaBS1W3y5GmTZ4ZMTp01GblikvKvyX0rBNeV_SsFzz8rCF8juJcleDVHUFAseLxKkFwrSHhNkFgnmNstaGsQbGgUBJsEK48IdhwVjBwTyOOCji6B_aRgQNncJ5g_KHhqTLBqSpCpbFUWTwuSlNLbgpS7gu0OSadX8voiydVEyblkya8rJGdSJRMZkq_XSdryJbNlkvEKifaK5OUqibFLsrFO7fWSwgZJ3RuS9mZJxzuS4hbJpJJ-SPKcUtQuCeuWnFZGFWev5IHvJZmDkm-HJN8p9h8li85KcoYlV5TanyRN5yWRI5K3lI9_k5Rdk6SNS1JsFoeVMixs91v0eSzGTYuXLIvRKIuKWIsDcRYfJVm4Uy32ZFt4N1lcz7MoqFGfxSH2maUhdndY6NzJuhG78_Lc1fO2qJiq0spAZV5h7PbCvJjN5aUlgZjCkoKY_PKiQFF-7pac-Lj45cvi4hNi457IKYv7HzgdI2w"
+document-policy: include-js-call-stacks-in-crash-reports
+server: ESF
+x-xss-protection: 0
+set-cookie: __Secure-YNID=Ct8BCAUSkQEB8QZuZsSI9Uk_xh0rBc1PASvd2rvK0oXCB5ETV_a2ck7bAJo5D58n29f5qtJcVXZHBD4dU9nwH0YZVUMnY_XS1l0c2MjEUc3jSb5HFDqG9fkvG-oA62UbP_rBBfatVoCXx5aa1Y7ZkMF23Uv6k4L068nu58uzELCzeddbDmsQJM61MWaUvSXlWzvEjh1RzIrHKAUyRQHeqZ1PSF0Jc0H-fzjnBfbCZiQPcrpVdd_la8jo_a2m5us_xE5GXiTnL-dDS_LG29lwRIerslLgxcZ9cVIhK8A7eyvECA; expires=Sun, 25-Apr-2027 17:29:34 GMT; path=/; domain=.youtube.com; Secure; HttpOnly; SameSite=none; Partitioned
+set-cookie: GPS=1; Domain=.youtube.com; Expires=Tue, 27-Oct-2026 17:59:34 GMT; Path=/; Secure; HttpOnly
+set-cookie: YSC=jCze86-dheU; Domain=.youtube.com; Path=/; Secure; HttpOnly; SameSite=none; Partitioned
+set-cookie: __Secure-YEC=; Domain=.youtube.com; Expires=Wed, 31-Jan-2024 17:29:34 GMT; Path=/; Secure; HttpOnly; SameSite=lax
+set-cookie: VISITOR_INFO1_LIVE=qbJTa0iigVA; Domain=.youtube.com; Expires=Sun, 25-Apr-2027 17:29:34 GMT; Path=/; Secure; HttpOnly; SameSite=none; Partitioned
+set-cookie: VISITOR_PRIVACY_METADATA=CgJVUxIEGgAgYg%3D%3D; Domain=.youtube.com; Expires=Sun, 25-Apr-2027 17:29:34 GMT; Path=/; Secure; HttpOnly; SameSite=none; Partitioned
+set-cookie: __Secure-ROLLOUT_TOKEN=CMbms_yPsY382QEQpYH60dzalwMYpYH60dzalwM%3D; Domain=youtube.com; Expires=Sun, 25-Apr-2027 17:29:34 GMT; Path=/; Secure; HttpOnly; SameSite=none; Partitioned
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+accept-ranges: none
+vary: Sec-CH-UA-Arch, Sec-CH-UA-Bitness, Sec-CH-UA-Full-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Model, Sec-CH-UA-WoW64, Sec-CH-UA-Form-Factors, Sec-CH-UA-Platform, Sec-CH-UA-Platform-Version, Sec-CH-Viewport-Width, Sec-CH-DPR, Device-Memory,Accept-Encoding
+

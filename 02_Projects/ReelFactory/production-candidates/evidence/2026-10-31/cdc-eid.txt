@@ -1,0 +1,98 @@
+#####
+
+#### Volume 32, Number 11—November 2026
+
+##### *Online Report*
+
+### Nationwide Surveillance and Control Measures during Large Measles Outbreak, Bangladesh, 2026
+
+### Abstract
+
+Nationwide surveillance in Bangladesh during April 2–May 27, 2026, identified a total of 67,079 suspected and 8,834 confirmed measles cases across 8 administrative divisions. Among suspected cases, 472 deaths were reported, and 88 deaths were reported among confirmed cases. Despite high reported vaccine coverage, transmission persisted amid residual immunity gaps. Vaccine stockouts, discontinued vaccination campaigns, and coverage overestimation likely contributed to Bangladesh’s largest recorded measles outbreak.
+
+Measles remains one of the most contagious infectious diseases known, with a basic reproduction number of 12–18, meaning a single case can infect up to 18 susceptible persons in an unvaccinated population (*1*). According to the World Health Organization (WHO), global measles deaths reached ≈95,000 in 2024, occurring mostly among unvaccinated or undervaccinated children <5 years of age (*2*).
+
+Bangladesh has had longstanding immunization success. The Expanded Programme on Immunization was launched in Bangladesh on April 7, 1979, as a pilot program, which included measles vaccine at 9 months of age among its initial 6 childhood vaccines (*3*). Early vaccination coverage was low; <2% through 1984 (*3*). Coverage improved substantially after introducing the measles–rubella (MR) vaccine in 2012 and the second dose at 15 months of age in 2015 (*4*). WHO–United Nations Children’s Fund estimates show that, by 2023, first-dose MR coverage reached 97% and second-dose MR coverage reached 93% (*5*).
+
+On April 4, 2026, Bangladesh notified WHO of a large measles outbreak. The Directorate General of Health Services (DGHS) and Ministry of Health and Family Welfare immediately activated the Health Emergency Operation Center and rapid response teams, who strengthened surveillance, enhanced hospital preparedness, provided vitamin A for suspected and confirmed cases, increased isolation and infection prevention capacity, and fast-tracked vaccine procurement (*6*). We report on the surveillance and control measures and provide recommendations for this ongoing nationwide measles outbreak.
+
+### The Outbreak
+
+In response to the outbreak, the Ministry of Health and Family Welfare followed its established data flow, reporting, and laboratory interoperability plan for measles surveillance ([Figure 1](/eid/article/32/11/26-0996-f1)). The surveillance system covers facility- to national-level operations for case detection and notification, data and sample collection, reporting, and laboratory testing.
+
+##### Case Definition
+
+The Bangladesh National Guideline for the Management of Measles case definitions (*7*) were used to identify suspected and confirmed measles cases during the 2026 outbreak. Those guidelines define a suspected case as illness in a person with fever and generalized maculopapular, nonvesicular rash accompanied by cough, coryza, or conjunctivitis or anyone clinicians suspect of having measles (*7*). The guideline defines confirmed cases as illness in persons who test positive for measles, after excluding vaccine-associated symptoms. The National Polio, Measles and Rubella Laboratory confirms cases by using measles-specific IgM ELISA for serum or reverse transcription PCR to detect measles RNA in throat swab, nasopharyngeal swab, or blood samples (*7*).
+
+##### Outbreak Scale
+
+Ongoing nationwide active hospital-based surveillance during March 15–May 27, 2026, detected 67,079 suspected and 8,834 confirmed measles cases covering all 64 districts of Bangladesh; 81% of cases were among children <5 years of age. Among the suspected and confirmed cases, >70% (n = 53,463) required hospitalization (*8*). According to the National Guideline for the Management of Measles (*7*), only patients with complications or those with severe or complicated measles cases were hospitalized. Nonetheless, the number of hospitalized patients posed a substantial strain on hospital facilities during the peak transmission weeks. A total of 472 deaths (case-fatality rate [CFR] 0.88%) among suspected measles cases and 88 deaths (CFR 0.99%) among confirmed cases were reported during March 15–May 27, 2026 (*8*).
+
+##### Epidemic Trajectory
+
+The daily epidemic curve from April 2–May 27, 2026, showed a peak of 1,829 cases reported in a single day on April 9, 2026 ([Figure 2](/eid/article/32/11/26-0996-f2)) (*9*). Reported cases reflected early explosive spread before initiation of the nationwide vaccination response on April 5, 2026. Using case counts from the DGHS and 2022 Bangladesh census population data (*10*), we calculated incidence rates for each division. Dhaka division reported the highest incidence (82.80 cases/100,000 population), followed by Barishal (65.63/100,000) and Rajshahi divisions (35.22/100,000); Rangpur reported the lowest incidence (7.63/100,000) ([Figure 3](/eid/article/32/11/26-0996-f3)).
+
+##### Vaccination Campaign Response
+
+According to WHO, supplementary immunization campaigns deliver vaccination to all targeted persons, regardless of their vaccination status, to rapidly raise population-level immunity and reduce the number of susceptible persons (*11*). To achieve measles control goals, Bangladesh targeted children 6–59 months of age for MR vaccination.
+
+The Bangladesh National Immunization Technical Advisory Group approved targeted vaccination March 30, 2026, and the targeted MR catch-up campaign commenced in 30 upazilas (subdistricts) of 18 priority districts on April 5, 2026. By April 12, coverage expanded to 30 upazilas, 1 pourashava (municipality), and 4 city corporations. A nationwide MR vaccination campaign was launched on April 20, 2026, and targeted ≈18,015,064 children 6–59 months of age (*6*).
+
+Initial DGHS reports from April 16, 2026, showed a 6% coverage rate at the start of the campaign. Rapid momentum over the subsequent 6 weeks culminated on May 13, 2026, when the campaign officially surpassed 100% of the targeted baseline coverage (*12*,*13*) ([Figure 2](/eid/article/32/11/26-0996-f2), panel A).
+
+### Conclusions
+
+Bangladesh is experiencing its largest measles outbreak on record, and a total of 75,913 cases and 560 deaths were recorded in 56 days (*8*). The ongoing outbreak shows no sign of slowing, and the highest cumulative weekly death toll came during May 21–27, 2026, the last week recorded before this report. This soaring disease burden signifies several observations.
+
+First, the highest weekly case count (10,427 cases with 62 deaths) was recorded May 7–13 ([https://doi.org/10.17605/OSF.IO/RHQUS](https://doi.org/10.17605/OSF.IO/RHQUS)), when vaccination coverage exceeded 100% of the administrative target ([Figure 2](/eid/article/32/11/26-0996-f2)). That pattern demonstrates a large preexisting susceptible population. The impact of emergency mass vaccination typically becomes evident within 2–4 weeks as vaccinated children acquire protection and the susceptible pool diminishes. The practical lesson is that herd protection thresholds must be maintained continuously through routine and catch-up vaccination, not reactive campaigns.
+
+Second, the large gap between suspected and laboratory-confirmed cases (≈7:1) partly reflected the usual surveillance practice, since not every suspected case required laboratory confirmation. However, that gap might also reflect limited testing capacity because only 1 laboratory facility serves the country. Moreover, a case-level linkage between tested specimens and surveillance records was not available, so the positive predictive value could not be calculated. The reported CFR in Bangladesh during this outbreak was 0.88% for suspected cases and 0.99% for confirmed cases, which should be interpreted cautiously given that limitation. Those rates were higher than rates reported in the United States and Europe (0.13% each) but within the 1.5%–5.35% range reported in some low- and lower middle–income settings (*14*–*16*). However, the observed CFR of Bangladesh reflected cases reaching healthcare facilities rather than the true population-level rate. Consequently, limited community-based reporting of mild illness likely biased the CFR upward.
+
+Third, the high (70%) hospitalization rate among reported cases should be discussed cautiously; measles cases reported through the surveillance systems typically represent a fraction of the true number of cases because many children are not assessed by clinicians (*17*). In addition, when medical care is sought, measles might be misdiagnosed or cases might not be reported to authorities (*17*).
+
+Fourth, measles cases were reported across all 8 divisions from the beginning of the outbreak, indicating widespread transmission amid nationwide immunity gaps. Contributing factors include the 2024–2025 MR vaccine stockout, gaps in routine immunization, and the absence of nationwide MR campaigns since 2020 (*6*), a pattern also seen in other low- and middle-income countries after immunization disruptions (*18*,*19*). Part of that gap might be further underestimated by reporting discrepancies: Bangladesh’s administrative coverage, the reported number of vaccine doses administered divided by the estimated target population, still calculated on the basis of 2011 census denominators, has exceeded 100% in places, pointing to denominator underestimation and overreporting that likely mask the true extent of population immunity gaps (*20*).
+
+In line with WHO guidance (*21*), we recommended several measures to control the outbreak. Those measures included continuing the MR campaign in periurban and other low-coverage areas to reach underimmunized populations; strengthening community engagement and caregiver education to increase vaccine demand and address misinformation; ensuring routine Expanded Programme on Immunization service delivery with adequate supply, with special attention to low-coverage districts; and strengthening real-time sentinel measles surveillance to detect future outbreaks early.
+
+Dr. Rabbi is a public health and health-systems professional currently serving as an Officer on Special Duty in the Management Information System Unit of the Directorate General of Health Services, Ministry of Health and Family Welfare, Bangladesh. His work focuses on strengthening health-system governance through data, digital platforms, implementation research, and evidence-informed decision-making.
+
+### Acknowledgments
+
+We thank the medical officers, surveillance staff and field teams of the Directorate General of Health Services Bangladesh and the Health Emergency Operations Centre for their sustained daily reporting efforts throughout this outbreak. We also acknowledge the city corporation public health teams that implemented the MR vaccination campaign.
+
+This analysis is based exclusively on publicly released government surveillance data aggregated at the national and division level. No individual-level patient data were accessed. Ethical review was not required.
+
+The cleaned dataset, R analysis code, and weekly summary tables supporting this article are publicly available at [https://doi.org/10.17605/OSF.IO/RHQUS](https://doi.org/10.17605/OSF.IO/RHQUS). The original daily surveillance bulletins are published by DGHS Bangladesh; contact bdcoronasaver@gmail.com or visit the website at [https://dghs.gov.bd/pages/press-releases](https://dghs.gov.bd/pages/press-releases).
+
+### References
+
+1. Guerra FM, Bolotin S, Lim G, Heffernan J, Deeks SL, Li Y, et al. The basic reproduction number (R0) of measles: a systematic review. Lancet Infect Dis. 2017;17:e420–8. [DOI](https://doi.org/10.1016/S1473-3099(17)30307-9)[PubMed](https://pubmed.ncbi.nlm.nih.gov/28757186)[Google Scholar](https://scholar.google.com/scholar_lookup?doi=10.1016%2fS1473-3099(17)30307-9&pmid=28757186)
+2. World Health Organization. Measles []. [https://www.who.int/news-room/fact-sheets/detail/measles](https://www.who.int/news-room/fact-sheets/detail/measles)
+3. Sarkar PK, Sarker NK, Doulah S, Bari TIA. Expanded Programme on Immunization in Bangladesh: a success story. Bangladesh J Child Health. 2017;39:93–8. [DOI](https://doi.org/10.3329/bjch.v39i2.31540)[Google Scholar](https://scholar.google.com/scholar_lookup?doi=10.3329%2fbjch.v39i2.31540)
+4. World Health Organization. Achieving measles and rubella elimination []. [https://www.who.int/bangladesh/activities/achieving-measles-and-rubella-elimination](https://www.who.int/bangladesh/activities/achieving-measles-and-rubella-elimination)
+5. World Health Organization. WHO/UNICEF estimates of national immunization coverage, 2024 revision; completed 2025 Jul 15 []. [https://worldhealthorg.shinyapps.io/wuenic-trends](https://worldhealthorg.shinyapps.io/wuenic-trends)
+6. World Health Organization. Disease outbreak news: measles—Bangladesh 2026 Apr 23 []. [https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON598](https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON598)
+7. Bangladesh Bureau of Statistics. Census and housing census 2022 []. [https://bbs.gov.bd/pages/static-pages/6922e073933eb65569e27220](https://bbs.gov.bd/pages/static-pages/6922e073933eb65569e27220)
+8. Mohammed Y, Olowo-Okere A, Bawa S, Onah JO, Saad A, Oteri A, et al. Coverage, effectiveness, and sero-positivity of measles-containing vaccines in low- and lower middle-income countries: an umbrella review of systematic reviews and meta-analyses. Int J Infect Dis. 2026;167:108569. [DOI](https://doi.org/10.1016/j.ijid.2026.108569)[PubMed](https://pubmed.ncbi.nlm.nih.gov/41862080)[Google Scholar](https://scholar.google.com/scholar_lookup?doi=10.1016%2fj.ijid.2026.108569&pmid=41862080)
+9. Simons E, Ferrari M, Fricks J, Wannemuehler K, Anand A, Burton A, et al. Assessment of the 2010 global measles mortality reduction goal: results from a model of surveillance data. Lancet. 2012;379:2173–8. [DOI](https://doi.org/10.1016/S0140-6736(12)60522-4)[PubMed](https://pubmed.ncbi.nlm.nih.gov/22534001)[Google Scholar](https://scholar.google.com/scholar_lookup?doi=10.1016%2fS0140-6736(12)60522-4&pmid=22534001)
+10. Minta AA, Ferrari M, Antoni S, Lambert B, Sayi TS, Hsu CH, et al. Progress toward measles elimination—worldwide, 2000–2023. MMWR Morb Mortal Wkly Rep. 2024;73:1036–42. [DOI](https://doi.org/10.15585/mmwr.mm7345a4)[PubMed](https://pubmed.ncbi.nlm.nih.gov/39541251)[Google Scholar](https://scholar.google.com/scholar_lookup?doi=10.15585%2fmmwr.mm7345a4&pmid=39541251)
+11. World Health Organization. Measles outbreak guide 2022 []. [https://www.who.int/publications/i/item/9789240052079](https://www.who.int/publications/i/item/9789240052079)
+
+##### Figures
+
+Cite This Article
+Original Publication Date: October 02, 2026
+
+| EID Search Options |
+|---|
+| ![presentation_01](/TemplatePackage/contrib/icons/standard/people_01.svg) [**Advanced Article Search**](/eid/AdvancedSearch) – Search articles by author and/or keyword. |
+| ![presentation_01](/TemplatePackage/contrib/icons/standard/map_01.svg) [**Articles by Country Search**](/eid/ArticleMap) – Search articles by the topic country. |
+| ![presentation_01](/TemplatePackage/contrib/icons/standard/search_01.svg) [**Article Type Search**](/eid/ArticleTypeSearch) – Search articles by article type and issue. |
+
+Page created: September 11, 2026
+
+Page updated: October 22, 2026
+
+Page reviewed: October 22, 2026
+
+*The conclusions, findings, and opinions expressed by authors contributing to this journal do not necessarily reflect the official position of the U.S. Department of Health and Human Services, the Public Health Service, the Centers for Disease Control and Prevention, or the authors' affiliated institutions. Use of trade names is for identification only and does not imply endorsement by any of the groups named above.*

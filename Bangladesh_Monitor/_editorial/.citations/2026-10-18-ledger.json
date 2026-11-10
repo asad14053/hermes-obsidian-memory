@@ -1,0 +1,161 @@
+{
+  "version": 1,
+  "sources": [
+    {
+      "id": 1,
+      "url": "https://www.thedailystar.net/news/accidents-and-fires/news/least-10-killed-blaze-rips-through-inani-resort-4301316",
+      "title": "At least 10 killed as blaze rips through Inani resort",
+      "accessed": "2026-10-18",
+      "quotes": [
+        {
+          "text": "The resort had been operating without a fire safety licence despite receiving an official warning four months ago, the Fire Service and Civil Defence said.",
+          "added": "2026-10-18"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "url": "https://bdnews24.com/bangladesh/spspmz4aus",
+      "title": "Families give DNA samples to identify 10 killed in Cox’s Bazar resort fire",
+      "accessed": "2026-10-18",
+      "quotes": [
+        {
+          "text": "DNA identification has begun for the victims of a resort fire in Cox’s Bazar’s Ukhiya, with family members providing samples at the Criminal Investigation Department’s office in Dhaka.",
+          "added": "2026-10-18"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "url": "https://www.prothomalo.com/bangladesh/6e8snam5mz",
+      "title": "১৪ কারণে লোকসান গুনছে চট্টগ্রামের কর্ণফুলী টানেল",
+      "accessed": "2026-10-18",
+      "quotes": [
+        {
+          "text": "চট্টগ্রামের কর্ণফুলী টানেল প্রকল্পের সম্ভাব্যতা যাচাইয়ে (ফিজিবিলিটি স্টাডি) বলা হয়েছিল, ২০২৫ সালে প্রতিদিন গড়ে ২৮ হাজার ৩০৫টি গাড়ি টানেলটি ব্যবহার করবে। তবে চালু হওয়ার পর থেকে এ পর্যন্ত ব্যবহার করেছে মোট ৪১ লাখ ৭২ হাজার যানবাহন। এ হিসাবে প্রতিদিন গড়ে মাত্র ৩ হাজার ৮৬৫টি যানবাহন টানেল পাড়ি দিচ্ছে।",
+          "added": "2026-10-18"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "url": "https://en.bonikbarta.com/bangladesh/uVG7junLWAG89Js8",
+      "title": "Traffic at Karnaphuli Tunnel stays far below forecast",
+      "accessed": "2026-10-18",
+      "quotes": [
+        {
+          "text": "The feasibility study had forecast 28,305 vehicles a day in 2025. The actual average is 3,800.",
+          "added": "2026-10-18"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "url": "https://today.thefinancialexpress.com.bd/trade-market/bangladesh-seeks-tailored-imf-support-as-it-targets-1-trillion-economy-by-2034-1792343383?amp=true",
+      "title": "Bangladesh seeks tailored IMF support as it targets $1 trillion economy by 2034",
+      "accessed": "2026-10-18",
+      "quotes": [
+        {
+          "text": "He estimated that a conservative calculation of the resources required to recover from the banking system's disorder amounted to around $40 billion.",
+          "added": "2026-10-18"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "url": "https://bdnews24.com/economy/l8lqeuy6xo",
+      "title": "Bangladesh faces no funding hurdles as lenders acknowledge inherited economic woes",
+      "accessed": "2026-10-18",
+      "quotes": [
+        {
+          "text": "Bangladesh Bank has estimated that $40 billion is needed to tackle problems created in the banking sector under the previous government, Titumir said.",
+          "added": "2026-10-18"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "url": "https://www.worldbank.org/en/news/press-release/2026/06/24/world-bank-helps-bangladesh-strengthen-its-banking-sector",
+      "title": "World Bank Helps Bangladesh Strengthen Its Banking Sector",
+      "accessed": "2026-10-18",
+      "quotes": [
+        {
+          "text": "The banking sector faces significant challenges caused by weak corporate governance, regulatory capture, and related-party lending.",
+          "added": "2026-10-18"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "url": "https://www.thedailystar.net/news/bangladesh/news/arms-brandishing-ishraques-anti-drug-drive-stirs-outrage-4301326",
+      "title": "Arms-brandishing Ishraque’s anti-drug drive stirs outrage",
+      "accessed": "2026-10-18",
+      "quotes": [
+        {
+          "text": "Videos showing State Minister for Liberation War Affairs Ishraque Hossain carrying a firearm while chasing several people during what he described as an “anti-drug operation” in Gandaria in his constituency have drawn intense scrutiny.",
+          "added": "2026-10-18"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "url": "https://en.prothomalo.com/bangladesh/wdtohktzei",
+      "title": "Ishraque’s firearm controversy: Unease and discontent within BNP, govt",
+      "accessed": "2026-10-18",
+      "quotes": [
+        {
+          "text": "Meanwhile, the Dhaka Metropolitan Police (DMP) has ordered an investigation into the armed raid.",
+          "added": "2026-10-18"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "url": "https://www.dhakatribune.com/bangladesh/422431/pm-orders-ishraque-to-resign-from-cabinet",
+      "title": "PM asked Ishraque to resign, sources say; minister’s office denies",
+      "accessed": "2026-10-18",
+      "quotes": [
+        {
+          "text": "The conflicting claims could not be independently reconciled.",
+          "added": "2026-10-18"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "url": "https://www.tbsnews.net/bangladesh/measles-death-toll-1196-7-more-children-die-1576816",
+      "title": "Measles: Death toll at 1,196 as 7 more children die",
+      "accessed": "2026-10-18",
+      "quotes": [
+        {
+          "text": "Seven more children died with measles-like symptoms in the 24 hours until 8am today (18 October), taking the combined toll of suspected and laboratory-confirmed measles-related deaths in Bangladesh to 1,196.",
+          "added": "2026-10-18"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "url": "https://www.tbsnews.net/bangladesh/health/bangladesh-battling-measles-its-real-warning-other-nations-1575006",
+      "title": "Bangladesh is battling measles. It's a 'real warning' to other nations",
+      "accessed": "2026-10-18",
+      "quotes": [
+        {
+          "text": "Bangladesh's measles vaccination programme had been a success story. But in 2025, amid political turmoil, it faltered. Its unvaccinated children are now paying the price.",
+          "added": "2026-10-18"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "url": "https://www.tbsnews.net/economy/banking/banking-sector-recovery-requires-tk60000cr-annually-5-8-years-governor-1568401",
+      "title": "Banking sector recovery requires Tk60,000cr annually for 5-8 years: Governor",
+      "accessed": "2026-10-18",
+      "quotes": [
+        {
+          "text": "Bangladesh will need to allocate Tk60,000 crore annually from the national budget over the next five to eight years to address losses in the banking sector, Bangladesh Bank Governor Md Mostaqur Rahman said yesterday (9 October).",
+          "added": "2026-10-18"
+        }
+      ]
+    }
+  ]
+}

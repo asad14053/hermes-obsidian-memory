@@ -1,0 +1,24 @@
+{
+  "required_section_count": 20,
+  "missing_sections": [],
+  "option_counts": {
+    "STORY STRUCTURE": 5,
+    "5 TITLE OPTIONS": 5,
+    "3 THUMBNAIL CONCEPTS": 3
+  },
+  "outline_seconds": 630,
+  "winner_total": 62,
+  "brief_citation_evidence_exit_code": 0,
+  "overview_next_pointer": true,
+  "todo_next_pointer": true,
+  "prior_retained_in_backlog": true,
+  "next_candidate_count": 1,
+  "not_verified": [
+    "gazette and effective legal status",
+    "signed committee minutes",
+    "own-channel uploads",
+    "narrated runtime",
+    "asset rights"
+  ],
+  "strict_warning_explanation": "Strict citation verification warns on unused discovery sources; evidence verification without unused-source strictness passes. Low automated coverage reflects production directions; external factual assertions manually checked."
+}

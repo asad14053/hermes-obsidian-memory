@@ -1,0 +1,1 @@
+Keyless Exa extract failed: Error fetching URL(s): https://berc.org.bd/pages/static-pages/6922df94933eb65569e22e27: CRAWL_UNKNOWN_ERROR. Set EXA_API_KEY (https://exa.ai) or another web backend via `hermes tools` for reliable service.

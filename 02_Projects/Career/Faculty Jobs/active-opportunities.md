@@ -2,13 +2,69 @@
 type: active-opportunities
 project: "Faculty Jobs"
 status: active
-last_updated: 2026-10-17
+last_updated: 2026-11-05
 confidence: medium
 ---
 
 # Faculty Jobs — Active Opportunities
 
-⚠️ VERIFY every live posting immediately before investing in or submitting an application. Statuses and dates below are dated snapshots from the linked reports, most recently October 15, not guarantees that searches remain open or have not begun shortlisting. All entries in this index were classified **STRONG POSSIBILITY**, not APPLY. Older entries were not all reverified on October 15.
+⚠️ VERIFY every live posting immediately before investing in or submitting an application. Statuses and dates below are dated snapshots from the linked reports, most recently November 5, not guarantees that searches remain open or have not begun shortlisting. All entries in this index were classified **STRONG POSSIBILITY**, not APPLY. Older entries were not all reverified on November 5.
+
+## Newly discovered — November 5
+
+Full assessments, source limitations and eligibility caveats: [[2026-11-05-faculty-job-intelligence]]. Scores are agent judgments; all are **STRONG POSSIBILITY**.
+
+| Opportunity | Application target | Natural home / fit | Critical caveat / next action |
+|---|---|---|---|
+| [USC — Quantitative and Computational Biology, REQ20182162](https://usccareers.usc.edu/job/los-angeles/assistant-professor-of-quantitative-and-computational-biology/1209/102278395472) | Review begins **Jan 1, 2027**; until filled | HIGH / 8/10 | Strongest new natural home. Audit completed work for a candidate-owned AI/predictive-modeling method; do not substitute model benchmarking or proposed AIVC for methods evidence. |
+| [VCU — Biomedical AI and Computational Molecular Medicine, 45002432](https://careers.pageuppeople.com/1212/cw/en-us/job/45002432/assistant-professor-division-of-biomedical-ai-cellular-molecular-and-genetic-medicine) | Review began **Oct 1, 2026**; until filled | HIGH / 7.5/10 | Exact virtual-cell/foundation-model language is mainly future-fit. Lead with verified GeneBridge/spatial-genomics work and confirm that ECE is accepted under related-field wording. Distinct from non-tenure-track VCU job 45002433. |
+| [Vanderbilt — College of Connected Computing, Interfolio 196229](https://apply.interfolio.com/196229) | **Dec 1, 2026** full consideration; rolling until filled | MEDIUM / 7/10 | Computational Biology is an explicit search area and engineering is eligible, but a computing committee will require a publication-backed generalizable CS/AI contribution and teaching case. |
+
+## Newly discovered — October 29
+
+Full assessments, source conflicts and eligibility caveats: [[2026-10-29-faculty-job-intelligence]]. Scores are agent judgments; both are **STRONG POSSIBILITY**.
+
+| Opportunity | Application target | Natural home / fit | Critical caveat / next action |
+|---|---|---|---|
+| [Washington University in St. Louis — Genetics, posting 1011262](https://facultyopportunities.wustl.edu/Posting/Detail/1011262) | **Dec 1, 2026** full consideration; rolling afterward | HIGH / 8/10 | Broad Genetics home with computational-biology, neurogenomics and AI/precision-medicine bridges. Verify ECE as a related field and document a candidate-owned genetics/methods contribution; joint appointments are not guaranteed. |
+| [University of Michigan — Human Genetics, opening 283755](https://careers.umich.edu/job_detail/283755/asst-professor) | **Nov 13, 2026** full consideration; screening as applications arrive | HIGH / 7.5/10 | Official posting accepts a broad PhD/equivalent, but faculty readiness after a June 2026 postdoc and the bridge from spatial expression to fundamental genetics require audit. Apply through [Interfolio 190644](https://apply.interfolio.com/190644); verify acceptance immediately before investing. |
+
+⚠️ VERIFY both live portals and application routes before dossier work. No application or inquiry was submitted.
+
+## Newly discovered — October 26
+
+Full assessments, source conflicts and eligibility caveats: [[2026-10-26-faculty-job-intelligence]]. Scores are agent judgments; all are **STRONG POSSIBILITY**.
+
+| Opportunity | Application target | Natural home / fit | Critical caveat / next action |
+|---|---|---|---|
+| [MIT — Biological Engineering + IDSS, AJO 33095](https://faculty-searches.mit.edu/soe/be-idss/) | **Dec 15, 2026**, including three letters | HIGH / 7.5/10 | Best new methods-first home. Verify formal graduate statistics/DS/ML/AI training, original methods and ECE eligibility. Current official page confirms 2026 deadline; older `/idss-be/` landing page still shows 2025. [Application](https://faculty-searches.mit.edu/idss-be/register.tcl). Distinct from stored MIT Biology searches. |
+| [Johns Hopkins — Biostatistics, Interfolio 189113](https://apply.interfolio.com/189113) | Review began **Oct 1, 2026**; until filled | MEDIUM / 7.5/10 | Confirm late-cycle consideration, ECE eligibility and graduate biostatistics teaching/methods record. Official portal only partially recovered; full current employer ad supplies deadline/qualifications. Older department landing page links a different requisition. |
+| [West Florida — Biology / Computational Biology–Bioinformatics, 128670](https://careers.uwf.edu/jobs/assistant-or-associate-professor-computational-biology-bioinformatics-128670-pensacola-main-campus-florida-united-states-30912854-bb79-46f3-bebd-ce7337e25d08) | **Oct 30, 2026** preferred response; **Nov 1** full consideration; until filled | HIGH / 7.5/10 | **R2, secondary institutional priority.** Optional IHMC joint appointment, not guaranteed. Confirm ECE interpretation and resources/teaching. Sponsorship considered, not promised. References contacted upon submission. |
+
+## Newly discovered — October 22
+
+Full assessments and eligibility caveats: [[2026-10-22-faculty-job-intelligence]]. Scores are agent judgments; both are **STRONG POSSIBILITY**.
+
+| Opportunity | Application target | Natural home / fit | Critical caveat / next action |
+|---|---|---|---|
+| [NYU — Biology (Computational/AI), Interfolio 195143](https://apply.interfolio.com/195143) | **Nov 15, 2026, 11:59 p.m. ET — final** | HIGH / 8/10 | Best new home for current computational genomics. **Pending administrative/budgetary approval.** Confirm ECE eligibility (no doctoral-field rule stated), Biology teaching readiness and independent computational/biological contribution. |
+| [Wayne State — CS / AI in Health and Medicine, Req3655](https://waynetalent.csod.com/ux/ats/careersite/2/home/requisition/3655?c=waynetalent) | **Dec 15, 2026** full consideration; until filled | MEDIUM / 7/10 | Explicit biomedical AI search, but genomics not specifically prioritized. Audit original transferable AI contribution and CS teaching; confirm ECE as closely related and molecular-biomedical remit. |
+
+## Material update — October 22
+
+| Existing opportunity | Changed application target | Natural home / fit | Critical caveat / next action |
+|---|---|---|---|
+| [UCSF — Institute for Human Genetics, JPF06052](https://aprecruit.ucsf.edu/JPF06052) | Next review now **Nov 1, 2026, 11:59 p.m. PT**, previously Oct 1; final Nov 6, 2027 only if unfilled | HIGH / 7.5/10 | **Not a new opening.** Assistant ladder-rank route only; confirm departmental home and required completed human-genetics postdoctoral experience. STRONG POSSIBILITY retained. Score reassessed under current evidence/readiness criteria; see [[2026-10-22-faculty-job-intelligence]]. |
+
+## Newly discovered — October 19
+
+Full assessments, source conflicts and eligibility caveats: [[2026-10-19-faculty-job-intelligence]]. Scores are agent judgments; all are **STRONG POSSIBILITY**.
+
+| Opportunity | Application target | Natural home / fit | Critical caveat / next action |
+|---|---|---|---|
+| [Princeton — Computational Bioengineering / ODBI–CS, Interfolio 191394](https://apply.interfolio.com/191394) | **Nov 1, 2026** review begins; final deadline not stated | HIGH / 8/10 | Best new methods-first match; Engineering PhD expressly accepted. Confirm primary/joint appointment and audit the original algorithmic contribution. Princeton faculty rules establish Assistant Professor as tenure-track. |
+| [MIT — Biology / Schwarzman College of Computing, AJO 32927](https://academicjobsonline.org/ajo/jobs/32927) | **Dec 1, 2026** application deadline | HIGH / 7.5/10 | Shared Biology plus EECS or IDSS; confirm ECE interpretation and demonstrate both computational originality and biological insight. Specific EECS/AJO ads are current, but general Computing page returned conflicting closed-search text. Distinct from Biology 32330. |
+| [Georgia Tech — Computational Genetics, Job ID 303632](https://biosciences.gatech.edu/employment-opportunities) | **Nov 1, 2026** review begins; until filled | HIGH / 7.5/10 | Confirm relevant doctorate and **two years of relevant research**, not necessarily postdoc. Establish a genetic-variation contribution beyond spatial expression analysis. Official department posting verified; linked PeopleSoft content incomplete/cookie-blocked. |
 
 ## Newly discovered — October 15
 
@@ -78,6 +134,10 @@ Details, evidence levels and retrieved source links: [[2026-10-05-faculty-job-in
 
 ## Source reports
 
+- [[02_Projects/Career/Faculty Jobs/2026-11-05-faculty-job-intelligence]]
+- [[02_Projects/Career/Faculty Jobs/2026-10-26-faculty-job-intelligence]]
+- [[02_Projects/Career/Faculty Jobs/2026-10-22-faculty-job-intelligence]]
+- [[02_Projects/Career/Faculty Jobs/2026-10-19-faculty-job-intelligence]]
 - [[02_Projects/Career/Faculty Jobs/2026-10-12-faculty-job-intelligence]]
 - [[02_Projects/Career/Faculty Jobs/2026-10-08-faculty-job-intelligence]]
 - [[02_Projects/Career/Faculty Jobs/2026-10-05-faculty-job-intelligence]]

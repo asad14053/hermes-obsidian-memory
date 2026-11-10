@@ -1,0 +1,3 @@
+The French startup says its new 1 trillion-parameter model, available on open-source platform Hugging Face from Thursday, is the best open model built in the West.
+
+Proprietary models from companies like OpenAI and Anthropic, which can only be accessed through an API, remain ahead in overall capabilities.

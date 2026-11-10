@@ -1,0 +1,15 @@
+## Abstract
+
+Spatial transcriptomics technologies enable the identification of spatially variable genes that can shed light on tissue structure and function. However, spatial variability of gene expression can be due not only to biological function but also technical artifact. We develop a model for spatially variable capture that forms part of a bursty transcription model, allowing us to distinguish biological variability from spatially variable technical noise. Our approach is implemented in a program called stipple, which we demonstrate can be useful for identifying and interpreting spatial gene expression variation from spatial transcriptomics assays.
+
+### Competing Interest Statement
+
+The authors have declared no competing interest.
+
+## Funder Information Declared
+
+National Institutes of Health, https://ror.org/01cwqze88, 5UM1HG012077-02
+
+Copyright
+
+The copyright holder for this preprint is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made available under a [CC-BY-NC 4.0 International license](http://creativecommons.org/licenses/by-nc/4.0/).

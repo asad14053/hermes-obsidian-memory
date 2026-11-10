@@ -1,0 +1,61 @@
+{
+  "version": 1,
+  "sources": [
+    {
+      "id": 1,
+      "url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
+      "title": "OpenAI: Responsible AI infrastructure commitments",
+      "accessed": "2026-11-07",
+      "quotes": [
+        {
+          "text": "We’ll pay the full cost of the electricity we use and the infrastructure needed to serve us.",
+          "added": "2026-11-07"
+        },
+        {
+          "text": "And we will not use non-disclosure agreements (NDAs) with public officials, allowing only narrow protections covering legitimate security information, trade secrets, or proprietary or competitively sensitive information.",
+          "added": "2026-11-07"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "url": "https://www.reuters.com/business/openai-kicks-off-charm-offensive-change-voters-view-data-centers-2026-11-05",
+      "title": "Reuters: OpenAI responds to data-center backlash",
+      "accessed": "2026-11-07",
+      "quotes": [
+        {
+          "text": "And of the 41 data center-related ballot measures voted on this week, all but one went against data centers, according to Ballotpedia.",
+          "added": "2026-11-07"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "url": "https://ballotpedia.org/Data_center-related_ballot_measures,_2026",
+      "title": "Ballotpedia: Data center-related ballot measures, 2026",
+      "accessed": "2026-11-07",
+      "quotes": [
+        {
+          "text": "In 2026, voters decided or will decide on at least 50 local ballot measures related to data centers in 13 states: Arkansas, California, Florida, Illinois, Kansas, Maine, Michigan, Nevada, New Hampshire, New Jersey, North Dakota, Ohio, and Wisconsin.",
+          "added": "2026-11-07"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "url": "https://www.reuters.com/business/media-telecom/democrats-planning-flood-ai-bills-when-they-take-control-congress-2026-11-06",
+      "title": "Reuters: Democrats plan AI and data-center bills",
+      "accessed": "2026-11-07",
+      "quotes": [
+        {
+          "text": "Democrats plan on introducing bills aimed at shielding consumers from rising electricity costs tied to data centers, requiring independent testing of advanced AI systems and clarifying when AI companies can be held liable for harm caused by their products, they said.",
+          "added": "2026-11-07"
+        },
+        {
+          "text": "Any legislation would face steep odds while Republican President Donald Trump remains in the White House, as he has repeatedly dismissed calls to write mandatory rules for AI technology.",
+          "added": "2026-11-07"
+        }
+      ]
+    }
+  ]
+}

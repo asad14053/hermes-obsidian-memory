@@ -1,0 +1,81 @@
+{
+  "method": "Equal weighting; seven criteria scored 1-10. Editorial estimates, not measured audience demand.",
+  "criteria": [
+    "public_interest",
+    "timeliness",
+    "evidence_strength",
+    "novelty",
+    "channel_fit",
+    "viral_potential",
+    "meaningful_explanation"
+  ],
+  "candidates": [
+    {
+      "candidate": "Measles: after the campaign, which children were still missed?",
+      "public_interest": 10,
+      "timeliness": 10,
+      "evidence_strength": 8,
+      "novelty": 8,
+      "channel_fit": 10,
+      "viral_potential": 9,
+      "meaningful_explanation": 10,
+      "total": 65
+    },
+    {
+      "candidate": "AI's show-me-the-returns moment",
+      "public_interest": 8,
+      "timeliness": 10,
+      "evidence_strength": 9,
+      "novelty": 9,
+      "channel_fit": 8,
+      "viral_potential": 9,
+      "meaningful_explanation": 10,
+      "total": 63
+    },
+    {
+      "candidate": "Two banks: Tk6,303cr loss beside Tk7,000cr guaranteed support",
+      "public_interest": 10,
+      "timeliness": 10,
+      "evidence_strength": 7,
+      "novelty": 6,
+      "channel_fit": 10,
+      "viral_potential": 9,
+      "meaningful_explanation": 10,
+      "total": 62
+    },
+    {
+      "candidate": "Crossfire remarks: permission versus law",
+      "public_interest": 10,
+      "timeliness": 7,
+      "evidence_strength": 7,
+      "novelty": 8,
+      "channel_fit": 10,
+      "viral_potential": 9,
+      "meaningful_explanation": 10,
+      "total": 61
+    },
+    {
+      "candidate": "Private economic zones: investment without utilities",
+      "public_interest": 9,
+      "timeliness": 9,
+      "evidence_strength": 6,
+      "novelty": 8,
+      "channel_fit": 10,
+      "viral_potential": 8,
+      "meaningful_explanation": 10,
+      "total": 60
+    },
+    {
+      "candidate": "Mistral Large 4: capability versus control",
+      "public_interest": 7,
+      "timeliness": 9,
+      "evidence_strength": 8,
+      "novelty": 8,
+      "channel_fit": 8,
+      "viral_potential": 8,
+      "meaningful_explanation": 9,
+      "total": 57
+    }
+  ],
+  "winner": "Measles: after the campaign, which children were still missed?"
+}

@@ -1,0 +1,81 @@
+{
+  "version": 1,
+  "sources": [
+    {
+      "id": 1,
+      "url": "https://publisher.tbsnews.net/bangladesh/health/measles-death-toll-1252-1-more-child-dies-1588426",
+      "title": "Measles death toll at 1,252 as 1 more child dies",
+      "accessed": "2026-10-31",
+      "quotes": [
+        {
+          "text": "One more child died from measles-like symptoms in the 24 hours until 8am today (31 October), taking the combined toll of suspected and laboratory-confirmed measles-related deaths in Bangladesh to 1,252.",
+          "added": "2026-10-31"
+        },
+        {
+          "text": "Of the total deaths, 1,147 were suspected measles-related deaths, while 105 were confirmed through laboratory tests, according to the daily update from the Directorate General of Health Services (DGHS).",
+          "added": "2026-10-31"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "url": "https://wwwnc.cdc.gov/eid/article/32/11/26-0996_article",
+      "title": "Nationwide Surveillance and Control Measures during Large Measles Outbreak, Bangladesh, 2026",
+      "accessed": "2026-10-31",
+      "quotes": [
+        {
+          "text": "The Bangladesh National Guideline for the Management of Measles case definitions (7) were used to identify suspected and confirmed measles cases during the 2026 outbreak.",
+          "added": "2026-10-31"
+        },
+        {
+          "text": "Part of that gap might be further underestimated by reporting discrepancies: Bangladesh’s administrative coverage, the reported number of vaccine doses administered divided by the estimated target population, still calculated on the basis of 2011 census denominators, has exceeded 100% in places, pointing to denominator underestimation and overreporting that likely mask the true extent of population immunity gaps (20).",
+          "added": "2026-10-31"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "url": "https://reliefweb.int/report/bangladesh/bangladesh-measles-dref-operation-update-mdrbd039-october-2026",
+      "title": "IFRC: Bangladesh Measles DREF Operation Update, October 2026",
+      "accessed": "2026-10-31",
+      "quotes": [
+        {
+          "text": "To address remaining susceptibility, the Ministry of Health launched a nationwide MR vaccination campaign on 26 September 2026 targeting approximately 3.4 million unvaccinated and missed children, prioritizing high-risk areas including Dhaka and Cox's Bazar.",
+          "added": "2026-10-31"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "url": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON598",
+      "title": "WHO Disease Outbreak News: Measles - Bangladesh",
+      "accessed": "2026-10-31",
+      "quotes": [
+        {
+          "text": "A nationwide campaign commenced on 20 April.",
+          "added": "2026-10-31"
+        },
+        {
+          "text": "WHO recommends maintaining sustained homogeneous coverage of at least 95% with the first and second doses of the MCV vaccine in all municipalities and strengthening integrated epidemiological surveillance of measles and rubella to achieve timely detection of all suspected cases in public, private, and social security healthcare facilities.",
+          "added": "2026-10-31"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "url": "https://www.straitstimes.com/asia/south-asia/bangladesh-is-battling-measles-its-a-real-warning-to-other-nations",
+      "title": "Reuters: Bangladesh measles outbreak warns of vaccine gaps",
+      "accessed": "2026-10-31",
+      "quotes": [
+        {
+          "text": "In a report published in July, WHO and UNICEF estimated first-dose coverage in 2025 had fallen to 90%, while second-dose coverage was 86%, several percentage points below the 95% needed for herd immunity.",
+          "added": "2026-10-31"
+        },
+        {
+          "text": "Minutes noted the proportion of children with confirmed measles cases who had not been vaccinated was “virtually unchanged between pre-campaign (82%) and post-campaign (85%) ... underscoring persistent coverage gaps”.",
+          "added": "2026-10-31"
+        }
+      ]
+    }
+  ]
+}

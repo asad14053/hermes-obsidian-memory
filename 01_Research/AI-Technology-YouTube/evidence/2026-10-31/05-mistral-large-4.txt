@@ -1,0 +1,5 @@
+Today, we're releasing the weights of this improved Mistral Large 4.
+
+On the Artificial Analysis Coding Agent Index, Mistral Large 4 scores 48%, effectively tied with the leading open-weight model, GLM-5.3, while using 47% fewer tokens per task on average.
+
+The model is available to use under the Mistral Ecosystem Open-Weight license, a modified MIT license. The model is free to use, modify, fine-tune, and commercialize, with a single condition: businesses that operate a Model-as-a-Service offering must obtain a separate commercial license from Mistral before using the model commercially.

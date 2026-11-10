@@ -2,7 +2,7 @@
 type: youtube-production-candidate
 project: ReelFactory
 channel: DeshChinta
-status: next-production-candidate
+status: research-backlog
 created: 2026-10-11
 last_updated: 2026-10-11
 language: Bangla

@@ -1,0 +1,12 @@
+{
+  "dossier": {
+    "output": "info: stats: 210 prose sentence(s), 49 with declared provenance (23%) \u2014 49 cited, 0 marked [unverified] (a sentence may be both); 13 distinct source(s) cited, 13 in ledger (13 with evidence quotes)\ncitations OK",
+    "exit_code": 0,
+    "error": null
+  },
+  "scripts": {
+    "output": "info: stats: 204 prose sentence(s), 35 with declared provenance (17%) \u2014 35 cited, 0 marked [unverified] (a sentence may be both); 10 distinct source(s) cited, 10 in ledger (10 with evidence quotes)\ncitations OK",
+    "exit_code": 0,
+    "error": null
+  }
+}

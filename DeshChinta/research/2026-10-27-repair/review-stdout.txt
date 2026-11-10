@@ -1,0 +1,128 @@
+INDEPENDENT DESK REVIEW
+
+Scope: This review assesses only the dossier, three proposals, and captured source text supplied here. It is not fresh fact-checking or legal advice.
+
+OVERALL DECISION
+
+| Proposal | Verdict | Public interest | Viral potential | Evidence | Principal editorial decision and concrete edits |
+|---|---|---:|---:|---|---|
+| 1. Crossfire: permission versus law | MAKE limited explainer | 10/10 | 9/10 | MEDIUM | Strongest and most timely proposal. Keep the question about executive permission versus law, not whether a killing policy has begun. Quote or closely paraphrase the IGP’s reported words; visibly attribute the speech, Police Headquarters clarification, association defence and minister’s response to source [31]. Retain the “no new killing established” disclaimer. Obtain legal review before detailed discussion of lawful force. |
+| 2. Bangladesh–Malaysia FTA | MAKE limited explainer | 8/10 | 7/10 | MEDIUM | Sound negotiation-literacy treatment. Publish as “talks have started,” not “a deal exists.” On October 27, neither an executed FTA nor an October 29 round summary can reasonably be required. Before the proposed November 2–8 release, refresh the round’s status and say plainly if no official summary or ToR text is available. Cut weak or tangential reels. |
+| 3. CPB confrontation | RESEARCH MORE | 9/10 | 8/10 | LOW for responsibility; MEDIUM for the existence of conflicting accounts | Suitable only as an evidence-status follow-up unless incident records emerge. Correct the conflation of CPB, Chhatra Union and Jubo Union speakers. Seek the complaint/GD/FIR, medical corroboration, continuous video, police timeline and responses from specifically accused parties. If unavailable, make a narrow “what remains unresolved” piece or hold. Do not imply BNP leadership ordered an attack. |
+
+FACTUAL AND ATTRIBUTION REVIEW
+
+Proposal 1
+
+The core factual chain is represented accurately: source [31] reports the IGP’s statement, the Police Headquarters clarification, the Police Service Association position and the home minister’s rejection of the statement as government policy. Sources [50] and [51] support the constitutional wording; source [8] supports TIB’s criticism and demands.
+
+The main vulnerability is second-hand evidence. Neither the complete speech nor the original police clarification is supplied. “ডেইলি স্টারের প্রতিবেদন অনুযায়ী” must therefore remain attached to those claims. TIB’s interpretation is advocacy evidence, not an adjudicated conclusion.
+
+The title and opening hook are faithful because they pose a legal question rather than announce that permission was granted. The alternative title “কঠোর পুলিশিং আর বিচারবহির্ভূত হত্যা এক নয়” is accurate but less news-specific.
+
+Legal risk is controlled reasonably well. Risk rises if “crossfire” is treated automatically as proof of a particular completed homicide, or if the IGP is personally labelled a killer or issuer of an operational order. None is established here.
+
+Bangla is generally clear and publishable. A few legal paraphrases should track the constitutional text more closely.
+
+Proposal 2
+
+The proposal correctly distinguishes negotiations, a reported ToR signing, a future agreement and entry into force. It appropriately labels official claims about trade, investment and employment as expectations rather than measured outcomes.
+
+The 30-versus-31 delegation issue is not strong enough for a standalone reel. The reports concern different dates and potentially different stages—arrival versus inaugural attendance—so the difference may not represent an error. Omit it unless its editorial purpose is broadened beyond this trivial count.
+
+Reel 8’s warning about job offers is defensible but peripheral. No supplied source suggests the FTA grants individual employment or visa rights. It risks introducing a misconception primarily to refute it. Replace it with a cleaner distinction between trade commitments and labour-migration arrangements.
+
+The proposed November 2–8 window is sensible because the scheduled round ends October 29. The requirement is a status refresh, not a demand that governments must already have published a round summary. Absence of a summary should be disclosed, not treated as evidence of secrecy or failure.
+
+Bangla quality is strong and accessible. English terms such as “Rules of origin” and “Terms of Reference” should receive consistent Bangla explanations on first use.
+
+Proposal 3
+
+The proposal accurately presents an unresolved conflict rather than a settled attack finding. Sources [86] and [3] establish allegations, police presence, an early denial, a later CPB account, political condemnation and a government assurance. They do not independently establish assailant identity, injuries, custody facts or responsibility.
+
+There is one meaningful attribution problem: Reel 1 says “সিপিবির কর্মীরা বলছেন হামলা,” while the early TBS account specifically attributes allegations to Chhatra Union and Jubo Union figures; the later account carries a CPB statement. These should not be merged.
+
+The November 9–15 timing works only for a real follow-up: new records, official action, responses, or a clearly labelled missing-evidence audit. Replaying the October 26 allegation two weeks later without development would be stale and potentially unfair.
+
+Defamation risk is highest here. Party and affiliate identities are allegations, not verified findings. Avoid faces, names or party insignia presented as convicted attackers. “স্থানীয় বিএনপি ও সহযোগী সংগঠনের লোকজন” must remain explicitly attributed. A right of reply is a genuine release requirement for any responsibility-focused version, not an optional enhancement.
+
+TEN-REEL DISTINCTNESS
+
+The documents provide 30 possible reel seeds, not 30 sufficiently distinct publication commitments.
+
+Proposal 1 has approximately six distinct units. Reels 1, 2, 4 and 5 partially repeat the same statement/clarification/legal-limit contrast; Reels 8 and 9 both concern missing operational evidence. A tighter four-reel set would be:
+
+1. Permission versus constitutional protection  
+2. Statement, police clarification and ministerial position  
+3. Lawful force versus extrajudicial punishment  
+4. Missing speech, written instructions and accountability records
+
+Proposal 2 has about seven distinct units. Reels 1, 2 and 10 overlap but can survive with sharper separation. Reel 9 should be dropped; Reel 8 should be reframed. Strongest four are:
+
+1. Talks versus completed agreement  
+2. Product coverage and tariff timing  
+3. Rules of origin and practical usability  
+4. Distribution of gains, costs and implementation
+
+Proposal 3 has about six distinct units but only two currently have a sufficiently safe standalone purpose:
+
+1. Precisely stated conflicting accounts  
+2. Evidence needed to resolve the conflict
+
+A defensible initial slate is therefore ten reels total across the three treatments—four crossfire, four FTA and two CPB—not ten releases from every treatment. Additional modules are optional enhancements after new evidence, not unmet requirements.
+
+HIGHEST-PRIORITY EXACT EDITS
+
+1. Original: “সংবিধানের ৩২ অনুচ্ছেদে জীবন ও ব্যক্তিস্বাধীনতা হরণের ক্ষেত্রে আইন মেনে চলার শর্ত আছে।”
+
+Replacement: “সংবিধানের ৩২ অনুচ্ছেদে বলা হয়েছে, আইন অনুযায়ী ছাড়া কাউকে জীবন বা ব্যক্তিস্বাধীনতা থেকে বঞ্চিত করা যাবে না।[51]”
+
+2. Original: “ডেইলি স্টারের প্রতিবেদন অনুযায়ী, ২৬ অক্টোবর আইজিপি সরকারি অনুমতি পেলে ক্রসফায়ারের কথা বলেছেন।”
+
+Replacement: “ডেইলি স্টারের প্রতিবেদন অনুযায়ী, ২৬ অক্টোবর আইজিপি বলেছেন, ‘যেখানে ক্রসফায়ার প্রয়োজন’, সরকার অনুমতি দিলে পুলিশ তা করবে। পূর্ণ বক্তব্যের রেকর্ড এই গবেষণায় যাচাই করা হয়নি।[31]”
+
+3. Original: “সরকার না বললেই কি মাঠে সব পরিষ্কার হয়ে যায়?”
+
+Replacement: “মন্ত্রী সরকারের অবস্থান অস্বীকার করার পরও মাঠপর্যায়ের লিখিত নির্দেশ কী বলে?”
+
+4. Original: “টিআইবি বক্তব্য প্রত্যাহার, ক্ষমা প্রার্থনা এবং জবাবদিহি দাবি করেছে; জবাবদিহি নিশ্চিত না হওয়া পর্যন্ত অপসারণের কথাও বলেছে।”
+
+Replacement: “টিআইবি বক্তব্য প্রত্যাহার, নিঃশর্ত প্রকাশ্য ক্ষমা এবং প্রশাসনিক জবাবদিহি দাবি করেছে; জবাবদিহি নিশ্চিত না হওয়া পর্যন্ত আইজিপিকে দায়িত্ব থেকে সরানোর দাবিও জানিয়েছে।[8]”
+
+5. Original: “দুই পক্ষ আলোচনার কাঠামো নির্ধারণে Terms of Reference স্বাক্ষর করেছে বলেও প্রতিবেদনে আছে।”
+
+Replacement: “টিবিএস ও বিএসএস জানিয়েছে, দুই পক্ষ আলোচনার কাঠামো ও পরিধি নির্ধারণে Terms of Reference বা কার্যপরিধি স্বাক্ষর করেছে; মূল নথিটি এই গবেষণায় পাওয়া যায়নি।[100][101]”
+
+6. Original: “FTA শব্দটা বড়; আপনার পণ্য তালিকায় আছে কি না, সেটাই দরকারি।”
+
+Replacement: “FTA নামটি নয়—কোন পণ্য কী শর্তে সুবিধা পাবে, সেটিই ব্যবসার জন্য নির্ধারক।”
+
+7. Original: “FTA আলোচনার খবর শুনে মালয়েশিয়ার চাকরি নিশ্চিত ভাববেন না।”
+
+Replacement: “বাণিজ্যচুক্তির আলোচনা আর শ্রমবাজার বা ভিসা-অধিকার এক বিষয় নয়।”
+
+8. Original: “একই প্রতিনিধিদলের সংখ্যা দুই প্রতিবেদনে আলাদা হলে কী করবেন?”
+
+Replacement: “আলোচনার ছোটখাটো তথ্যেও অমিল থাকলে মূল নথি না পাওয়া পর্যন্ত অপ্রয়োজনীয় সংখ্যাটি বাদ দিন।”
+
+Editorial note: Prefer deleting this reel entirely; the 30/31 variation may reflect timing or attendance rather than contradiction.
+
+9. Original: “সিপিবির কর্মীরা বলছেন হামলা; পুলিশ বলেছে হয়নি। কোন প্রমাণে মীমাংসা হবে?”
+
+Replacement: “ছাত্র ও যুব সংগঠনের নেতারা হামলার অভিযোগ করেছেন; পুলিশ তা অস্বীকার করেছে। পরে সিপিবিও নিজস্ব বিবরণ দিয়েছে—কোন প্রমাণে বিরোধটি মীমাংসা হবে?[3][86]”
+
+10. Original: “কর্মীরা স্থানীয় বিএনপি ও সহযোগী সংগঠনের লোকজনের বিরুদ্ধে অভিযোগ করেছেন বলে সংবাদমাধ্যম জানিয়েছে।”
+
+Replacement: “টিবিএস ও বিডিনিউজ টোয়েন্টিফোরের প্রতিবেদনে ছাত্র ও যুব সংগঠনের কর্মীদের অভিযোগ হিসেবে স্থানীয় বিএনপি, যুবদল ও ছাত্রদলের সদস্যদের নাম এসেছে; পরিচয় ও দায় স্বাধীনভাবে যাচাই হয়নি।[3][86]”
+
+PROPOSALS VERSUS FULL SCRIPTS
+
+The request represented in the supplied material is for script proposals/treatments, and that is what was produced. These are not full scripts: the narration seeds do not fill ten one-minute chapters, transitions and complete arguments are absent, and read time has not been measured. That is not a defect if proposals were requested. It becomes an unmet requirement only if the commission required recording-ready, timed scripts.
+
+Genuine pre-publication requirements are source-status refreshes, accurate attribution, legal review for detailed use-of-force claims, right of reply for any CPB responsibility claim, and actual timing of completed narration. Full expansion of all 30 seeds, an executed FTA, and a future negotiation-round summary are not requirements that could already be satisfied on October 27.
+
+INDEPENDENT-REVIEW STATUS
+
+Desk review complete. Proposal 1 and Proposal 2 can proceed as limited explainers after their stated release checks. Proposal 3 needs further research or a narrowly framed unresolved-evidence treatment.
+
+This review cannot authenticate the underlying websites, full IGP recording, original police documents, CPB incident records, medical evidence, signed ToR, later government decisions, copyright permissions, legal compliance, audience demand or developments outside the supplied material.

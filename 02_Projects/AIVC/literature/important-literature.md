@@ -2,7 +2,7 @@
 type: literature-index
 project: "AIVC"
 status: active
-last_updated: 2026-10-17
+last_updated: 2026-11-07
 confidence: medium
 ---
 
@@ -46,6 +46,30 @@ This is a curated project index, not a claim that findings were reproduced in AI
 - **Evidence limit:** Results are author-reported and partly semi-synthetic. Mechanistic-divergence diagnostics estimated from protected test responses would leak outcomes.
 - **Radar source:** [[02_Projects/AIVC/literature/2026-10-09-literature-radar]].
 
+### Cole et al. — separate perturbation representation from prediction head
+
+- **Citation:** Cole E, Huizing GJ, Addagudi S, et al. *Foundation Models Improve Perturbation Response Prediction.* bioRxiv, revised October 22, 2026. DOI: `10.64898/2026.02.18.706454`.
+- **Source:** https://www.biorxiv.org/content/10.64898/2026.02.18.706454
+- **Durable use:** Factor perturbation representation and response head independently. Include prior-knowledge embeddings with simple kNN/lasso or ridge heads, stratify by replicate/signal reliability, and score mean effects and full distributions separately.
+- **Evidence limit:** Author-reported revised-preprint results; reducing distributional outputs to means cannot establish that generative models add no value for heterogeneity. Predominant tasks were not human-brain donor/context transfer.
+- **Radar source:** [[02_Projects/AIVC/literature/2026-10-23-literature-radar]].
+
+### Karbalayghareh et al. — DynaVelo experimental-validation standard
+
+- **Citation:** Karbalayghareh A, Pelzer B, Chin CR, et al. *Deep dynamical models of single-cell multiomic velocities predict loss-of-function and rescue perturbations in B cells.* Nature Biotechnology (2026). DOI: `10.1038/s41587-026-03348-1`.
+- **Source:** https://www.nature.com/articles/s41587-026-03348-1
+- **Durable use:** Distinguish model plausibility from experimentally checked intervention prioritization. A future AIVC claim should show that context changes a useful prediction and improves experimental prioritization, not only reconstruction or plausible regulatory edges.
+- **Evidence limit:** The author-reported rescue evidence is specific to a murine B-cell system and does not validate human cortex, SCZ, or genome-wide unseen-target transfer.
+- **Radar source:** [[02_Projects/AIVC/literature/2026-10-23-literature-radar]].
+
+### Xu et al. — GeoSinkhorn population-distribution comparator
+
+- **Citation:** Xu K, Wilkinson A, Ni S, et al. *GeoSinkhorn Flow: Geometry-Aware Flow Matching for Perturbation-Conditioned Dynamics in Single cell Data Phenoscapes.* bioRxiv v1 (2026). DOI: `10.64898/2026.10.16.759724`.
+- **Source:** https://www.biorxiv.org/content/10.64898/2026.10.16.759724v1
+- **Durable use:** Score within-cell-state response and abundance/composition change separately, fit geometry using training donors/conditions only, and include transport plus embedding-kNN baselines before attributing gains to a graph transformer.
+- **Evidence limit:** Author-reported preprint results; smooth transport paths are not observed lineage trajectories or identified mechanisms, and neural/SCZ transfer is unestablished.
+- **Radar source:** [[02_Projects/AIVC/literature/2026-10-23-literature-radar]].
+
 ### Yang et al. — risk-calibrated causal extrapolation
 
 - **Citation:** Yang F, Lei H, Chen Y, Du J-H. *Risk-Calibrated Balancing for High-Dimensional Causal Extrapolation.* arXiv:2609.34482v2 (2026).
@@ -81,6 +105,14 @@ This is a curated project index, not a claim that findings were reproduced in AI
 - **Radar source:** [[02_Projects/AIVC/literature/2026-10-14-literature-radar]].
 
 ## Spatial-context validation
+
+### Dehghani Amirabad et al. — Tessera direction-aware spatial comparator
+
+- **Citation:** Dehghani Amirabad A, Khodabandeh Yalabadi A, Moskalev A, et al. *Spatially Informed and Direction Sensitive Representation Learning for Spatial Transcriptomics.* arXiv:2610.28579v1 (2026).
+- **Source:** https://arxiv.org/abs/2610.28579v1
+- **Durable use:** Compare cell-type-stratified pooled context, distance-only attention, and direction-aware attention on donor-held-out measured targets. Include slide-rotation and anatomical-axis controls; translation invariance is not rotation invariance.
+- **Evidence limit:** Author-reported preprint/workshop results; masked-expression reconstruction does not establish perturbation prediction or spatial-environment causality.
+- **Radar source:** [[02_Projects/AIVC/literature/2026-10-21-literature-radar]].
 
 ### Jackson, Gorin, and Pachter — biological versus technical spatial variation
 
@@ -154,3 +186,91 @@ This is a curated project index, not a claim that findings were reproduced in AI
 - **AIVC implication:** Matched neighborhood deletion or shuffling can test predictive dependence, but model-input deletion and attention sensitivity are not biological interventions or causal validation.
 - **Evidence limit:** Cancer spatial proteomics and survival prediction do not establish neural perturbation-response validity.
 - **Radar source:** [[02_Projects/AIVC/literature/2026-09-28-literature-radar]].
+
+## Recent radar additions — October 26–30, 2026
+
+### Huang — clone-aware perturbation reliability
+
+- **Citation:** Huang X. *Shared clones make random cell halves look reproducible in pooled screens.* arXiv:2610.32962v1 (2026). https://arxiv.org/abs/2610.32962v1
+- **Durable use:** For future cultured perturbation benchmarks, split by independent transduction/culture/donor units and test clone-disjoint reliability; random-cell agreement can overstate reproducibility when descendants of one founder cross both partitions.
+- **? UNCERTAIN:** Preprint and system-dependent; the reported artifact must not be projected onto postmortem Xenium data or every neural perturbation model.
+- **Radar source:** [[02_Projects/AIVC/literature/2026-10-26-literature-radar]].
+
+### Batique et al. — uncertainty must add error information
+
+- **Citation:** Batique T et al. *Probabilistic uncertainty in virtual spatial transcriptomics from histology is largely redundant with the predicted mean.* bioRxiv v1 (2026). DOI: `10.64898/2026.10.23.760875`.
+- **Durable use:** Evaluate calibration, error ranking and selective prediction separately; require uncertainty to identify errors beyond predicted-mean-only baselines before calling a probabilistic decoder useful.
+- **Evidence limit:** Author-reported preprint, mainly within-cohort virtual ST; no direct AIVC or human DLPFC validation.
+- **Radar source:** [[02_Projects/AIVC/literature/2026-10-26-literature-radar]].
+
+### Luan — centered cross-context transfer baseline
+
+- **Citation:** Luan H et al. *Centered cross-context perturbation transfer on the public 2025 Virtual Cell Challenge benchmark.* bioRxiv v1 (2026). DOI: `10.64898/2026.10.20.760514`.
+- **Durable use:** Include centered transfer and simple ridge/kNN comparators, and score response direction, ranking and magnitude separately before attributing gains to graph or decoder complexity.
+- **Evidence limit:** Retrospective author-reported comparison with reconstructed anchors; not evidence of blind-competition superiority or neural/SCZ transfer.
+- **Radar source:** [[02_Projects/AIVC/literature/2026-10-26-literature-radar]].
+
+### Wei et al. — unified perturbational modeling
+
+- **Citation:** Wei Z et al. *How Much Can AI Virtual Cells Gain from Unified Perturbational Modeling?* bioRxiv v1 (2026). DOI: `10.64898/2026.10.25.761625`.
+- **Durable use:** Treat gene-panel alignment, modality/context coverage and data scale as separate contributors. A later graph/transformer model should use a data/parameter-matched UPM-style baseline before claiming architecture novelty.
+- **Evidence limit:** Large author-reported preprint; held-out cell-line results do not establish independent-donor, disease-tissue or spatial-neural generalization.
+- **Radar source:** [[02_Projects/AIVC/literature/2026-10-28-literature-radar]].
+
+### Chen et al. — donor-held-out evaluation is not optional
+
+- **Citation:** Chen X et al. *Evaluation design shapes estimates of cross-donor generalization in single-cell classification of cell-type.* bioRxiv v1 (2026). DOI: `10.64898/2026.10.26.761949`.
+- **Durable use:** Report random-cell versus donor-held-out performance and their optimism gap; donor adjustment does not replace donor-separated testing, and donor holdout still does not prove cross-site or cross-assay transport.
+- **Evidence limit:** Classification in PBMC/lung, not AIVC response prediction or DLPFC disease modeling.
+- **Radar source:** [[02_Projects/AIVC/literature/2026-10-28-literature-radar]].
+
+### De Jonghe et al. — prospective variant-to-function data source
+
+- **Citation:** De Jonghe J et al. *Scalable variant-to-function screens using prime editing perturb-seq.* bioRxiv (2026). DOI: `10.64898/2026.10.28.762453`.
+- **Durable use:** Consider endogenous variant-to-function Perturb-seq as a future prospective benchmark for genotype-conditioned response prediction, with sequence/chromatin and additive baselines.
+- **? UNCERTAIN:** Abstract-level preprint evidence; no demonstrated transfer to human neural donors, SCZ or spatial context, and no current access decision.
+- **Radar source:** [[02_Projects/AIVC/literature/2026-10-30-literature-radar]].
+
+## Recent radar additions — November 2–6, 2026
+
+### GENESIS — replicate-reliability ceiling
+
+- **Citation:** Conci R et al. *Single-cell perturbation prediction near experimental reproducibility with GENESIS.* bioRxiv 2026.10.30.763081. https://doi.org/10.64898/2026.10.30.763081
+- **Durable use:** Compare future AIVC response predictions with independent-repeat reliability and use distributional metrics; treat coverage/design depth as a comparator rather than assuming architecture is the bottleneck.
+- **Evidence limit:** Author-reported preprint; unseen-donor, neural and spatial transfer are not established.
+- **Radar source:** [[02_Projects/AIVC/literature/2026-11-02-literature-radar]].
+
+### ARCADE — abundance versus within-cell-type state
+
+- **Citation:** Su Q. *ARCADE disentangles cell abundance from continuous transcriptional state in spatial transcriptomics.* bioRxiv 2026.10.28.762703. https://doi.org/10.64898/2026.10.28.762703
+- **Durable use:** Separate composition/abundance from within-cell-type state before interpreting neighborhood-associated expression as context-induced response; require composition-only and shuffled-neighborhood controls.
+- **Evidence limit:** Simulated/semi-synthetic and one DLPFC application; no perturbation ground truth or donor-generalization result.
+- **Radar source:** [[02_Projects/AIVC/literature/2026-11-04-literature-radar]].
+
+### RFA — negative topology-control result
+
+- **Citation:** Timofeev A et al. *Continuous Topological Accessibility (RFA) as a 3D-Aware GRN Filter.* bioRxiv 2026.11.02.763620. https://doi.org/10.64898/2026.11.02.763620
+- **Durable use:** Require Hi-C/3D graph priors to beat one-dimensional distance, accessibility-only, and rewired controls on the target response; do not infer causal utility from biologically plausible edges.
+- **Evidence limit:** Limited cell-line/chromosome scope; the negative result does not rule out neural or perturbation-specific 3D effects.
+- **Radar source:** [[02_Projects/AIVC/literature/2026-11-04-literature-radar]].
+
+### SPEAR and RAPTORGraph — graph architecture comparators
+
+- **Citations:** Verma S et al. *Spectral Adaptive Repositioning for Flow-Based Single-Cell Perturbation Modeling.* bioRxiv 2026.11.02.763678. https://doi.org/10.64898/2026.11.02.763678; Adhisantoso YG et al. *RAPTORGraph.* bioRxiv 2026.11.03.763980. https://doi.org/10.64898/2026.11.03.763980
+- **Durable use:** Treat spectral gene geometry, learned pathway structure, intervention-locality and anti-spillover penalties as explicit comparators/ablations if a later AIVC architecture is justified.
+- **Evidence limit:** Observational graphs, inferred couplings and latent intervention assumptions do not establish causal rewiring or transport to human DLPFC/SCZ.
+- **Radar source:** [[02_Projects/AIVC/literature/2026-11-06-literature-radar]].
+
+### Foundation-model audit — minimum credibility controls
+
+- **Citation:** Cupaioli F, Merelli I. *Where single-cell foundation models help.* bioRxiv 2026.11.03.763968. https://doi.org/10.64898/2026.11.03.763968
+- **Durable use:** Include expression-matched deletion and negative contrasts, replicate-aware ground truth, donor/clone-disjoint splits, and matched PCA/mean/linear baselines before claiming foundation-model or perturbation gains.
+- **Evidence limit:** Some organoid comparisons have limited independent libraries; zero-shot token deletion is not measured perturbation truth.
+- **Radar source:** [[02_Projects/AIVC/literature/2026-11-06-literature-radar]].
+
+### Perturbscape — possible disease-genetics bridge
+
+- **Citation:** Turhan B et al. *Perturbation-induced gene programs map the hidden regulatory architecture of complex diseases.* bioRxiv 2026.11.03.762080v2. https://doi.org/10.64898/2026.11.03.762080
+- **Durable use:** Consider perturbation-specific programs as a future bridge between response prediction and disease-genetic prioritization, requiring enrichment beyond steady-state annotations and independent neural/SCZ validation.
+- **Evidence limit:** No schizophrenia-specific validation; multiple learner/selection steps create modeling degrees of freedom.
+- **Radar source:** [[02_Projects/AIVC/literature/2026-11-06-literature-radar]].

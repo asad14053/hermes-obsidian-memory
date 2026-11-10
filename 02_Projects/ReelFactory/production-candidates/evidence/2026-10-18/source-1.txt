@@ -1,0 +1,71 @@
+# Family Card | Social Security Policy Support (SSPS) Programme
+URL: https://socialprotection.gov.bd/2026/03/family-card/
+Published: 2026-03-10
+
+Family Card | Social Security Policy Support (SSPS) Programme
+
+# Family Card
+
+March 11, 2026
+
+The Family Card is a database-driven digital identification and social protection instrument designed to deliver regular financial assistance directly to vulnerable households. More than just a cash transfer mechanism, it is envisioned as a universal social safety platform that integrates multiple welfare services under a single identity instrument.
+
+```
+Core Philosophy"Family is the core unit of development, not the individual." The programme shifts the design logic of social protection from targeting individuals to supporting the household as a whole; recognizing that poverty, food insecurity, health shocks, and economic vulnerability are experienced collectively.
+```
+
+Programme at a Glance
+
+| Implementing Ministry | Ministry of Social Welfare, Government of Bangladesh |
+| --- | --- |
+| Programme Type | Digital cash transfer + subsidised commodities access |
+| Cash Benefit | BDT 2,000 â 2,500 per family per month |
+| Target Coverage | Up to 2 crore (20 million) families nationally |
+| Pilot Launch | March 10; covering 6,500 families in 14 upazilas |
+| Transfer Mechanism | Mobile Financial Services (bKash, Nagad, Rocket) or bank account |
+| Card Issuance | One card per household; issued in the female headâs name |
+| Selection Method | Proxy Means Test (PMT) scoring + door-to-door data collection |
+| Long-Term Vision | Universal Social ID Card for every citizen by 2030 |
+| Fiscal Target | Social protection budget raised to 3% of GDP by 2028 |
+
+## ðµ Direct Cash Transfer
+
+- Monthly BDT 2,000-2,500 deposited digitally
+- No intermediaries
+- Reduced corruption risk.
+
+## ð Universal Social ID
+
+A single smart card enabling access to
+
+- Subsidized food
+- Education stipends
+- Agri-support by 2030.
+
+## ð Dynamic Social Registry
+
+- A unified database replacing fragmented records
+- Integrating 99 existing programmes across the ministries/divisions
+
+Inclusion Criteria
+
+- Rural families owning 0.50 acres or less of homestead and cultivable land
+- Households assessed as poor or ultra-poor based on income and asset evaluation
+- Landless, homeless, persons with disabilities, and marginalized communities (including Hijra, Bede, and small ethnic groups)
+
+Exclusion Criteria
+
+- Any family member who is a regular government employee or pensioner
+- Households with a commercial license or large business operations
+- Families possessing a car or air conditioner
+
+```
+Priority GroupsImplementation begins with the most vulnerable segments; the ultra-poor, homeless, persons with disabilities, and socially marginalized communities. Despite the programme's universal ambition, targeting starts at the bottom of the economic ladder.
+```
+
+How Beneficiaries Are Selected
+
+Selection follows a structured, multi-level process to minimize patronage and ensure accountability:
+
+| Data Collection | 560 supervisors collect 50 data points per family across 320,000 households in 14 pilot wards |
+|

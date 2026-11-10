@@ -2,7 +2,7 @@
 type: todo
 project: "AIVC"
 status: active
-last_updated: 2026-10-03
+last_updated: 2026-10-24
 confidence: medium
 ---
 
@@ -27,3 +27,4 @@ confidence: medium
 
 - TODO Define graph construction/update rules and compare graph, transformer, and hybrid models only after a leakage-resistant baseline establishes a real prediction gap.
 - TODO Decide whether and how GeneBridge spatial context enters AIVC without implying perturbation evidence that GeneBridge does not contain.
+- TODO For a future perturbation benchmark, vary perturbation representation and response head independently; include prior-knowledge embedding plus simple kNN/ridge baselines; report within-state response and population-mass outcomes separately. Do not expand the immediate GeneBridge measured-target pilot for this.

@@ -1,0 +1,26 @@
+{
+  "invocation": "hermes chat --oneshot -Q --ignore-rules --provider openai-codex --model gpt-5.6-sol --reasoning low --toolsets '' --max-turns 1 --run-budget 120 --query-file /opt/data/obsidian-vault/DeshChinta/research/2026-11-01/review-input.txt",
+  "input_file": "/opt/data/obsidian-vault/DeshChinta/research/2026-11-01/review-input.txt",
+  "stdout_file": "/opt/data/obsidian-vault/DeshChinta/research/2026-11-01/review-stdout.txt",
+  "stderr_file": "/opt/data/obsidian-vault/DeshChinta/research/2026-11-01/review-stderr.txt",
+  "exit_code": 0,
+  "session_id": "20261101_121428_db09d3",
+  "runtime_db": "/opt/data/state.db",
+  "runtime_verification": {
+    "model": "gpt-5.6-sol",
+    "billing_provider": "openai-codex",
+    "billing_base_url": "https://chatgpt.com/backend-api/codex",
+    "billing_mode": "subscription_included",
+    "api_call_count": 1,
+    "input_tokens": 22586,
+    "output_tokens": 1864,
+    "reasoning_tokens": 87,
+    "cost_status": "included",
+    "tool_call_count": 0,
+    "end_reason": "cli_close"
+  },
+  "substantive_output": true,
+  "review_word_limit_requested": 1200,
+  "fresh_source_verification_claimed": false,
+  "legal_advice_claimed": false
+}

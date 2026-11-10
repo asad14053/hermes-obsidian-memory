@@ -1,0 +1,3 @@
+Today, we’re announcing that OpenAI will honor a common signal in robots.txt, the file that lets websites express their preferences about the use of their content for foundational generative AI training.
+
+We aim to implement the signal in the coming months, and will share another update with details about our implementation when we do so.

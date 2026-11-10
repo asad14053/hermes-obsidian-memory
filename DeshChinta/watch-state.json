@@ -1,0 +1,437 @@
+{
+  "schema_version": 1,
+  "watch": "DeshChinta public-interest research",
+  "last_run_completed_at": "2026-11-01T12:19:05+00:00",
+  "run_status": "complete_with_external_evidence_gaps",
+  "last_successful_global_cutoff": null,
+  "global_cutoff_note": "No complete source-stream cutoff established; relevance-ranked search is not exhaustive and official event streams had gaps. Per-source successful checks only.",
+  "next_scan_overlap_days": 7,
+  "watch_contract": {
+    "scope": [
+      "politics",
+      "governance",
+      "law",
+      "economy",
+      "institutions",
+      "public policy",
+      "corruption",
+      "elections",
+      "civil rights",
+      "education",
+      "social problems",
+      "Bangladesh-material international relations"
+    ],
+    "language": [
+      "bn",
+      "en"
+    ],
+    "max_topics": 3,
+    "materiality": "New dated development with substantial public-interest consequences; primary context plus reputable reporting required; unresolved event-primary gaps reduce rating and create release gates.",
+    "silence_rule": "Only silent when genuinely no new material findings; source failure is not no news.",
+    "audience": "Bangla public-interest YouTube viewers",
+    "competitor": "https://www.youtube.com/@EnayetChowdhuryOfficial/videos",
+    "cadence": "Existing scheduled job; unchanged",
+    "allowed_writes": "Research, evidence, project pointers and monitoring state only; no publication or external outreach"
+  },
+  "events": [
+    {
+      "id": "bd-2026-10-26-igp-crossfire-remarks",
+      "event_date": "2026-10-26",
+      "latest_report_date": "2026-10-27",
+      "category": [
+        "law",
+        "governance",
+        "civil rights"
+      ],
+      "source_ids": [
+        8,
+        31,
+        50,
+        51
+      ],
+      "decision": "MAKE narrow attributed explainer with legal-review gate",
+      "evidence": "MEDIUM",
+      "public_interest": 10,
+      "reported_this_run": true
+    },
+    {
+      "id": "bd-2026-10-26-cpb-office-confrontation",
+      "event_date": "2026-10-26",
+      "latest_report_date": "2026-10-27",
+      "category": [
+        "politics",
+        "civil rights"
+      ],
+      "source_ids": [
+        3,
+        86,
+        50
+      ],
+      "decision": "RESEARCH MORE",
+      "evidence": "MEDIUM",
+      "public_interest": 9,
+      "reported_this_run": true
+    },
+    {
+      "id": "bd-2026-10-27-malaysia-fta-round-one",
+      "event_date": "2026-10-27",
+      "latest_report_date": "2026-10-29",
+      "category": [
+        "economy",
+        "international relations"
+      ],
+      "source_ids": [
+        100,
+        101,
+        36,
+        48,
+        73
+      ],
+      "decision": "MAKE negotiation-literacy explainer after status refresh",
+      "evidence": "MEDIUM",
+      "public_interest": 8,
+      "reported_this_run": false,
+      "update": "First round concluded; 13 working groups reviewed draft areas; January 2027 next round is tentative; terms not final."
+    },
+    {
+      "id": "bd-2026-10-29-ldc-graduation-extension-2029",
+      "event_date": "2026-10-29",
+      "latest_report_date": "2026-10-31",
+      "category": [
+        "economy",
+        "public policy",
+        "international relations"
+      ],
+      "source_ids": [
+        1,
+        2,
+        3
+      ],
+      "decision": "MAKE reform-scoreboard explainer after status refresh",
+      "evidence": "HIGH",
+      "public_interest": 9,
+      "reported_this_run": true
+    },
+    {
+      "id": "bd-2026-11-01-rmg-wage-board-formed",
+      "event_date": "2026-11-01",
+      "latest_report_date": "2026-11-01",
+      "category": [
+        "economy",
+        "law",
+        "civil rights",
+        "public policy"
+      ],
+      "source_ids": [
+        4,
+        5,
+        6
+      ],
+      "decision": "MAKE report-attributed process explainer; obtain notifications before asserting legal details",
+      "evidence": "MEDIUM",
+      "public_interest": 9,
+      "reported_this_run": true
+    },
+    {
+      "id": "bd-2026-10-26-russia-war-recruitment-trafficking-un-report",
+      "event_date": "2026-10-26",
+      "latest_report_date": "2026-10-27",
+      "category": [
+        "civil rights",
+        "governance",
+        "international relations",
+        "social problems"
+      ],
+      "source_ids": [
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "decision": "MAKE safety and accountability explainer; no unreconciled Bangladesh total",
+      "evidence": "HIGH for UN finding and Bangladesh inclusion; lower for local totals",
+      "public_interest": 10,
+      "reported_this_run": true
+    }
+  ],
+  "source_coverage": {
+    "TIB_7572": {
+      "status": "success_exact_page",
+      "checked_at": "2026-10-27T16:54:25.700654+00:00",
+      "complete_stream_cutoff": null
+    },
+    "constitution_articles_31_32": {
+      "status": "provisions_retrieved_title_encoding_corrupted",
+      "checked_at": "2026-10-27T16:54:25.700654+00:00",
+      "full_current_version_audited": false
+    },
+    "Police_Headquarters": {
+      "status": "original_statements_and_speech_missing",
+      "checked_at": "2026-11-01T12:19:05+00:00",
+      "cutoff": null
+    },
+    "CPB": {
+      "status": "homepage_recovered_visible_recent_list_starts_July_2026_current_statement_not_recovered",
+      "cutoff": null
+    },
+    "CPB_incident_evidence": {
+      "status": "followup_statement_and_police_denial_recovered_original_records_missing",
+      "checked_at": "2026-11-01T12:19:05+00:00",
+      "cutoff": null
+    },
+    "TBS_1584216": {
+      "status": "full_direct_html_supersedes_fragmentary_extraction",
+      "checked_at": "2026-10-27T16:54:25.700654+00:00"
+    },
+    "BSS_438845": {
+      "status": "partial_extracted_copy_direct_403",
+      "cutoff": null
+    },
+    "Bernama_2626022": {
+      "status": "direct_html_recovered_after_extractor_429",
+      "checked_at": "2026-10-27T16:54:25.700654+00:00"
+    },
+    "UN_OHRLLS": {
+      "status": "context_page_retrieved_latest_deferral_decision_not_authenticated",
+      "cutoff": null,
+      "new_primary_status_page": "https://www.un.org/ldcportal/content/bangladesh-graduation-status"
+    },
+    "trade_negotiation_documents": {
+      "status": "signed_ToR_original_release_and_agreement_missing",
+      "cutoff": null
+    },
+    "competitor": {
+      "status": "metadata_current_content_inherited_partial",
+      "unique_entries": 30,
+      "pagination": "first_tab_only_no_continuation_requested",
+      "exact_latest_upload_date_verified": false,
+      "complete_stream_cutoff": null,
+      "latest_video_id": "YSNoS0UqGPg",
+      "new_video_since_prior_run": false,
+      "helper_status": "IP blocked",
+      "watch_page_status": "no accessible caption track in current run",
+      "prior_content_analysis": "/opt/data/obsidian-vault/DeshChinta/research/2026-10-27-repair/competitor/competitor-recovery.md",
+      "current_retrieval_log": "/opt/data/obsidian-vault/DeshChinta/research/2026-11-01/competitor/retrieval-log.md",
+      "checked_at": "2026-11-01T12:19:05+00:00"
+    },
+    "UN_A_81_L_8": {
+      "status": "success_exact_document",
+      "checked_at": "2026-11-01T12:19:05+00:00",
+      "event_cutoff": "2026-10-29",
+      "note": "Operative text moves Bangladesh preparatory period to 24 November 2029; final resolution symbol not yet retrieved."
+    },
+    "UN_LDC_Bangladesh_portal": {
+      "status": "stale_conflicting_page",
+      "checked_at": "2026-11-01T12:19:05+00:00",
+      "cutoff": null,
+      "note": "Page still displayed 24 November 2026 during this run; superseded for current status by A/81/L.8 plus adoption evidence."
+    },
+    "UN_COI_Ukraine_A_81_440": {
+      "status": "success_primary_report",
+      "checked_at": "2026-11-01T12:19:05+00:00",
+      "event_cutoff": "2026-10-26",
+      "note": "Bangladesh listed among 29 nationalities; business-visa evidence; no Bangladesh-specific total."
+    },
+    "RMG_wage_board_notifications": {
+      "status": "original_notifications_not_recovered",
+      "checked_at": "2026-11-01T12:19:05+00:00",
+      "cutoff": null,
+      "note": "Two independent reports recovered; legal composition and deadlines remain report-attributed."
+    },
+    "Malaysia_FTA_round_close": {
+      "status": "success_secondary_report_attributed_to_ministry_statement",
+      "checked_at": "2026-11-01T12:19:05+00:00",
+      "event_cutoff": "2026-10-29",
+      "note": "Original ministry close-out release still not recovered; final agreement not yet due."
+    }
+  },
+  "deduplication": "Prior October 27 IGP, CPB and Malaysia-FTA events remain single underlying events. The FTA round close is an update, not a fourth topic. The three selected new events are LDC-extension adoption, RMG wage-board formation and the UN trafficking report concerning Bangladeshis.",
+  "artifacts": {
+    "dossier": "/opt/data/obsidian-vault/DeshChinta/research/2026-10-27-editorial-dossier.md",
+    "script_treatments": "/opt/data/obsidian-vault/DeshChinta/research/2026-10-27-three-script-proposals.md",
+    "evidence_dir": "/opt/data/obsidian-vault/02_Projects/ReelFactory/research/2026-10-27-deshchinta",
+    "full_discovery_ledger": "/opt/data/obsidian-vault/02_Projects/ReelFactory/research/2026-10-27-deshchinta/ledger.json",
+    "reviewed_script_treatments": "/opt/data/obsidian-vault/DeshChinta/research/2026-10-27-repair/three-script-proposals-reviewed.md",
+    "repair_evidence": "/opt/data/obsidian-vault/DeshChinta/research/2026-10-27-repair/evidence-recovery.md",
+    "competitor_content_analysis": "/opt/data/obsidian-vault/DeshChinta/research/2026-10-27-repair/competitor/competitor-recovery.md",
+    "current_dossier": "/opt/data/obsidian-vault/DeshChinta/research/2026-11-01/editorial-dossier-reviewed.md",
+    "current_script_treatments": "/opt/data/obsidian-vault/DeshChinta/research/2026-11-01/script-treatments-reviewed.md",
+    "current_review": "/opt/data/obsidian-vault/DeshChinta/research/2026-11-01/gpt-5.6-sol-review.md",
+    "current_review_provenance": "/opt/data/obsidian-vault/DeshChinta/research/2026-11-01/review-provenance.json",
+    "current_acceptance_checklist": "/opt/data/obsidian-vault/DeshChinta/research/2026-11-01/acceptance-checklist.md",
+    "current_ledger": "/opt/data/obsidian-vault/DeshChinta/research/2026-11-01/citation-ledger.json",
+    "current_evidence_dir": "/opt/data/obsidian-vault/DeshChinta/research/2026-11-01/evidence",
+    "current_competitor_metadata": "/opt/data/obsidian-vault/DeshChinta/research/2026-11-01/competitor/channel-metadata.json"
+  },
+  "evaluation": {
+    "requested": "GPT-5.6 sol",
+    "performed_by_requested_model": false,
+    "actual": "gpt-6-astra-900k",
+    "independent_model_review": false,
+    "historical_scope": "The fields above describe the original research run, not the later review.",
+    "subsequent_review": {
+      "completed": true,
+      "invocation_model": "gpt-5.6-sol",
+      "provider": "openai-codex",
+      "session_id": "20261027_170234_14e078",
+      "exit_code": 0,
+      "artifact": "/opt/data/obsidian-vault/DeshChinta/research/2026-10-27-gpt-5.6-sol-review.md",
+      "scope": "Independent editorial desk review of supplied dossier; no fresh source verification or qualified legal review",
+      "prior_attempt": "Tool-enabled reviewer timed out after 240 seconds without saving a review; text-only input invocation then succeeded."
+    }
+  },
+  "current_evaluation": {
+    "status": "COMPLETE",
+    "requested": "gpt-5.6-sol",
+    "actual_model_verified": "gpt-5.6-sol",
+    "provider": "openai-codex",
+    "session_id": "20261101_121428_db09d3",
+    "exit_code": 0,
+    "api_call_count": 1,
+    "billing_mode": "subscription_included",
+    "review_artifact": "/opt/data/obsidian-vault/DeshChinta/research/2026-11-01/gpt-5.6-sol-review.md",
+    "reviewed_dossier": "/opt/data/obsidian-vault/DeshChinta/research/2026-11-01/editorial-dossier-reviewed.md",
+    "reviewed_revision": "/opt/data/obsidian-vault/DeshChinta/research/2026-11-01/script-treatments-reviewed.md",
+    "reviewed_at": "2026-11-01T12:19:05+00:00",
+    "scope": "Independent desk review of supplied documents; no fresh source authentication or qualified legal review"
+  },
+  "repair_status": {
+    "updated_at": "2026-10-27T17:41:58.440759+00:00",
+    "status": "repair_completed_with_external_evidence_gaps",
+    "job_prompt_verified": true,
+    "review_complete": true,
+    "selected_reels_total": 10,
+    "competitor_content_recovered": true,
+    "all_primary_evidence_obtained": false,
+    "latest_recovery_addendum": "/opt/data/obsidian-vault/DeshChinta/research/2026-10-27-repair/evidence-recovery.md"
+  },
+  "acceptance_checklist": {
+    "requested_evaluation": {
+      "status": "COMPLETE",
+      "artifact": "/opt/data/obsidian-vault/DeshChinta/research/2026-10-27-repair/gpt-5.6-sol-review.md",
+      "session_id": "20261027_172938_1faa23",
+      "verified_model": "gpt-5.6-sol",
+      "exit_code": 0
+    },
+    "competitor_content": {
+      "status": "PARTIAL",
+      "resolved": "Extracted Bangla transcript and argument/hook analysis recovered; metadata-only limitation removed for this one video.",
+      "artifact": "/opt/data/obsidian-vault/DeshChinta/research/2026-10-27-repair/competitor/competitor-recovery.md",
+      "transcript_characters": 13186,
+      "remaining": "Caption authorship/completeness against audio and precise later timestamps unverified; only 0:00 and 4:25 anchors.",
+      "next_trigger": "Lawfully supplied timestamped captions/media, or newly accessible official caption track."
+    },
+    "crossfire_originals": {
+      "last_checked_at": "2026-10-27T17:41:58.440759+00:00",
+      "next_scheduled_check": "2026-11-01T12:00:00+00:00",
+      "status": "NOT_FOUND_PUBLICLY",
+      "resolved": "Additional reported speech quotation and Police Headquarters clarification obtained.",
+      "missing": "Unedited full speech and original dated PHQ statement.",
+      "release_impact": "Keep reported attribution; detailed legal interpretation still requires qualified review.",
+      "artifact": "/opt/data/obsidian-vault/DeshChinta/research/2026-10-27-repair/evidence-recovery.md"
+    },
+    "cpb_incident_records": {
+      "last_checked_at": "2026-10-27T17:41:58.440759+00:00",
+      "next_scheduled_check": "2026-11-01T12:00:00+00:00",
+      "status": "NOT_FOUND_PUBLICLY",
+      "resolved": "Competing contemporaneous allegation/denial reporting obtained.",
+      "missing": "Original statements, complaint/GD/FIR, authenticated footage, medical/custody records and direct accused responses.",
+      "release_impact": "RESEARCH MORE; no individual or party culpability finding.",
+      "artifact": "/opt/data/obsidian-vault/DeshChinta/research/2026-10-27-repair/evidence-recovery.md"
+    },
+    "fta_signed_tor": {
+      "last_checked_at": "2026-10-27T17:41:58.440759+00:00",
+      "next_scheduled_check": "2026-11-01T12:00:00+00:00",
+      "status": "NOT_FOUND_PUBLICLY",
+      "resolved": "Additional reported ToR signing and current primary UN status page obtained.",
+      "missing": "Signed ToR file and authenticated original ministry release.",
+      "release_impact": "Limited negotiations explainer only; no benefit forecasts.",
+      "artifact": "/opt/data/obsidian-vault/DeshChinta/research/2026-10-27-repair/evidence-recovery.md"
+    },
+    "fta_round_end_summary": {
+      "last_checked_at": "2026-10-27T17:41:58.440759+00:00",
+      "next_scheduled_check": "2026-11-01T12:00:00+00:00",
+      "status": "NOT_YET_DUE",
+      "event_end_date": "2026-10-29",
+      "next_trigger": "After scheduled October29 close, check at next scheduled November1 run; publication is not guaranteed."
+    },
+    "fta_final_agreement": {
+      "status": "NOT_YET_DUE",
+      "next_trigger": "A verified agreement/signature announcement, not the mere passage of a fixed date.",
+      "release_impact": "Not a prerequisite for reporting that negotiations began."
+    },
+    "un_graduation_status": {
+      "last_checked_at": "2026-10-27T17:41:58.440759+00:00",
+      "next_scheduled_check": "2026-11-01T12:00:00+00:00",
+      "status": "PARTIAL",
+      "resolved": "Current primary UN portal captured.",
+      "missing": "No final GA deferment decision recovered; do not infer that none exists.",
+      "artifact": "/opt/data/obsidian-vault/DeshChinta/research/2026-10-27-repair/evidence-recovery.md"
+    },
+    "final_release_review": {
+      "status": "REQUIRES_HUMAN_REVIEW",
+      "missing": "Qualified legal/trade review where needed, meaningful right of reply for culpability claims, footage rights and timed final narration."
+    }
+  },
+  "acceptance_checklist_current": {
+    "dossier_fields": {
+      "status": "COMPLETE",
+      "topics": 3
+    },
+    "source_evidence_citations": {
+      "status": "COMPLETE",
+      "dossier_verify_exit": 0,
+      "treatments_verify_exit": 0,
+      "evidence_gate": true
+    },
+    "requested_evaluation": {
+      "status": "COMPLETE",
+      "session_id": "20261101_121428_db09d3",
+      "verified_model": "gpt-5.6-sol",
+      "exit_code": 0
+    },
+    "competitor_metadata": {
+      "status": "COMPLETE",
+      "unique_entries": 30,
+      "coverage": "initial tab only"
+    },
+    "competitor_content": {
+      "status": "PARTIAL",
+      "new_content_retrieved": false,
+      "prior_partial_transcript_retained": true,
+      "next_trigger": "new video or newly accessible lawful transcript/caption"
+    },
+    "ten_total_selected_reels": {
+      "status": "COMPLETE",
+      "total": 10,
+      "distribution": {
+        "trafficking": 4,
+        "ldc": 3,
+        "wage_board": 3
+      }
+    },
+    "storage_verification": {
+      "status": "COMPLETE",
+      "artifact": "/opt/data/obsidian-vault/DeshChinta/research/2026-11-01/acceptance-checklist.md"
+    },
+    "final_release_review": {
+      "status": "REQUIRES_HUMAN_REVIEW",
+      "missing": "case-specific legal review, rights/consent, response decisions and timed final narration"
+    }
+  },
+  "run_history": [
+    {
+      "completed_at": "2026-11-01T12:19:05+00:00",
+      "status": "complete_with_external_evidence_gaps",
+      "topics": [
+        "bd-2026-10-26-russia-war-recruitment-trafficking-un-report",
+        "bd-2026-10-29-ldc-graduation-extension-2029",
+        "bd-2026-11-01-rmg-wage-board-formed"
+      ],
+      "dossier": "/opt/data/obsidian-vault/DeshChinta/research/2026-11-01/editorial-dossier-reviewed.md",
+      "treatments": "/opt/data/obsidian-vault/DeshChinta/research/2026-11-01/script-treatments-reviewed.md",
+      "review_session": "20261101_121428_db09d3"
+    }
+  ]
+}

@@ -2,7 +2,7 @@
 type: open-loops
 project: ""
 status: active
-last_updated: 2026-10-17
+last_updated: 2026-11-07
 confidence: medium
 ---
 
@@ -18,6 +18,7 @@ confidence: medium
 - TODO complete a bounded aging/AD feasibility audit and record a commit/no-go; do not silently replace the SCZ-centered design.
 - TODO select an estimand-matched metric and go/no-go threshold; energy distance and the prior ≥10% rule remain provisional.
 - TODO run the first simple baselines and context-value ablation before any GNN/transformer development.
+- TODO incorporate independent-unit/clone-aware splits, mean-conditioned uncertainty checks, and data-unification comparators into the future benchmark; do not expand architecture first.
 - ? UNCERTAIN decide whether the canonical program remains SCZ-centered or adopts aging/AD as the organizing NIA question.
 
 ## Hermes / Obsidian
@@ -25,16 +26,17 @@ confidence: medium
 - TODO decide official dashboard vs Hermes Workspace.
 - TODO validate final routing YAML against installed Hermes version.
 - TODO verify no direct public Hermes port remains.
-- TODO Verify the October 17 weekly Git backup completed and that `origin/main` advanced beyond `5caf369`; the latest verified remote backup is October 10 while newer vault content exists.
-- TODO Reauthorize Google Calendar OAuth and verify that one Morning Brief can retrieve calendar events; runs from October 13–16 reported the token expired or revoked.
-- TODO Diagnose missing web/vault tools and repeated-search loops in scheduled jobs; verify the cron execution profile exposes required tools and add fail-fast fallback behavior. NIA Funding Radar remained incomplete on October 12 and 16, and Bangladesh scanner runs hit `loop_web_search_cap` on October 13–16.
+- TODO Verify the next weekly Git backup captures vault changes made after October 17.
+- TODO Reauthorize Google Calendar OAuth and verify that one Morning Brief can retrieve calendar events; runs through October 23 reported the token expired or revoked.
+- TODO Diagnose per-cron missing web/vault tools and repeated-search loops; verify each execution profile exposes the required tools and add fail-fast fallback behavior. NIA Funding Radar remained incomplete through October 23; AIVC literature jobs could append but not directly read/search the vault; Bangladesh scanner runs hit `loop_web_search_cap` on October 13–16.
 - ? UNCERTAIN confirm whether `Morning Brief` should stay fixed at 12:00 UTC (8:00 AM EDT / 7:00 AM EST) or run at one local America/Atlanta time year-round.
 
 ## Career / faculty jobs
 
 - ⚠️ VERIFY Brown after its October 15 full-consideration target; check the live portal, deadline year, and whether late applications remain worthwhile before investing effort.
-- TODO Triage Harvard/DFCI before the October 31 deadline, Columbia and Washington before their November 1 priority dates, and Penn before November 23; verify every portal immediately before investing in an application.
-- TODO Triage Johns Hopkins Computational Biology before its November 8 full-consideration date, UC Berkeley EECS/CCB `JPF05560` before November 9, UC Berkeley Computational Biomedicine `JPF05568` before November 18, and Yale Computational/Theoretical Neuroscience before its November 30 priority date; verify every portal immediately before investing in an application.
+- ⚠️ VERIFY Harvard/DFCI, Columbia and Washington: their October 31/November 1 priority or submission dates have passed; check each live portal before any late-cycle dossier work.
+- TODO Triage University of Michigan Human Genetics (Nov 13 full consideration), NYU Biology (Nov 15 final), Johns Hopkins Computational Biology (Nov 8 full consideration), UC Berkeley EECS/CCB `JPF05560` (Nov 9 final), UC Berkeley Computational Biomedicine `JPF05568` (Nov 18 final), and Yale Computational/Theoretical Neuroscience (Nov 30 priority); verify every portal immediately before investing in an application.
+- TODO Triage Washington University Genetics (Dec 1 full consideration), MIT Biological Engineering + IDSS (Dec 15), Vanderbilt Connected Computing (Dec 1 full consideration), USC Quantitative and Computational Biology (review begins Jan 1, 2027), and VCU Biomedical AI (review underway); audit ECE eligibility, candidate-owned methods/genetics contribution and faculty readiness before dossier work.
 - TODO Verify Yale BIDS's deadline and exact tenure-track appointment; the opportunity is officially listed open, but an official deadline was not recovered.
 - ⚠️ VERIFY whether UCI is still accepting applications before its conditional October 31 final-acceptance date.
 - TODO Audit representative papers and completed GeneBridge work for one independently explainable, generalizable computational-method contribution before investing in CMU, Duke, Berkeley, BU, or Indiana applications.
@@ -42,7 +44,7 @@ confidence: medium
 
 ## Funding
 
-- TODO Rerun the NIA K99 funding check against official sources; the October 5, 9, 12, and 16 scheduled checks were incomplete because web and/or vault tools were unavailable. Treat eligibility and deadline changes as unverified, not absent.
+- TODO Rerun the NIA K99 funding check against official sources; scheduled checks remained incomplete through October 23 because web and/or vault tools were unavailable. Treat eligibility and deadline changes as unverified, not absent.
 
 ## Reel Factory
 - TODO stabilize config/orchestrator.

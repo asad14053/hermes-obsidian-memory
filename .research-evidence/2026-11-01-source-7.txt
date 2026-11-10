@@ -1,0 +1,3 @@
+DeepSeek has released a prototype of a more autonomous coding agent as it seeks to challenge Anthropic PBC’s popular Claude Code.
+
+The new open-source offering, dubbed “Super-Agent,” can proactively monitor group chats among developers for feedback on coding issues and suggest solutions without being summoned, the DeepSeek Harness team said in a post on WeChat on Saturday.

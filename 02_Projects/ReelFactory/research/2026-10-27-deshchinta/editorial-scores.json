@@ -1,0 +1,46 @@
+{
+  "evaluator": "current session gpt-6-astra-900k; not GPT-5.6 sol",
+  "weights": {
+    "public_interest": 0.25,
+    "timeliness": 0.2,
+    "evidence": 0.2,
+    "novelty": 0.1,
+    "channel_fit": 0.1,
+    "reel_potential": 0.15
+  },
+  "scores": [
+    {
+      "topic": "crossfire",
+      "public_interest": 10,
+      "timeliness": 10,
+      "evidence": 7,
+      "novelty": 9,
+      "channel_fit": 9,
+      "reel_potential": 9,
+      "viral": 9,
+      "weighted_score": 9.05
+    },
+    {
+      "topic": "cpb-office",
+      "public_interest": 9,
+      "timeliness": 10,
+      "evidence": 5,
+      "novelty": 9,
+      "channel_fit": 9,
+      "reel_potential": 8,
+      "viral": 8,
+      "weighted_score": 8.25
+    },
+    {
+      "topic": "malaysia-fta",
+      "public_interest": 8,
+      "timeliness": 9,
+      "evidence": 7,
+      "novelty": 9,
+      "channel_fit": 8,
+      "reel_potential": 9,
+      "viral": 7,
+      "weighted_score": 8.25
+    }
+  ]
+}

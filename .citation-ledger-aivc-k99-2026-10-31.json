@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "sources": [
+    {
+      "id": 1,
+      "url": "file:///opt/data/obsidian-vault/02_Projects/AIVC/literature/2026-10-30-literature-radar.md",
+      "title": "AIVC Literature Radar — 2026-10-30",
+      "accessed": "2026-10-31"
+    },
+    {
+      "id": 2,
+      "url": "file:///opt/data/obsidian-vault/02_Projects/AIVC/literature/important-literature.md",
+      "title": "AIVC Important Literature",
+      "accessed": "2026-10-31"
+    },
+    {
+      "id": 3,
+      "url": "file:///opt/data/obsidian-vault/Hermes/Conversations/2026-10-30/cron_b006ab3b7fec_20261030_130026.md",
+      "title": "NIA K99 Funding Radar — 2026-10-30 conversation",
+      "accessed": "2026-10-31"
+    }
+  ]
+}
